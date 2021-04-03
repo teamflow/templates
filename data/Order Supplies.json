@@ -1,0 +1,1507 @@
+{
+  "id": "155be8db-46ab-447a-af4c-d9682945471a",
+  "name": "Order Supplies",
+  "type": "process",
+  "model": {
+    "id": "981265c3-bc3f-4c48-acac-6d00e80d8b48",
+    "offsetX": 0,
+    "offsetY": 0,
+    "zoom": 100,
+    "gridSize": 100,
+    "links": [
+      {
+        "id": "341586cf-a5f0-46ff-83e6-bd2855b4ad3a",
+        "type": "default",
+        "selected": false,
+        "source": "d23b5280-5e9e-48b6-8905-5a449802f3fd",
+        "sourcePort": "07545c38-afa9-4a2c-85db-14b1795f6695",
+        "target": "25f5b872-ffcf-4a02-87ce-9c069a0378a9",
+        "targetPort": "42bcd6ac-b734-4db2-8d4e-5b6638ee24d8",
+        "points": [
+          {
+            "id": "05c64e2a-58d3-4178-af0c-fe46b4f651c6",
+            "selected": false,
+            "x": 451,
+            "y": 69
+          },
+          {
+            "id": "43b4d202-fd92-40ed-9336-d297ca7c8712",
+            "selected": false,
+            "x": 451,
+            "y": 120
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "d752b240-113e-4cd1-a593-93ebb4460c21",
+        "type": "default",
+        "selected": false,
+        "source": "25f5b872-ffcf-4a02-87ce-9c069a0378a9",
+        "sourcePort": "95eb3c29-ad93-4683-8a79-1253c1d423dc",
+        "target": "27105e75-30e2-4c77-abaf-be22b8b5e53b",
+        "targetPort": "1622e783-767f-4366-95a8-884687e1f8c7",
+        "points": [
+          {
+            "id": "d4e7b04a-8eb4-41ee-b4ad-0304dd607351",
+            "selected": false,
+            "x": 451,
+            "y": 175
+          },
+          {
+            "id": "36accea1-9441-49fc-abab-f15f94159955",
+            "selected": false,
+            "x": 351,
+            "y": 226
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "6455be08-e4ec-463b-afa4-f52fe2347f44",
+        "type": "default",
+        "selected": false,
+        "source": "27105e75-30e2-4c77-abaf-be22b8b5e53b",
+        "sourcePort": "86cff988-3556-4faf-b13a-13136fdd3483",
+        "target": "eb628406-1b29-4db5-b591-3f2098edf7e5",
+        "targetPort": "074a82c1-f9d0-4f27-a0d2-ad502e12dbea",
+        "points": [
+          {
+            "id": "17984e5e-f845-4e52-8b46-5fe3560fa59f",
+            "selected": false,
+            "x": 351,
+            "y": 269
+          },
+          {
+            "id": "b334866a-1553-4a4e-a99a-e987e9560ae0",
+            "selected": true,
+            "x": 351,
+            "y": 320
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "1ae78516-646a-4e7d-861f-5dd238ffa274",
+        "type": "default",
+        "selected": false,
+        "source": "05f29b1c-d5b2-4e48-ad67-90b891af713b",
+        "sourcePort": "0d7c8ecc-71e3-45e6-aa6d-9d2548eb6158",
+        "target": "3b817895-78dc-4d95-9eba-4ed837d77a14",
+        "targetPort": "86f44a7a-3273-4cf2-a6fc-ccb01970d567",
+        "points": [
+          {
+            "id": "d872f00e-51ce-4f4e-b4a7-23a752f895b0",
+            "selected": false,
+            "x": 251,
+            "y": 669
+          },
+          {
+            "id": "7dcfd045-1784-4a06-895f-61cef1a46f84",
+            "selected": false,
+            "x": 251,
+            "y": 724
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "646ab067-573c-49b7-9dd8-6709ec0650f4",
+        "type": "default",
+        "selected": false,
+        "source": "3b817895-78dc-4d95-9eba-4ed837d77a14",
+        "sourcePort": "a9f800d0-aa8c-4c42-a9ef-f5fa0e36741b",
+        "target": "bd642e6e-1c8e-48df-9a2a-a800d7fae752",
+        "targetPort": "9fee16e8-6783-4e02-913f-608260f58c41",
+        "points": [
+          {
+            "id": "8b5d4a12-1a50-439f-a773-6f3446dd294f",
+            "selected": false,
+            "x": 251,
+            "y": 773
+          },
+          {
+            "id": "9b767247-2531-4643-ac1f-51f890b08d00",
+            "selected": false,
+            "x": 151,
+            "y": 826
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "008e21ce-67ee-4cb2-a8b6-a6831da2fc99",
+        "type": "default",
+        "selected": false,
+        "source": "eb628406-1b29-4db5-b591-3f2098edf7e5",
+        "sourcePort": "4a8af9b1-048a-43e3-bc1f-3d9beba36658",
+        "target": "d23b5280-5e9e-48b6-8905-5a449802f3fd",
+        "targetPort": "86b36939-ef4f-4a43-bcae-887eb2d6b8f7",
+        "points": [
+          {
+            "id": "048b7f8a-7627-46cd-9417-c3efb7d84b4c",
+            "selected": false,
+            "x": 375,
+            "y": 351
+          },
+          {
+            "id": "f450afb7-8b4d-43bf-a47f-877a9b2297aa",
+            "selected": false,
+            "x": 451,
+            "y": 26
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "0d84b93e-667c-4070-8e85-21ea69fb6535",
+        "type": "default",
+        "selected": false,
+        "source": "eb628406-1b29-4db5-b591-3f2098edf7e5",
+        "sourcePort": "649059ba-ac51-4d10-95ed-79a4fffc9164",
+        "target": "c5f8c9f9-0238-4571-ad7e-3c4849662710",
+        "targetPort": "00673344-27c1-4135-8820-c8f75edbbccb",
+        "points": [
+          {
+            "id": "e8ac9db9-2c86-45f3-b3c7-d5fa8e2d7a97",
+            "selected": false,
+            "x": 351,
+            "y": 377
+          },
+          {
+            "id": "0675dd6b-f6a2-4e1f-8632-0b7725302f69",
+            "selected": false,
+            "x": 351,
+            "y": 426
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "7e6e672d-57b5-45d5-b847-87bc18c3558b",
+        "type": "default",
+        "selected": false,
+        "source": "bd642e6e-1c8e-48df-9a2a-a800d7fae752",
+        "sourcePort": "d6255255-24fe-4a97-9f26-d1926a5cc039",
+        "target": "c3fa908f-c64d-4e36-ae47-2bec71361dc9",
+        "targetPort": "4e78ad6d-8858-4aa6-a0f2-de21a5e4d39c",
+        "points": [
+          {
+            "id": "d2251d91-5da1-457f-948f-2b2d471dc1ce",
+            "selected": false,
+            "x": 151,
+            "y": 869
+          },
+          {
+            "id": "2db6a962-b879-4706-a099-c1f230c0e0a2",
+            "selected": true,
+            "x": 151,
+            "y": 924
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "fcd0fa29-8005-4b5f-a118-8736808110de",
+        "type": "default",
+        "selected": false,
+        "source": "c3fa908f-c64d-4e36-ae47-2bec71361dc9",
+        "sourcePort": "20d6ec46-00eb-439c-81d2-84a3f74f178d",
+        "target": "b4f6cb02-dacc-4f5c-8c2a-3c0bbf57081a",
+        "targetPort": "3dbc562c-f7d0-4543-aafd-255a0739cbdc",
+        "points": [
+          {
+            "id": "fff144e2-0ca2-43ea-8e12-8e721a89b734",
+            "selected": false,
+            "x": 151,
+            "y": 973
+          },
+          {
+            "id": "7f701e14-8faf-4387-81e7-8c0776abfb03",
+            "selected": true,
+            "x": 451,
+            "y": 1026
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "7932ed78-ffb4-455f-929c-f5e739f238f8",
+        "type": "default",
+        "selected": false,
+        "source": "c5f8c9f9-0238-4571-ad7e-3c4849662710",
+        "sourcePort": "4af25255-a053-49f3-9f8c-75a08aa9d917",
+        "target": "a78190d0-cd37-4ba1-ba18-e4f87318c754",
+        "targetPort": "f97bcf30-7e55-4e8b-ae6a-4aa3b8517d02",
+        "points": [
+          {
+            "id": "88e79fca-8990-47bc-b42d-04acee26f944",
+            "selected": false,
+            "x": 351,
+            "y": 469
+          },
+          {
+            "id": "a80caf58-494c-45f6-964b-34d2fcd329a6",
+            "selected": true,
+            "x": 351,
+            "y": 520
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "d382bc5d-6a93-47e0-934b-8ddf30e166e7",
+        "type": "default",
+        "selected": false,
+        "source": "a78190d0-cd37-4ba1-ba18-e4f87318c754",
+        "sourcePort": "b46b1a7f-0e8e-4aab-b659-3391b364f9db",
+        "target": "05f29b1c-d5b2-4e48-ad67-90b891af713b",
+        "targetPort": "b5295c8b-3288-4b1c-9721-b44ec4980589",
+        "points": [
+          {
+            "id": "dba9b912-0a71-4fe9-aa32-a0a115b06d09",
+            "selected": false,
+            "x": 351,
+            "y": 575
+          },
+          {
+            "id": "646dbb89-a34b-40b0-a433-23d9f95526e8",
+            "selected": false,
+            "x": 251,
+            "y": 626
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "c4b98275-a334-4743-8382-b76d39f2746c",
+        "type": "default",
+        "selected": false,
+        "source": "b4f6cb02-dacc-4f5c-8c2a-3c0bbf57081a",
+        "sourcePort": "5818fea4-47e8-4abd-aee7-b898b378115e",
+        "target": "7eebd659-2018-4a15-9283-8af15c391137",
+        "targetPort": "f48a1c96-6469-4fa6-947c-7942c4790975",
+        "points": [
+          {
+            "id": "f7700daa-ba60-4193-af06-d3b1f7f17f53",
+            "selected": false,
+            "x": 451,
+            "y": 1069
+          },
+          {
+            "id": "d5a0473d-218b-4be2-9a64-623986f89dbb",
+            "selected": true,
+            "x": 451,
+            "y": 1126
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      }
+    ],
+    "nodes": [
+      {
+        "id": "d23b5280-5e9e-48b6-8905-5a449802f3fd",
+        "type": "task",
+        "selected": false,
+        "x": 400,
+        "y": 0,
+        "extras": {},
+        "ports": [
+          {
+            "id": "86b36939-ef4f-4a43-bcae-887eb2d6b8f7",
+            "type": "default",
+            "selected": false,
+            "name": "deb5b052-5032-4ea1-b520-550fdb1cf516",
+            "parentNode": "d23b5280-5e9e-48b6-8905-5a449802f3fd",
+            "links": [
+              "008e21ce-67ee-4cb2-a8b6-a6831da2fc99"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "07545c38-afa9-4a2c-85db-14b1795f6695",
+            "type": "default",
+            "selected": false,
+            "name": "3c6f8b8e-72fa-4164-86fb-85625b7385b3",
+            "parentNode": "d23b5280-5e9e-48b6-8905-5a449802f3fd",
+            "links": [
+              "341586cf-a5f0-46ff-83e6-bd2855b4ad3a"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Submit order to purchasing dept.",
+          "description": "Using the correct supply form, fill out the details and send the order via email to the Purchasing Department.",
+          "link": "",
+          "ownerId": "fc333443-1749-4d27-bf48-062ee0487062",
+          "assigned": [],
+          "duration": 0.5,
+          "durationUnit": "hours",
+          "costBudget": "50",
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 400,
+        "prevY": 0
+      },
+      {
+        "id": "25f5b872-ffcf-4a02-87ce-9c069a0378a9",
+        "type": "report",
+        "selected": false,
+        "x": 400,
+        "y": 100,
+        "extras": {},
+        "ports": [
+          {
+            "id": "42bcd6ac-b734-4db2-8d4e-5b6638ee24d8",
+            "type": "default",
+            "selected": false,
+            "name": "916aa2c8-8fd8-483c-9a5d-bd0c643a6396",
+            "parentNode": "25f5b872-ffcf-4a02-87ce-9c069a0378a9",
+            "links": [
+              "341586cf-a5f0-46ff-83e6-bd2855b4ad3a"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "95eb3c29-ad93-4683-8a79-1253c1d423dc",
+            "type": "default",
+            "selected": false,
+            "name": "e66112b0-5c65-4ef9-8e85-5ce7418d6fdb",
+            "parentNode": "25f5b872-ffcf-4a02-87ce-9c069a0378a9",
+            "links": [
+              "d752b240-113e-4cd1-a593-93ebb4460c21"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Report",
+        "data": {
+          "title": "Supply order",
+          "description": "Here is the completed supply form, please look at the Docs section of this node to find the link to download.",
+          "link": "",
+          "ownerId": "fc333443-1749-4d27-bf48-062ee0487062",
+          "assigned": [],
+          "docs": [
+            "https://docs.example.com/uploads/my-document.pdf"
+          ]
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 400,
+        "prevY": 100
+      },
+      {
+        "id": "27105e75-30e2-4c77-abaf-be22b8b5e53b",
+        "type": "meeting",
+        "selected": false,
+        "x": 300,
+        "y": 200,
+        "extras": {},
+        "ports": [
+          {
+            "id": "1622e783-767f-4366-95a8-884687e1f8c7",
+            "type": "default",
+            "selected": false,
+            "name": "1309e145-de20-4bb4-945b-c1d24620690b",
+            "parentNode": "27105e75-30e2-4c77-abaf-be22b8b5e53b",
+            "links": [
+              "d752b240-113e-4cd1-a593-93ebb4460c21"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "86cff988-3556-4faf-b13a-13136fdd3483",
+            "type": "default",
+            "selected": false,
+            "name": "ad876088-e6c6-4786-9ad6-14b917619c9d",
+            "parentNode": "27105e75-30e2-4c77-abaf-be22b8b5e53b",
+            "links": [
+              "6455be08-e4ec-463b-afa4-f52fe2347f44"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Meeting",
+        "data": {
+          "title": "Review supply order",
+          "description": "Meeting between the Purchasing Department and the Manufacturing Department to go over the details on the supply order.",
+          "link": "",
+          "ownerId": "124fabc3-1d24-4d32-81af-32aaca04603a",
+          "assigned": [
+            "fc333443-1749-4d27-bf48-062ee0487062"
+          ],
+          "costBudget": "250.00",
+          "duration": 1,
+          "durationUnit": "hours",
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 200,
+        "prevY": 200
+      },
+      {
+        "id": "eb628406-1b29-4db5-b591-3f2098edf7e5",
+        "type": "decision",
+        "selected": false,
+        "x": 300,
+        "y": 300,
+        "extras": {},
+        "ports": [
+          {
+            "id": "074a82c1-f9d0-4f27-a0d2-ad502e12dbea",
+            "type": "default",
+            "selected": false,
+            "name": "e00002ab-ab3d-4127-acce-019cf8ec0cce",
+            "parentNode": "eb628406-1b29-4db5-b591-3f2098edf7e5",
+            "links": [
+              "6455be08-e4ec-463b-afa4-f52fe2347f44"
+            ],
+            "in": true,
+            "label": "e00002ab-ab3d-4127-acce-019cf8ec0cce"
+          },
+          {
+            "id": "649059ba-ac51-4d10-95ed-79a4fffc9164",
+            "type": "default",
+            "selected": false,
+            "name": "83ba6a51-b568-4961-8b91-2f589893638a",
+            "parentNode": "eb628406-1b29-4db5-b591-3f2098edf7e5",
+            "links": [
+              "0d84b93e-667c-4070-8e85-21ea69fb6535"
+            ],
+            "in": false,
+            "label": "Yes"
+          },
+          {
+            "id": "4a8af9b1-048a-43e3-bc1f-3d9beba36658",
+            "type": "default",
+            "selected": false,
+            "name": "82fe0ff2-66c0-4fc8-93fa-61d543a7b9d9",
+            "parentNode": "eb628406-1b29-4db5-b591-3f2098edf7e5",
+            "links": [
+              "008e21ce-67ee-4cb2-a8b6-a6831da2fc99"
+            ],
+            "in": false,
+            "label": "No"
+          },
+          {
+            "id": "ddaf79ee-2694-4ad7-8e53-864f17f37d03",
+            "type": "default",
+            "selected": false,
+            "name": "3ac00d78-39b9-425b-a9e6-106cdd3182d5",
+            "parentNode": "eb628406-1b29-4db5-b591-3f2098edf7e5",
+            "links": [],
+            "in": false,
+            "label": "Maybe"
+          }
+        ],
+        "name": "Decision",
+        "data": {
+          "title": "Order supplies?",
+          "description": "The Purchasing Department will make a decision based on the details on the form as to whether it is ready for purchase. If it is they will submit the order to the supplier. If not they will send it back to the Manufacturing Department.",
+          "link": "",
+          "ownerId": "124fabc3-1d24-4d32-81af-32aaca04603a",
+          "assigned": []
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 200,
+        "prevY": 300
+      },
+      {
+        "id": "c5f8c9f9-0238-4571-ad7e-3c4849662710",
+        "type": "task",
+        "selected": false,
+        "x": 300,
+        "y": 400,
+        "extras": {},
+        "ports": [
+          {
+            "id": "00673344-27c1-4135-8820-c8f75edbbccb",
+            "type": "default",
+            "selected": false,
+            "name": "d2c979ff-7f54-424c-a941-85c7974192e5",
+            "parentNode": "c5f8c9f9-0238-4571-ad7e-3c4849662710",
+            "links": [
+              "0d84b93e-667c-4070-8e85-21ea69fb6535"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "4af25255-a053-49f3-9f8c-75a08aa9d917",
+            "type": "default",
+            "selected": false,
+            "name": "d9783728-2a74-4401-aed3-4a5ad79dfbf6",
+            "parentNode": "c5f8c9f9-0238-4571-ad7e-3c4849662710",
+            "links": [
+              "7932ed78-ffb4-455f-929c-f5e739f238f8"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Submit order to supplier",
+          "description": "Sending the finished supply order to the Supplier.",
+          "link": "",
+          "ownerId": "124fabc3-1d24-4d32-81af-32aaca04603a",
+          "assigned": [],
+          "duration": 0.5,
+          "durationUnit": "hours",
+          "costBudget": "75",
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 200,
+        "prevY": 400
+      },
+      {
+        "id": "a78190d0-cd37-4ba1-ba18-e4f87318c754",
+        "type": "report",
+        "selected": false,
+        "x": 300,
+        "y": 500,
+        "extras": {},
+        "ports": [
+          {
+            "id": "f97bcf30-7e55-4e8b-ae6a-4aa3b8517d02",
+            "type": "default",
+            "selected": false,
+            "name": "802ef187-e9a1-4f5f-8d8f-ffc4522db381",
+            "parentNode": "a78190d0-cd37-4ba1-ba18-e4f87318c754",
+            "links": [
+              "7932ed78-ffb4-455f-929c-f5e739f238f8"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "b46b1a7f-0e8e-4aab-b659-3391b364f9db",
+            "type": "default",
+            "selected": false,
+            "name": "29f0caf9-3bfb-4f54-b103-32da9ab0be86",
+            "parentNode": "a78190d0-cd37-4ba1-ba18-e4f87318c754",
+            "links": [
+              "d382bc5d-6a93-47e0-934b-8ddf30e166e7"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Report",
+        "data": {
+          "title": "Supply order",
+          "description": "Here is the completed supply form that is prepared to be sent to the Supplier. Please look at the Docs section of this node to find the link to download.",
+          "link": "",
+          "ownerId": "124fabc3-1d24-4d32-81af-32aaca04603a",
+          "assigned": [],
+          "docs": [
+            "https://docs.example.com/uploads/my-document.pdf"
+          ]
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 200,
+        "prevY": 500
+      },
+      {
+        "id": "05f29b1c-d5b2-4e48-ad67-90b891af713b",
+        "type": "task",
+        "selected": false,
+        "x": 200,
+        "y": 600,
+        "extras": {},
+        "ports": [
+          {
+            "id": "b5295c8b-3288-4b1c-9721-b44ec4980589",
+            "type": "default",
+            "selected": false,
+            "name": "64530748-4f4f-497a-b739-ed1bdbb0bd8b",
+            "parentNode": "05f29b1c-d5b2-4e48-ad67-90b891af713b",
+            "links": [
+              "d382bc5d-6a93-47e0-934b-8ddf30e166e7"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "0d7c8ecc-71e3-45e6-aa6d-9d2548eb6158",
+            "type": "default",
+            "selected": false,
+            "name": "c3285e39-a5e3-4be1-86b6-e1522c0ae73a",
+            "parentNode": "05f29b1c-d5b2-4e48-ad67-90b891af713b",
+            "links": [
+              "1ae78516-646a-4e7d-861f-5dd238ffa274"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Fulfill order",
+          "description": "The supplier begins to fulfill the order.",
+          "link": "",
+          "ownerId": "0d2174d1-111a-4352-b4cb-fd31ed46c43a",
+          "assigned": [],
+          "duration": 1,
+          "durationUnit": "days",
+          "costBudget": "200",
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 100,
+        "prevY": 400
+      },
+      {
+        "id": "3b817895-78dc-4d95-9eba-4ed837d77a14",
+        "type": "object",
+        "selected": false,
+        "x": 200,
+        "y": 700,
+        "extras": {},
+        "ports": [
+          {
+            "id": "86f44a7a-3273-4cf2-a6fc-ccb01970d567",
+            "type": "default",
+            "selected": false,
+            "name": "1a92d4bc-899c-4d25-8c91-8477c1efe522",
+            "parentNode": "3b817895-78dc-4d95-9eba-4ed837d77a14",
+            "links": [
+              "1ae78516-646a-4e7d-861f-5dd238ffa274"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "a9f800d0-aa8c-4c42-a9ef-f5fa0e36741b",
+            "type": "default",
+            "selected": false,
+            "name": "2561e691-de73-44d1-b602-7f21651e3bd8",
+            "parentNode": "3b817895-78dc-4d95-9eba-4ed837d77a14",
+            "links": [
+              "646ab067-573c-49b7-9dd8-6709ec0650f4"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Object",
+        "data": {
+          "title": "Supplies",
+          "description": "These are the supplies that were ordered in the supply form.",
+          "link": "",
+          "ownerId": "0d2174d1-111a-4352-b4cb-fd31ed46c43a",
+          "assigned": [],
+          "costBudget": ""
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 100,
+        "prevY": 500
+      },
+      {
+        "id": "bd642e6e-1c8e-48df-9a2a-a800d7fae752",
+        "type": "task",
+        "selected": false,
+        "x": 100,
+        "y": 800,
+        "extras": {},
+        "ports": [
+          {
+            "id": "9fee16e8-6783-4e02-913f-608260f58c41",
+            "type": "default",
+            "selected": false,
+            "name": "32220192-35ad-4ab0-ab69-57478e72b998",
+            "parentNode": "bd642e6e-1c8e-48df-9a2a-a800d7fae752",
+            "links": [
+              "646ab067-573c-49b7-9dd8-6709ec0650f4"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "d6255255-24fe-4a97-9f26-d1926a5cc039",
+            "type": "default",
+            "selected": false,
+            "name": "89c654e6-6a3c-4939-a1e3-fa594334e938",
+            "parentNode": "bd642e6e-1c8e-48df-9a2a-a800d7fae752",
+            "links": [
+              "7e6e672d-57b5-45d5-b847-87bc18c3558b"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Deliver supplies",
+          "description": "The delivery service will pick up the supplies from the supplier and deliver them to their destination.",
+          "link": "",
+          "ownerId": "48050406-bf39-4b0f-8ae8-a6ac36d14f09",
+          "assigned": [],
+          "costBudget": "500",
+          "duration": 2,
+          "durationUnit": "days",
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 300,
+        "prevY": 600
+      },
+      {
+        "id": "c3fa908f-c64d-4e36-ae47-2bec71361dc9",
+        "type": "object",
+        "selected": false,
+        "x": 100,
+        "y": 900,
+        "extras": {},
+        "ports": [
+          {
+            "id": "4e78ad6d-8858-4aa6-a0f2-de21a5e4d39c",
+            "type": "default",
+            "selected": false,
+            "name": "e58b664e-440d-4925-b15e-b42cf9baf330",
+            "parentNode": "c3fa908f-c64d-4e36-ae47-2bec71361dc9",
+            "links": [
+              "7e6e672d-57b5-45d5-b847-87bc18c3558b"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "20d6ec46-00eb-439c-81d2-84a3f74f178d",
+            "type": "default",
+            "selected": false,
+            "name": "7ddfd013-7fc5-4e57-8065-73f02b2fbac2",
+            "parentNode": "c3fa908f-c64d-4e36-ae47-2bec71361dc9",
+            "links": [
+              "fcd0fa29-8005-4b5f-a118-8736808110de"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Object",
+        "data": {
+          "title": "Delivered supplies",
+          "description": "These are the delivered supplies that have been successfully delivered to their destination.",
+          "link": "",
+          "ownerId": "48050406-bf39-4b0f-8ae8-a6ac36d14f09",
+          "assigned": []
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 300,
+        "prevY": 800
+      },
+      {
+        "id": "b4f6cb02-dacc-4f5c-8c2a-3c0bbf57081a",
+        "type": "task",
+        "selected": false,
+        "x": 400,
+        "y": 1000,
+        "extras": {},
+        "ports": [
+          {
+            "id": "3dbc562c-f7d0-4543-aafd-255a0739cbdc",
+            "type": "default",
+            "selected": false,
+            "name": "2cc2cd49-fdbe-44ac-86da-8410bf500d1b",
+            "parentNode": "b4f6cb02-dacc-4f5c-8c2a-3c0bbf57081a",
+            "links": [
+              "fcd0fa29-8005-4b5f-a118-8736808110de"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "5818fea4-47e8-4abd-aee7-b898b378115e",
+            "type": "default",
+            "selected": false,
+            "name": "dea3faaf-d584-429e-9d31-0737061aa7be",
+            "parentNode": "b4f6cb02-dacc-4f5c-8c2a-3c0bbf57081a",
+            "links": [
+              "c4b98275-a334-4743-8382-b76d39f2746c"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Receive supplies",
+          "description": "- Supply Order\n- Delivered supplies\n- Verify supplies match the supply order\n- Signed Receipt",
+          "link": "",
+          "ownerId": "fc333443-1749-4d27-bf48-062ee0487062",
+          "assigned": [],
+          "duration": 1,
+          "durationUnit": "hours",
+          "costBudget": 100,
+          "costCurrency": "$",
+          "completion": 0,
+          "status": "Todo",
+          "costActual": 0,
+          "durationActual": 0
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "diagram": {
+          "id": "3dcc9f2f-c9a9-4ba2-8b09-61613dd10525",
+          "name": "Receive supplies",
+          "type": "process",
+          "model": {
+            "id": "66d83195-653f-43c8-b8d0-a537ad4c8182",
+            "offsetX": 0,
+            "offsetY": -1,
+            "zoom": 100,
+            "gridSize": 100,
+            "links": [
+              {
+                "id": "94851da5-26ac-47ae-878d-a113ca844c26",
+                "type": "default",
+                "selected": false,
+                "source": "a3dbd31a-e7ea-4136-9510-c67207ccc3e2",
+                "sourcePort": "5b9a434d-7c65-42bd-b69c-64f3eec9fbd7",
+                "target": "0ba4143a-aeeb-4276-9f15-8b7401f51db2",
+                "targetPort": "dbc32a50-82b2-47fd-9c4c-f6138a13bc2e",
+                "points": [
+                  {
+                    "id": "35955b5a-1a10-48a9-8471-e5bd5a5d7f59",
+                    "selected": false,
+                    "x": 151,
+                    "y": 173
+                  },
+                  {
+                    "id": "be9c67f2-a3f4-48ef-8473-28044ee37b37",
+                    "selected": false,
+                    "x": 451,
+                    "y": 226
+                  }
+                ],
+                "extras": {},
+                "labels": [],
+                "width": 1.5,
+                "color": "rgba(69,71,73,1.0)",
+                "curvyness": 0
+              },
+              {
+                "id": "e4379492-974d-48d5-8a49-77e55acb0a64",
+                "type": "default",
+                "selected": false,
+                "source": "3cc8ab1d-6e60-445c-96a9-193474e91e5f",
+                "sourcePort": "936f55ff-4c94-40fd-a130-b529f0a28307",
+                "target": "0ba4143a-aeeb-4276-9f15-8b7401f51db2",
+                "targetPort": "dbc32a50-82b2-47fd-9c4c-f6138a13bc2e",
+                "points": [
+                  {
+                    "id": "d4de49dd-3e74-49cd-bdef-f768ab0a1a9b",
+                    "selected": false,
+                    "x": 451,
+                    "y": 75
+                  },
+                  {
+                    "id": "de165b16-e217-407a-b122-84e7071ab933",
+                    "selected": true,
+                    "x": 451,
+                    "y": 226
+                  }
+                ],
+                "extras": {},
+                "labels": [],
+                "width": 1.5,
+                "color": "rgba(69,71,73,1.0)",
+                "curvyness": 0
+              },
+              {
+                "id": "03eac1aa-5105-4986-b7c4-d037dbca5f69",
+                "type": "default",
+                "selected": false,
+                "source": "0ba4143a-aeeb-4276-9f15-8b7401f51db2",
+                "sourcePort": "0ef6b8b0-d621-4287-8dc6-15f0dc3955a5",
+                "target": "ac58200e-b332-44c6-80d3-f85ab8d2a886",
+                "targetPort": "71d856d8-97c2-486f-988f-808252943653",
+                "points": [
+                  {
+                    "id": "45546511-8dc2-4e70-a84c-10a27f7a0b08",
+                    "selected": false,
+                    "x": 451,
+                    "y": 269
+                  },
+                  {
+                    "id": "38788b07-1d45-4c84-a6ce-05d5cde84bc6",
+                    "selected": true,
+                    "x": 451,
+                    "y": 320
+                  }
+                ],
+                "extras": {},
+                "labels": [],
+                "width": 1.5,
+                "color": "rgba(69,71,73,1.0)",
+                "curvyness": 0
+              }
+            ],
+            "nodes": [
+              {
+                "id": "3cc8ab1d-6e60-445c-96a9-193474e91e5f",
+                "type": "report",
+                "selected": false,
+                "x": 400,
+                "y": 0,
+                "extras": {},
+                "ports": [
+                  {
+                    "id": "600e714a-7833-4c05-864c-3ed036f5777a",
+                    "type": "default",
+                    "selected": false,
+                    "name": "86a2664a-5eaa-4787-860a-5f884bc2dc9e",
+                    "parentNode": "3cc8ab1d-6e60-445c-96a9-193474e91e5f",
+                    "links": [],
+                    "in": true,
+                    "label": "In"
+                  },
+                  {
+                    "id": "936f55ff-4c94-40fd-a130-b529f0a28307",
+                    "type": "default",
+                    "selected": false,
+                    "name": "b325dc19-e08a-4855-91c3-e64098b4e2d2",
+                    "parentNode": "3cc8ab1d-6e60-445c-96a9-193474e91e5f",
+                    "links": [
+                      "e4379492-974d-48d5-8a49-77e55acb0a64"
+                    ],
+                    "in": false,
+                    "label": "Out"
+                  }
+                ],
+                "name": "Report",
+                "data": {
+                  "title": "Supply Order",
+                  "description": "This is the supply order that was previously submitted.",
+                  "link": "",
+                  "ownerId": "fc333443-1749-4d27-bf48-062ee0487062",
+                  "assigned": []
+                },
+                "prevX": 400,
+                "prevY": 0
+              },
+              {
+                "id": "a3dbd31a-e7ea-4136-9510-c67207ccc3e2",
+                "type": "object",
+                "selected": false,
+                "x": 100,
+                "y": 100,
+                "extras": {},
+                "ports": [
+                  {
+                    "id": "db10108b-fde5-43e5-8540-c845a06ac7f5",
+                    "type": "default",
+                    "selected": false,
+                    "name": "a2b75580-a837-4da8-b0a1-abc1adc12fcd",
+                    "parentNode": "a3dbd31a-e7ea-4136-9510-c67207ccc3e2",
+                    "links": [],
+                    "in": true,
+                    "label": "In"
+                  },
+                  {
+                    "id": "5b9a434d-7c65-42bd-b69c-64f3eec9fbd7",
+                    "type": "default",
+                    "selected": false,
+                    "name": "7e196468-0f4c-47a3-ae75-dba381080ebb",
+                    "parentNode": "a3dbd31a-e7ea-4136-9510-c67207ccc3e2",
+                    "links": [
+                      "94851da5-26ac-47ae-878d-a113ca844c26"
+                    ],
+                    "in": false,
+                    "label": "Out"
+                  }
+                ],
+                "name": "Object",
+                "data": {
+                  "title": "Delivered supplies",
+                  "description": "These are the delivered supplies that we receive from the delivery service.",
+                  "link": "",
+                  "ownerId": "48050406-bf39-4b0f-8ae8-a6ac36d14f09",
+                  "assigned": []
+                },
+                "prevX": 300,
+                "prevY": 0
+              },
+              {
+                "id": "0ba4143a-aeeb-4276-9f15-8b7401f51db2",
+                "type": "task",
+                "selected": false,
+                "x": 400,
+                "y": 200,
+                "extras": {},
+                "ports": [
+                  {
+                    "id": "dbc32a50-82b2-47fd-9c4c-f6138a13bc2e",
+                    "type": "default",
+                    "selected": false,
+                    "name": "47dc2acf-f96e-45d0-af76-1e9a88bdfb11",
+                    "parentNode": "0ba4143a-aeeb-4276-9f15-8b7401f51db2",
+                    "links": [
+                      "94851da5-26ac-47ae-878d-a113ca844c26",
+                      "e4379492-974d-48d5-8a49-77e55acb0a64"
+                    ],
+                    "in": true,
+                    "label": "In"
+                  },
+                  {
+                    "id": "0ef6b8b0-d621-4287-8dc6-15f0dc3955a5",
+                    "type": "default",
+                    "selected": false,
+                    "name": "bfb97f8f-57e1-4129-82b5-94f6b29fd9a7",
+                    "parentNode": "0ba4143a-aeeb-4276-9f15-8b7401f51db2",
+                    "links": [
+                      "03eac1aa-5105-4986-b7c4-d037dbca5f69"
+                    ],
+                    "in": false,
+                    "label": "Out"
+                  }
+                ],
+                "name": "Task",
+                "data": {
+                  "title": "Verify supplies match the supply order",
+                  "description": "The manufacturing department will check the delivered supplies and verify receipt.",
+                  "link": "",
+                  "ownerId": "fc333443-1749-4d27-bf48-062ee0487062",
+                  "assigned": [],
+                  "costCurrency": "$",
+                  "duration": 1,
+                  "durationUnit": "hours",
+                  "costBudget": 100
+                },
+                "prevX": 400,
+                "prevY": 0
+              },
+              {
+                "id": "ac58200e-b332-44c6-80d3-f85ab8d2a886",
+                "type": "report",
+                "selected": false,
+                "x": 400,
+                "y": 300,
+                "extras": {},
+                "ports": [
+                  {
+                    "id": "71d856d8-97c2-486f-988f-808252943653",
+                    "type": "default",
+                    "selected": false,
+                    "name": "fa70672b-eaee-424e-b0a7-eed5caaefab0",
+                    "parentNode": "ac58200e-b332-44c6-80d3-f85ab8d2a886",
+                    "links": [
+                      "03eac1aa-5105-4986-b7c4-d037dbca5f69"
+                    ],
+                    "in": true,
+                    "label": "In"
+                  },
+                  {
+                    "id": "52967056-ee8a-4e47-8e6a-b0e0eefc215b",
+                    "type": "default",
+                    "selected": false,
+                    "name": "a840d17a-5d61-41b0-b5b2-43b3ae6c707e",
+                    "parentNode": "ac58200e-b332-44c6-80d3-f85ab8d2a886",
+                    "links": [],
+                    "in": false,
+                    "label": "Out"
+                  }
+                ],
+                "name": "Report",
+                "data": {
+                  "title": "Signed Receipt",
+                  "description": "This is the signed receipt of the delivery.",
+                  "link": "",
+                  "ownerId": "fc333443-1749-4d27-bf48-062ee0487062",
+                  "assigned": []
+                },
+                "prevX": 400,
+                "prevY": 300
+              }
+            ]
+          },
+          "engine": {
+            "id": "22c0f37c-3561-4ac0-9503-247acf343bb6",
+            "swimlanes": [
+              {
+                "id": "48050406-bf39-4b0f-8ae8-a6ac36d14f09",
+                "title": "Delivery Service",
+                "subtitle": "",
+                "label": "External",
+                "x": 100,
+                "labelColor": "#abb8c3",
+                "costCurrency": "$",
+                "durationUnit": "days",
+                "cost": "250"
+              },
+              {
+                "id": "0d2174d1-111a-4352-b4cb-fd31ed46c43a",
+                "title": "Supplier",
+                "subtitle": "",
+                "label": "External",
+                "x": 200,
+                "labelColor": "#abb8c3",
+                "costCurrency": "$",
+                "durationUnit": "days",
+                "cost": "200"
+              },
+              {
+                "id": "124fabc3-1d24-4d32-81af-32aaca04603a",
+                "title": "Purchasing Department",
+                "subtitle": "",
+                "label": "Internal",
+                "x": 300,
+                "labelColor": "#0693e3",
+                "costCurrency": "$",
+                "durationUnit": "hours",
+                "cost": "150"
+              },
+              {
+                "id": "fc333443-1749-4d27-bf48-062ee0487062",
+                "title": "Manufacturing Department",
+                "subtitle": "",
+                "label": "Internal",
+                "x": 400,
+                "labelColor": "#0693e3",
+                "costCurrency": "$",
+                "durationUnit": "hours",
+                "cost": "100"
+              }
+            ],
+            "diagramType": "process"
+          },
+          "shared": false
+        },
+        "prevX": 400,
+        "prevY": 700
+      },
+      {
+        "id": "7eebd659-2018-4a15-9283-8af15c391137",
+        "type": "milestone",
+        "selected": false,
+        "x": 400,
+        "y": 1100,
+        "extras": {},
+        "ports": [
+          {
+            "id": "f48a1c96-6469-4fa6-947c-7942c4790975",
+            "type": "default",
+            "selected": false,
+            "name": "938d5352-448a-4aca-8b8b-71adb563e089",
+            "parentNode": "7eebd659-2018-4a15-9283-8af15c391137",
+            "links": [
+              "c4b98275-a334-4743-8382-b76d39f2746c"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "9b83da64-3c94-4ac6-8084-27bde42e2544",
+            "type": "default",
+            "selected": false,
+            "name": "bfa93b37-0904-4cf7-a05c-eaededb5c7e2",
+            "parentNode": "7eebd659-2018-4a15-9283-8af15c391137",
+            "links": [],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Milestone",
+        "data": {
+          "title": "End of process",
+          "description": "Process completed!",
+          "link": "",
+          "ownerId": "fc333443-1749-4d27-bf48-062ee0487062",
+          "assigned": []
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 400,
+        "prevY": 1100
+      }
+    ]
+  },
+  "engine": {
+    "id": "8c68f30c-d8e1-45c7-9bf0-b676a5df5814",
+    "swimlanes": [
+      {
+        "id": "48050406-bf39-4b0f-8ae8-a6ac36d14f09",
+        "title": "Delivery Service",
+        "subtitle": "",
+        "label": "External",
+        "x": 100,
+        "labelColor": "#abb8c3",
+        "costCurrency": "$",
+        "durationUnit": "days",
+        "cost": "250"
+      },
+      {
+        "id": "0d2174d1-111a-4352-b4cb-fd31ed46c43a",
+        "title": "Supplier",
+        "subtitle": "",
+        "label": "External",
+        "x": 200,
+        "labelColor": "#abb8c3",
+        "costCurrency": "$",
+        "durationUnit": "days",
+        "cost": "200"
+      },
+      {
+        "id": "124fabc3-1d24-4d32-81af-32aaca04603a",
+        "title": "Purchasing Department",
+        "subtitle": "",
+        "label": "Internal",
+        "x": 300,
+        "labelColor": "#0693e3",
+        "costCurrency": "$",
+        "durationUnit": "hours",
+        "cost": "150"
+      },
+      {
+        "id": "fc333443-1749-4d27-bf48-062ee0487062",
+        "title": "Manufacturing Department",
+        "subtitle": "",
+        "label": "Internal",
+        "x": 400,
+        "labelColor": "#0693e3",
+        "costCurrency": "$",
+        "durationUnit": "hours",
+        "cost": "100"
+      }
+    ]
+  },
+  "shared": true,
+  "createdDate": "2021-03-05T02:35:40.324Z",
+  "modifiedDate": "2021-03-08T14:36:31.422Z"
+}

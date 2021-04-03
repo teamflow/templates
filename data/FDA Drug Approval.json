@@ -1,0 +1,2371 @@
+{
+  "id": "5fdbfe54-3488-4e9c-80e2-c387cb64280a",
+  "name": "FDA Drug Approval",
+  "type": "process",
+  "model": {
+    "id": "dd22b0d9-0c56-4ee5-b7a3-2d1f403e2e46",
+    "offsetX": 0,
+    "offsetY": 0,
+    "zoom": 100,
+    "gridSize": 100,
+    "links": [
+      {
+        "id": "3c3641a4-027a-4aa0-9e1e-7154972432e2",
+        "type": "default",
+        "selected": false,
+        "source": "0d48b1be-dd5d-4114-b438-2c86ea409165",
+        "sourcePort": "517f0306-a243-482b-a4ac-ae9e65a87370",
+        "target": "8aa0ea84-b3ff-409f-9d6f-1a5c9a082a7d",
+        "targetPort": "9f82adb3-2f3d-41d6-b644-4ab1d278ea35",
+        "points": [
+          {
+            "id": "e8c59c6e-c2de-4cd2-b83e-352a8161ad07",
+            "selected": false,
+            "x": 151,
+            "y": 169
+          },
+          {
+            "id": "694ce8d3-10d5-4a44-8ddb-e85605d57b65",
+            "selected": true,
+            "x": 151,
+            "y": 226
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "bd958129-084a-4825-9bec-7d2a08f25213",
+        "type": "default",
+        "selected": false,
+        "source": "8aa0ea84-b3ff-409f-9d6f-1a5c9a082a7d",
+        "sourcePort": "089d2517-d9ea-4169-884a-7c548dc5b042",
+        "target": "e6d29d83-f224-45c5-a2bb-29ba2f5df282",
+        "targetPort": "9ae0bfb2-84d4-4316-a5f1-783c83385baa",
+        "points": [
+          {
+            "id": "791b7f9e-4530-436d-90a5-89d9d83aca05",
+            "selected": false,
+            "x": 151,
+            "y": 269
+          },
+          {
+            "id": "a143911d-9b83-43f0-9b7f-e07de38d3546",
+            "selected": true,
+            "x": 151,
+            "y": 326
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "33a255d1-92e9-4cda-9a02-9fe07751e371",
+        "type": "default",
+        "selected": false,
+        "source": "e6d29d83-f224-45c5-a2bb-29ba2f5df282",
+        "sourcePort": "95abfe4e-ed54-431d-9ce7-afbf3e2ea74d",
+        "target": "8e25f857-904b-4da8-bdc1-7f5f3e74ecc5",
+        "targetPort": "1d292d4d-3b26-438c-be41-94a71077333b",
+        "points": [
+          {
+            "id": "4b1796b7-2a8b-4c56-bf57-881ec46f39af",
+            "selected": false,
+            "x": 151,
+            "y": 369
+          },
+          {
+            "id": "c68bb5af-2872-459b-ba31-3713bd97e42e",
+            "selected": true,
+            "x": 151,
+            "y": 420
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "f3934017-b43d-4d10-841f-0fc7534af5f7",
+        "type": "default",
+        "selected": false,
+        "source": "430b3124-c379-45cc-8edc-1c7e286e6a0c",
+        "sourcePort": "2a805874-9e12-4949-8675-dc8efd76ba85",
+        "target": "5fd801aa-19bb-4644-a03d-ef2ccd1771b5",
+        "targetPort": "6d9b44fc-f340-498d-8bfa-322a88ac52bb",
+        "points": [
+          {
+            "id": "23dfdfad-9805-408e-839d-a60415223064",
+            "selected": false,
+            "x": 251,
+            "y": 577
+          },
+          {
+            "id": "dde67e88-309e-4c53-b057-eb3a232c3dc5",
+            "selected": false,
+            "x": 251,
+            "y": 626
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "57c71510-34e3-449c-82f0-937d2240e2bd",
+        "type": "default",
+        "selected": false,
+        "source": "5fd801aa-19bb-4644-a03d-ef2ccd1771b5",
+        "sourcePort": "68033001-f5be-4657-aa30-b9f755140dd0",
+        "target": "1e6186ab-d657-45e1-af17-558dac915161",
+        "targetPort": "f602c117-e6d6-458c-8114-9f3821778de2",
+        "points": [
+          {
+            "id": "2e041a28-53e2-4119-b4b2-991b9e93dda9",
+            "selected": false,
+            "x": 251,
+            "y": 671
+          },
+          {
+            "id": "2dd92c72-8f7f-47fc-8af9-0c9bb025d379",
+            "selected": false,
+            "x": 351,
+            "y": 726
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "50d66af5-e5e1-4856-9e01-a0b8ae91d0e7",
+        "type": "default",
+        "selected": false,
+        "source": "1e6186ab-d657-45e1-af17-558dac915161",
+        "sourcePort": "07eabf27-a3e5-410c-ac11-4be93869e069",
+        "target": "6688347e-caca-4fd0-b51d-3b58685c14ab",
+        "targetPort": "0e4088c8-c4d9-4f93-8c36-9c83409b20ff",
+        "points": [
+          {
+            "id": "6e1eee17-9553-475c-a0ef-fd8f321a29a1",
+            "selected": false,
+            "x": 351,
+            "y": 769
+          },
+          {
+            "id": "b16538e2-5c43-48a7-90e6-2bba1794f4e0",
+            "selected": false,
+            "x": 351,
+            "y": 826
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "9beac832-6139-4804-89b6-461a8779714e",
+        "type": "default",
+        "selected": false,
+        "source": "6688347e-caca-4fd0-b51d-3b58685c14ab",
+        "sourcePort": "b3257801-bcd3-4b52-bab9-0fd2685f7720",
+        "target": "c43a6ee3-1976-40da-a410-b3d2a3c17249",
+        "targetPort": "bbbae940-1938-4cdf-b2d7-b3de9487f3a7",
+        "points": [
+          {
+            "id": "0279b6c6-de63-4d19-a1cd-22ba7d846402",
+            "selected": false,
+            "x": 351,
+            "y": 869
+          },
+          {
+            "id": "b388092d-94a7-4b93-a249-c905bc79c1ec",
+            "selected": false,
+            "x": 251,
+            "y": 926
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "7a0419d6-b568-4f53-8729-c5c3b162e69d",
+        "type": "default",
+        "selected": false,
+        "source": "66f8c15f-96d0-45eb-ad29-38b96ce8820d",
+        "sourcePort": "21c50fbf-770a-41c3-8370-2a1fd18183a2",
+        "target": "45e07676-cd3f-4587-8900-877c8f16b83d",
+        "targetPort": "3b61a97f-1548-49ca-84b0-51f3ffd32402",
+        "points": [
+          {
+            "id": "f8c54277-2171-47bb-9f1b-77b81194b68c",
+            "selected": false,
+            "x": 351,
+            "y": 1069
+          },
+          {
+            "id": "bba272fc-af9d-41ac-8c9c-615b79c0ce3f",
+            "selected": false,
+            "x": 251,
+            "y": 1125
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "a3877bb7-198f-4fec-8513-c01d2f67dab7",
+        "type": "default",
+        "selected": false,
+        "source": "45e07676-cd3f-4587-8900-877c8f16b83d",
+        "sourcePort": "54e651b8-9436-4b78-9a52-a2bb4221ef1c",
+        "target": "1f878d97-4ee6-49e4-a222-eec66c3a548b",
+        "targetPort": "af24cf70-350b-46d3-bb10-539ecd3dff58",
+        "points": [
+          {
+            "id": "b4153d81-50e3-4dcc-9098-442364f36775",
+            "selected": false,
+            "x": 251,
+            "y": 1171
+          },
+          {
+            "id": "a794c1c2-33be-4d59-bf78-1a95697a0844",
+            "selected": false,
+            "x": 151,
+            "y": 1226
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "60c9b736-8178-419b-ae96-aeec379271d9",
+        "type": "default",
+        "selected": false,
+        "source": "1f878d97-4ee6-49e4-a222-eec66c3a548b",
+        "sourcePort": "d70e026d-a7c5-4e6b-95f8-c02bd9a93349",
+        "target": "ecfcbc7f-57ec-4be7-9717-49426473083e",
+        "targetPort": "3bdff2e4-17df-4e3b-86e7-58e3ea9c7f34",
+        "points": [
+          {
+            "id": "a3207205-d465-41d9-8af9-b7fc2f086ed9",
+            "selected": false,
+            "x": 151,
+            "y": 1269
+          },
+          {
+            "id": "5347b1dd-5692-4015-8489-4a195527291e",
+            "selected": false,
+            "x": 151,
+            "y": 1326
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "79bc7172-2436-4eed-88b7-9fae3bfe5976",
+        "type": "default",
+        "selected": false,
+        "source": "ecfcbc7f-57ec-4be7-9717-49426473083e",
+        "sourcePort": "af59ad56-39b5-4ba8-9774-1d430595ad91",
+        "target": "9cb76080-acac-4332-98f6-06573dc675e9",
+        "targetPort": "f999081f-1777-4eda-87ec-708d713c2825",
+        "points": [
+          {
+            "id": "9fbdb2c6-f79e-4c70-9c15-e3de3de0c06c",
+            "selected": false,
+            "x": 151,
+            "y": 1369
+          },
+          {
+            "id": "c0832a02-a092-4f19-896c-a3b1a51d6b68",
+            "selected": false,
+            "x": 251,
+            "y": 1420
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "5fbbaf19-728c-415c-ad64-bee41e4e1015",
+        "type": "default",
+        "selected": false,
+        "source": "8e25f857-904b-4da8-bdc1-7f5f3e74ecc5",
+        "sourcePort": "e442cc48-c3df-4daf-856c-585986305bbd",
+        "target": "430b3124-c379-45cc-8edc-1c7e286e6a0c",
+        "targetPort": "92a305bd-3294-4e39-88b8-312e44449fa4",
+        "points": [
+          {
+            "id": "18d5cf0f-1723-41f9-b49f-89925dce02e7",
+            "selected": false,
+            "x": 151,
+            "y": 475
+          },
+          {
+            "id": "c3d9a950-1bf1-4ee1-a8a9-cb73049dde58",
+            "selected": false,
+            "x": 251,
+            "y": 520
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "b149486d-e5bc-41e8-a5cb-407087a8e4f0",
+        "type": "default",
+        "selected": false,
+        "source": "9cb76080-acac-4332-98f6-06573dc675e9",
+        "sourcePort": "91cd5f18-3156-4a9a-978c-3328a997cd4d",
+        "target": "3500d29d-bc64-4cfa-9877-fc2706978b32",
+        "targetPort": "5b8494b1-16e4-4449-a9fb-fe7025af5227",
+        "points": [
+          {
+            "id": "00b130e0-217e-4165-8419-779b7a1d7b87",
+            "selected": false,
+            "x": 251,
+            "y": 1477
+          },
+          {
+            "id": "c8dbd1a6-98a2-465d-af19-b150bbb4aec5",
+            "selected": false,
+            "x": 151,
+            "y": 1526
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "b7f7d6da-718e-4458-9caa-b13e2344de24",
+        "type": "default",
+        "selected": false,
+        "source": "3500d29d-bc64-4cfa-9877-fc2706978b32",
+        "sourcePort": "87410f77-dd1a-4bdf-ad50-ad722c112215",
+        "target": "78d48e9c-70cc-4455-a2ff-c97e0a62be2c",
+        "targetPort": "2f32a9b2-f8a1-4209-8dfe-6fd2d7d0d7b8",
+        "points": [
+          {
+            "id": "38912625-5508-4e53-948f-1b34ffbaacdc",
+            "selected": false,
+            "x": 151,
+            "y": 1569
+          },
+          {
+            "id": "7da0d90e-f741-4d48-8a44-c2e8ae4d8294",
+            "selected": true,
+            "x": 251,
+            "y": 1626
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "1c3b4dd4-8d84-4e23-8a5c-5cfb2eb9d070",
+        "type": "default",
+        "selected": false,
+        "source": "78d48e9c-70cc-4455-a2ff-c97e0a62be2c",
+        "sourcePort": "f048e57e-0da2-4c78-be1b-e4d447f89bb2",
+        "target": "2c9aee2a-5069-4c09-a6d0-e8c87311bae9",
+        "targetPort": "54456df3-8703-448f-8dbe-0d07ab1e6f26",
+        "points": [
+          {
+            "id": "dd719fe9-b393-4310-a2c4-73006330153a",
+            "selected": false,
+            "x": 251,
+            "y": 1669
+          },
+          {
+            "id": "8f47d73b-6053-419e-971b-d63542590b6d",
+            "selected": false,
+            "x": 251,
+            "y": 1820
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "6c17909f-c80d-451f-ada4-6035f5bbc30b",
+        "type": "default",
+        "selected": false,
+        "source": "2c9aee2a-5069-4c09-a6d0-e8c87311bae9",
+        "sourcePort": "a01a2059-4c1d-4090-a333-78aa18aff4e3",
+        "target": "a82867af-2486-4950-b332-70b4805ab6a9",
+        "targetPort": "0e4c9bac-18f9-4323-89c7-1b0969966f45",
+        "points": [
+          {
+            "id": "1a5bf9da-dea5-4ea8-b0f6-6f72805496b3",
+            "selected": false,
+            "x": 251,
+            "y": 1877
+          },
+          {
+            "id": "9496c75e-9887-4975-91b6-e4bbb230b0b0",
+            "selected": false,
+            "x": 251,
+            "y": 1920
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "15cb763c-6c72-4490-bd2c-86d1bcf3690e",
+        "type": "default",
+        "selected": false,
+        "source": "2c9aee2a-5069-4c09-a6d0-e8c87311bae9",
+        "sourcePort": "38e0c195-d0f3-4f94-9d71-9464f71acbc6",
+        "target": "add7e0ad-168c-4fab-82b6-b7061bacacaf",
+        "targetPort": "4c7c6027-7154-457d-bc72-e0e9a0afce19",
+        "points": [
+          {
+            "id": "8c9d5d55-0da0-41ba-ae7d-eb1ae8be5014",
+            "selected": false,
+            "x": 275,
+            "y": 1851
+          },
+          {
+            "id": "20388889-66fc-4c9f-9b2b-543464c4f2a8",
+            "selected": true,
+            "x": 151,
+            "y": 1720
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "9b7ef547-45ce-415d-814b-0b4871042bb5",
+        "type": "default",
+        "selected": false,
+        "source": "a82867af-2486-4950-b332-70b4805ab6a9",
+        "sourcePort": "0d637dd1-6920-4e56-bf41-d4cf45f052fe",
+        "target": "45e59087-3321-4d99-bb7e-e2335e7fbe54",
+        "targetPort": "be863030-6861-414e-bca5-72edde3d17b7",
+        "points": [
+          {
+            "id": "4b89085c-87af-45bd-8bb9-242c7a3a2d83",
+            "selected": false,
+            "x": 251,
+            "y": 1975
+          },
+          {
+            "id": "b8ca1027-8463-4a69-a1a8-1fc9062d2617",
+            "selected": true,
+            "x": 151,
+            "y": 2026
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "335b822b-5e94-41a7-9592-58756dce9b4b",
+        "type": "default",
+        "selected": false,
+        "source": "45e59087-3321-4d99-bb7e-e2335e7fbe54",
+        "sourcePort": "2b4bd4ac-a138-4834-9d94-24cd8806fe87",
+        "target": "2e782e73-4d5b-40cc-8271-3ddb2f65aae2",
+        "targetPort": "0a4ee631-8b31-4a62-ad9f-6fe093df8e03",
+        "points": [
+          {
+            "id": "bd46fe65-313f-4105-a6a2-d4d12966d786",
+            "selected": false,
+            "x": 151,
+            "y": 2071
+          },
+          {
+            "id": "03634de6-6f96-4e54-8384-d430f8695d47",
+            "selected": false,
+            "x": 151,
+            "y": 2126
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "b52d1e33-cc0e-4132-83ab-56b10fe01fd9",
+        "type": "default",
+        "selected": false,
+        "source": "2e782e73-4d5b-40cc-8271-3ddb2f65aae2",
+        "sourcePort": "d77d16ad-6242-409c-b2ae-9e26e4f5b63b",
+        "target": "fb38ce8d-63e2-4c61-b21b-55972ca97c2e",
+        "targetPort": "f23308d5-6670-43ce-8178-ce860e9b67b3",
+        "points": [
+          {
+            "id": "b046a602-95f9-48ff-8a9b-6eed596cb557",
+            "selected": false,
+            "x": 151,
+            "y": 2169
+          },
+          {
+            "id": "44a0a404-c47e-4fd8-a15f-d516a3c9c7d2",
+            "selected": false,
+            "x": 151,
+            "y": 2220
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "01031d25-7ee1-40e9-8c36-2aee7c3a5373",
+        "type": "default",
+        "selected": false,
+        "source": "45e59087-3321-4d99-bb7e-e2335e7fbe54",
+        "sourcePort": "2b4bd4ac-a138-4834-9d94-24cd8806fe87",
+        "target": "266b1d3a-bd92-4c15-891c-9c81a1e9fe31",
+        "targetPort": "00199f86-d2d0-45b0-a409-f219e33b6ada",
+        "points": [
+          {
+            "id": "39a37ec6-b334-43ee-8c5c-bd9bf5610201",
+            "selected": false,
+            "x": 151,
+            "y": 2071
+          },
+          {
+            "id": "93109ba5-e222-42eb-8e87-abdaca083da9",
+            "selected": true,
+            "x": 551,
+            "y": 2326
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "35cfe05c-705d-40de-aa6c-069d142a3b81",
+        "type": "default",
+        "selected": false,
+        "source": "266b1d3a-bd92-4c15-891c-9c81a1e9fe31",
+        "sourcePort": "ee7b0a6a-3d21-4db2-8b33-41810a5d5c3c",
+        "target": "2a339618-0f76-428f-aa12-64e11d391446",
+        "targetPort": "1ad9a91e-a662-4e20-8c85-5637572c3634",
+        "points": [
+          {
+            "id": "cf443e06-c2f4-42f8-a0d9-f8fc24cf2657",
+            "selected": false,
+            "x": 551,
+            "y": 2369
+          },
+          {
+            "id": "ae4e00c1-8616-4b76-9adf-d8a2a513cd6a",
+            "selected": true,
+            "x": 651,
+            "y": 2426
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "59a5ae1f-fbaa-445b-9e7a-a1911d20ed9f",
+        "type": "default",
+        "selected": false,
+        "source": "eb317327-46ad-4247-8940-33b08ea9282a",
+        "sourcePort": "1b546580-a3f4-4200-9dc7-8b1cbaeb665e",
+        "target": "0d48b1be-dd5d-4114-b438-2c86ea409165",
+        "targetPort": "af6d95ad-6a71-471d-b06a-cd14fc3b2757",
+        "points": [
+          {
+            "id": "7d48d958-90f2-4765-b943-efbada8d3e71",
+            "selected": false,
+            "x": 151,
+            "y": 71
+          },
+          {
+            "id": "0120d5fd-a927-44ae-a7cc-43a9e3657965",
+            "selected": true,
+            "x": 151,
+            "y": 126
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "284e87aa-0249-4841-ad88-590fa6b0cb24",
+        "type": "default",
+        "selected": false,
+        "source": "66f8c15f-96d0-45eb-ad29-38b96ce8820d",
+        "sourcePort": "21c50fbf-770a-41c3-8370-2a1fd18183a2",
+        "target": "66f8c15f-96d0-45eb-ad29-38b96ce8820d",
+        "targetPort": "8d93f251-240f-4b3e-9a4e-7cd20ddd7b07",
+        "points": [
+          {
+            "id": "53c154b4-a12e-4c77-9769-9fbeff1ec415",
+            "selected": false,
+            "x": 351,
+            "y": 1026
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "fa3706f7-2d89-4a13-b67c-5cd94047b540",
+        "type": "default",
+        "selected": false,
+        "source": "c43a6ee3-1976-40da-a410-b3d2a3c17249",
+        "sourcePort": "33870c80-9f4e-4e1d-9083-274e4d1402e1",
+        "target": "66f8c15f-96d0-45eb-ad29-38b96ce8820d",
+        "targetPort": "8d93f251-240f-4b3e-9a4e-7cd20ddd7b07",
+        "points": [
+          {
+            "id": "c6c3394f-58df-4863-986f-f510e5da809f",
+            "selected": false,
+            "x": 251,
+            "y": 969
+          },
+          {
+            "id": "21c445f3-fff4-4238-8f17-10a9599db133",
+            "selected": true,
+            "x": 351,
+            "y": 1026
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      }
+    ],
+    "nodes": [
+      {
+        "id": "eb317327-46ad-4247-8940-33b08ea9282a",
+        "type": "milestone",
+        "selected": false,
+        "x": 100,
+        "y": 0,
+        "extras": {},
+        "ports": [
+          {
+            "id": "85cdfd0c-df5d-4483-9533-bef13909121b",
+            "type": "default",
+            "selected": false,
+            "name": "616912a9-681d-4e7e-b8d5-2728d14c2902",
+            "parentNode": "eb317327-46ad-4247-8940-33b08ea9282a",
+            "links": [],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "1b546580-a3f4-4200-9dc7-8b1cbaeb665e",
+            "type": "default",
+            "selected": false,
+            "name": "503d1485-3c05-457d-92d4-56534d8b7cf3",
+            "parentNode": "eb317327-46ad-4247-8940-33b08ea9282a",
+            "links": [
+              "59a5ae1f-fbaa-445b-9e7a-a1911d20ed9f"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Milestone",
+        "data": {
+          "title": "New Drug Approval Process (Start)",
+          "description": "Process Start",
+          "link": "",
+          "ownerId": "e186cd00-8423-4879-80da-75d36f0a2872",
+          "assigned": [],
+          "costCurrency": "$",
+          "docs": [
+            "https://www.fda.gov/drugs/resources-you-drugs/information-consumers-and-patients-drugs"
+          ]
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 100,
+        "prevY": 0
+      },
+      {
+        "id": "0d48b1be-dd5d-4114-b438-2c86ea409165",
+        "type": "task",
+        "selected": false,
+        "x": 100,
+        "y": 100,
+        "extras": {},
+        "ports": [
+          {
+            "id": "af6d95ad-6a71-471d-b06a-cd14fc3b2757",
+            "type": "default",
+            "selected": false,
+            "name": "b029b537-d4a1-4a52-98a5-960a91285a9d",
+            "parentNode": "0d48b1be-dd5d-4114-b438-2c86ea409165",
+            "links": [
+              "59a5ae1f-fbaa-445b-9e7a-a1911d20ed9f"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "517f0306-a243-482b-a4ac-ae9e65a87370",
+            "type": "default",
+            "selected": false,
+            "name": "8a51ecea-fbfe-408a-bb11-bdb2392e7fcc",
+            "parentNode": "0d48b1be-dd5d-4114-b438-2c86ea409165",
+            "links": [
+              "3c3641a4-027a-4aa0-9e1e-7154972432e2"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Drug Development",
+          "description": "Drug sponsor develops a new drug compound and seeks to have it approved by FDA for sale in the United States,.",
+          "link": "",
+          "ownerId": "e186cd00-8423-4879-80da-75d36f0a2872",
+          "assigned": [],
+          "costCurrency": "$",
+          "docs": [
+            "https://www.fda.gov/media/82381/download",
+            "https://www.fda.gov/drugs/resources-you-drugs/information-consumers-and-patients-drugs"
+          ]
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 100,
+        "prevY": 0
+      },
+      {
+        "id": "8aa0ea84-b3ff-409f-9d6f-1a5c9a082a7d",
+        "type": "task",
+        "selected": false,
+        "x": 100,
+        "y": 200,
+        "extras": {},
+        "ports": [
+          {
+            "id": "9f82adb3-2f3d-41d6-b644-4ab1d278ea35",
+            "type": "default",
+            "selected": false,
+            "name": "227bcd8f-3612-4280-ac02-76854f6705f3",
+            "parentNode": "8aa0ea84-b3ff-409f-9d6f-1a5c9a082a7d",
+            "links": [
+              "3c3641a4-027a-4aa0-9e1e-7154972432e2"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "089d2517-d9ea-4169-884a-7c548dc5b042",
+            "type": "default",
+            "selected": false,
+            "name": "b42917b2-fa0f-48d6-866e-09c7cc7cc61d",
+            "parentNode": "8aa0ea84-b3ff-409f-9d6f-1a5c9a082a7d",
+            "links": [
+              "bd958129-084a-4825-9bec-7d2a08f25213"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Animals Tested",
+          "description": "Sponsor must test new drug on animals for toxicity. Multiple species are used to gather basic information on the safety and efficacy of the compound being investigated / researched.",
+          "link": "",
+          "ownerId": "e186cd00-8423-4879-80da-75d36f0a2872",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 100,
+        "prevY": 100
+      },
+      {
+        "id": "e6d29d83-f224-45c5-a2bb-29ba2f5df282",
+        "type": "task",
+        "selected": false,
+        "x": 100,
+        "y": 300,
+        "extras": {},
+        "ports": [
+          {
+            "id": "9ae0bfb2-84d4-4316-a5f1-783c83385baa",
+            "type": "default",
+            "selected": false,
+            "name": "b3d59710-45bc-4f3b-a76d-2f74bc183b8a",
+            "parentNode": "e6d29d83-f224-45c5-a2bb-29ba2f5df282",
+            "links": [
+              "bd958129-084a-4825-9bec-7d2a08f25213"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "95abfe4e-ed54-431d-9ce7-afbf3e2ea74d",
+            "type": "default",
+            "selected": false,
+            "name": "b72cf883-7df6-4740-b340-ad6063d7efb3",
+            "parentNode": "e6d29d83-f224-45c5-a2bb-29ba2f5df282",
+            "links": [
+              "33a255d1-92e9-4cda-9a02-9fe07751e371"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "IND Application",
+          "description": "The sponsor submits an Investigational New Drug (IND) application to FDA based on the results from the initial testing that include, the drug's composition and manufacturing, and develops a plan for testing the drug on humans.",
+          "link": "",
+          "ownerId": "e186cd00-8423-4879-80da-75d36f0a2872",
+          "assigned": [
+            "c42222fd-fa9f-4a8d-ad1a-67488117a38c"
+          ],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 100,
+        "prevY": 200
+      },
+      {
+        "id": "8e25f857-904b-4da8-bdc1-7f5f3e74ecc5",
+        "type": "report",
+        "selected": false,
+        "x": 100,
+        "y": 400,
+        "extras": {},
+        "ports": [
+          {
+            "id": "1d292d4d-3b26-438c-be41-94a71077333b",
+            "type": "default",
+            "selected": false,
+            "name": "49e64ec0-a04c-4d69-913c-b3024d885c7a",
+            "parentNode": "8e25f857-904b-4da8-bdc1-7f5f3e74ecc5",
+            "links": [
+              "33a255d1-92e9-4cda-9a02-9fe07751e371"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "e442cc48-c3df-4daf-856c-585986305bbd",
+            "type": "default",
+            "selected": false,
+            "name": "471d3928-0d3e-4033-94b7-029ad34721a3",
+            "parentNode": "8e25f857-904b-4da8-bdc1-7f5f3e74ecc5",
+            "links": [
+              "5fbbaf19-728c-415c-ad64-bee41e4e1015"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Report",
+        "data": {
+          "title": "",
+          "description": "Investigational New Drug (IND) application for review by the FDA",
+          "link": "",
+          "ownerId": "e186cd00-8423-4879-80da-75d36f0a2872",
+          "assigned": [
+            "c42222fd-fa9f-4a8d-ad1a-67488117a38c"
+          ],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 100,
+        "prevY": 300
+      },
+      {
+        "id": "430b3124-c379-45cc-8edc-1c7e286e6a0c",
+        "type": "decision",
+        "selected": false,
+        "x": 200,
+        "y": 500,
+        "extras": {},
+        "ports": [
+          {
+            "id": "92a305bd-3294-4e39-88b8-312e44449fa4",
+            "type": "default",
+            "selected": false,
+            "name": "de576fc5-2bba-4d51-ba3b-0a570936b406",
+            "parentNode": "430b3124-c379-45cc-8edc-1c7e286e6a0c",
+            "links": [
+              "5fbbaf19-728c-415c-ad64-bee41e4e1015"
+            ],
+            "in": true,
+            "label": "de576fc5-2bba-4d51-ba3b-0a570936b406"
+          },
+          {
+            "id": "2a805874-9e12-4949-8675-dc8efd76ba85",
+            "type": "default",
+            "selected": false,
+            "name": "d5bf8667-e137-4a6e-a4d7-228463f971e5",
+            "parentNode": "430b3124-c379-45cc-8edc-1c7e286e6a0c",
+            "links": [
+              "f3934017-b43d-4d10-841f-0fc7534af5f7"
+            ],
+            "in": false,
+            "label": "Yes"
+          },
+          {
+            "id": "552ea30b-d979-41ee-9c98-673b2ce06c6a",
+            "type": "default",
+            "selected": false,
+            "name": "f1e6d1c7-545c-42d4-a679-ecd80f6c8cdf",
+            "parentNode": "430b3124-c379-45cc-8edc-1c7e286e6a0c",
+            "links": [],
+            "in": false,
+            "label": "No"
+          },
+          {
+            "id": "5cd12ff5-402d-4824-b60d-7aeadd4d67aa",
+            "type": "default",
+            "selected": false,
+            "name": "ead63a58-4f17-40ad-8bb8-d5da05fc3dae",
+            "parentNode": "430b3124-c379-45cc-8edc-1c7e286e6a0c",
+            "links": [],
+            "in": false,
+            "label": "Maybe"
+          }
+        ],
+        "name": "Decision",
+        "data": {
+          "title": "IND Review",
+          "description": "FDA reviews the IND to assure that the proposed studies, generally referred to as clinical trials, do not place human subjects at unreasonable risk of harm. FDA also verifies that there are adequate informed consent and human subject protections.",
+          "link": "",
+          "ownerId": "c42222fd-fa9f-4a8d-ad1a-67488117a38c",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 200,
+        "prevY": 500
+      },
+      {
+        "id": "5fd801aa-19bb-4644-a03d-ef2ccd1771b5",
+        "type": "milestone",
+        "selected": false,
+        "x": 200,
+        "y": 600,
+        "extras": {},
+        "ports": [
+          {
+            "id": "6d9b44fc-f340-498d-8bfa-322a88ac52bb",
+            "type": "default",
+            "selected": false,
+            "name": "4a71f92d-bc10-4cf0-87d7-c6bec66b8ac1",
+            "parentNode": "5fd801aa-19bb-4644-a03d-ef2ccd1771b5",
+            "links": [
+              "f3934017-b43d-4d10-841f-0fc7534af5f7"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "68033001-f5be-4657-aa30-b9f755140dd0",
+            "type": "default",
+            "selected": false,
+            "name": "d8bcf3cf-0cb1-426b-9e33-84f8426c11d0",
+            "parentNode": "5fd801aa-19bb-4644-a03d-ef2ccd1771b5",
+            "links": [
+              "57c71510-34e3-449c-82f0-937d2240e2bd"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Milestone",
+        "data": {
+          "title": "Clinical Drug Trials",
+          "description": "IND application is approved to begin clinical drug trials.",
+          "link": "",
+          "ownerId": "c42222fd-fa9f-4a8d-ad1a-67488117a38c",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 200,
+        "prevY": 600
+      },
+      {
+        "id": "1e6186ab-d657-45e1-af17-558dac915161",
+        "type": "task",
+        "selected": false,
+        "x": 300,
+        "y": 700,
+        "extras": {},
+        "ports": [
+          {
+            "id": "f602c117-e6d6-458c-8114-9f3821778de2",
+            "type": "default",
+            "selected": false,
+            "name": "ec964f71-35dc-4d32-a11f-5a6c20d2e1d3",
+            "parentNode": "1e6186ab-d657-45e1-af17-558dac915161",
+            "links": [
+              "57c71510-34e3-449c-82f0-937d2240e2bd"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "07eabf27-a3e5-410c-ac11-4be93869e069",
+            "type": "default",
+            "selected": false,
+            "name": "1783f577-c166-41fb-9317-ab0c4665ea0f",
+            "parentNode": "1e6186ab-d657-45e1-af17-558dac915161",
+            "links": [
+              "50d66af5-e5e1-4856-9e01-a0b8ae91d0e7"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Phase I (20-80 participants) ",
+          "description": "The typical number of healthy volunteers used in Phase 1; this phase emphasizes safety. The goal here in this phase is to determine what the drug’s most frequent side effects are and, often, how the drug is metabolized and excreted.",
+          "link": "",
+          "ownerId": "1a8bfd7f-8c26-4250-b436-0efe0727bd15",
+          "assigned": [
+            "c42222fd-fa9f-4a8d-ad1a-67488117a38c",
+            "e186cd00-8423-4879-80da-75d36f0a2872"
+          ],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 300,
+        "prevY": 700
+      },
+      {
+        "id": "6688347e-caca-4fd0-b51d-3b58685c14ab",
+        "type": "task",
+        "selected": false,
+        "x": 300,
+        "y": 800,
+        "extras": {},
+        "ports": [
+          {
+            "id": "0e4088c8-c4d9-4f93-8c36-9c83409b20ff",
+            "type": "default",
+            "selected": false,
+            "name": "e1b6fb87-c1b2-4c15-888e-6eca9626d386",
+            "parentNode": "6688347e-caca-4fd0-b51d-3b58685c14ab",
+            "links": [
+              "50d66af5-e5e1-4856-9e01-a0b8ae91d0e7"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "b3257801-bcd3-4b52-bab9-0fd2685f7720",
+            "type": "default",
+            "selected": false,
+            "name": "50a3a0d4-d8e4-47d0-9be9-c3ec8161e393",
+            "parentNode": "6688347e-caca-4fd0-b51d-3b58685c14ab",
+            "links": [
+              "9beac832-6139-4804-89b6-461a8779714e"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Phase II (100's of participants)",
+          "description": "The typical number of patients used in Phase 2; this phase emphasizes effectiveness. This goal is to obtain preliminary data on whether the drug works in people who have a certain disease or condition. For controlled trials, patients receiving the drug are compared with similar patients receiving a different treatment—usually a placebo, or a different drug. Safety continues to be evaluated, and short-term side effects are studied. ",
+          "link": "",
+          "ownerId": "1a8bfd7f-8c26-4250-b436-0efe0727bd15",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 300,
+        "prevY": 800
+      },
+      {
+        "id": "c43a6ee3-1976-40da-a410-b3d2a3c17249",
+        "type": "meeting",
+        "selected": false,
+        "x": 200,
+        "y": 900,
+        "extras": {},
+        "ports": [
+          {
+            "id": "bbbae940-1938-4cdf-b2d7-b3de9487f3a7",
+            "type": "default",
+            "selected": false,
+            "name": "74ad2e83-2f02-4846-a1d5-8790d71bd994",
+            "parentNode": "c43a6ee3-1976-40da-a410-b3d2a3c17249",
+            "links": [
+              "9beac832-6139-4804-89b6-461a8779714e"
+            ],
+            "in": true,
+            "label": "74ad2e83-2f02-4846-a1d5-8790d71bd994"
+          },
+          {
+            "id": "33870c80-9f4e-4e1d-9083-274e4d1402e1",
+            "type": "default",
+            "selected": false,
+            "name": "05f56a58-6bf0-4fbc-a9a2-f4ae5efd2f90",
+            "parentNode": "c43a6ee3-1976-40da-a410-b3d2a3c17249",
+            "links": [
+              "fa3706f7-2d89-4a13-b67c-5cd94047b540"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Meeting",
+        "data": {
+          "title": "Phase III Trial Planning",
+          "description": "",
+          "link": "",
+          "ownerId": "c42222fd-fa9f-4a8d-ad1a-67488117a38c",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 200,
+        "prevY": 900
+      },
+      {
+        "id": "66f8c15f-96d0-45eb-ad29-38b96ce8820d",
+        "type": "task",
+        "selected": false,
+        "x": 300,
+        "y": 1000,
+        "extras": {},
+        "ports": [
+          {
+            "id": "8d93f251-240f-4b3e-9a4e-7cd20ddd7b07",
+            "type": "default",
+            "selected": false,
+            "name": "dedd4f28-03c2-4da3-a8c3-1a591d8f90de",
+            "parentNode": "66f8c15f-96d0-45eb-ad29-38b96ce8820d",
+            "links": [
+              "284e87aa-0249-4841-ad88-590fa6b0cb24",
+              "fa3706f7-2d89-4a13-b67c-5cd94047b540"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "21c50fbf-770a-41c3-8370-2a1fd18183a2",
+            "type": "default",
+            "selected": false,
+            "name": "faf0a722-7e28-471d-a05d-3f5efe541b1f",
+            "parentNode": "66f8c15f-96d0-45eb-ad29-38b96ce8820d",
+            "links": [
+              "7a0419d6-b568-4f53-8729-c5c3b162e69d",
+              "284e87aa-0249-4841-ad88-590fa6b0cb24"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Phase III (1000's of participants)",
+          "description": "The typical number of patients used in Phase 3. These studies gather more information about safety and effectiveness, study different populations and different dosages, and uses the drug in combination with other drugs.",
+          "link": "",
+          "ownerId": "1a8bfd7f-8c26-4250-b436-0efe0727bd15",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 300,
+        "prevY": 1000
+      },
+      {
+        "id": "45e07676-cd3f-4587-8900-877c8f16b83d",
+        "type": "wait",
+        "selected": false,
+        "x": 200,
+        "y": 1100,
+        "extras": {},
+        "ports": [
+          {
+            "id": "3b61a97f-1548-49ca-84b0-51f3ffd32402",
+            "type": "default",
+            "selected": false,
+            "name": "0cf60b89-f3b3-4101-b385-e16e8b106646",
+            "parentNode": "45e07676-cd3f-4587-8900-877c8f16b83d",
+            "links": [
+              "7a0419d6-b568-4f53-8729-c5c3b162e69d"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "54e651b8-9436-4b78-9a52-a2bb4221ef1c",
+            "type": "default",
+            "selected": false,
+            "name": "a6963828-f078-4daa-8897-1095d03f69c8",
+            "parentNode": "45e07676-cd3f-4587-8900-877c8f16b83d",
+            "links": [
+              "a3877bb7-198f-4fec-8513-c01d2f67dab7"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Wait",
+        "data": {
+          "title": "Review Meeting",
+          "description": "FDA meets with a drug sponsor prior to submission of a New Drug Application.",
+          "link": "",
+          "ownerId": "c42222fd-fa9f-4a8d-ad1a-67488117a38c",
+          "assigned": [
+            "e186cd00-8423-4879-80da-75d36f0a2872"
+          ],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 200,
+        "prevY": 1100
+      },
+      {
+        "id": "1f878d97-4ee6-49e4-a222-eec66c3a548b",
+        "type": "task",
+        "selected": false,
+        "x": 100,
+        "y": 1200,
+        "extras": {},
+        "ports": [
+          {
+            "id": "af24cf70-350b-46d3-bb10-539ecd3dff58",
+            "type": "default",
+            "selected": false,
+            "name": "4d68f87e-da8a-44ed-af11-d151a2bef36e",
+            "parentNode": "1f878d97-4ee6-49e4-a222-eec66c3a548b",
+            "links": [
+              "a3877bb7-198f-4fec-8513-c01d2f67dab7"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "d70e026d-a7c5-4e6b-95f8-c02bd9a93349",
+            "type": "default",
+            "selected": false,
+            "name": "a0f608dc-e73a-43f6-93b6-c2e02089fd3a",
+            "parentNode": "1f878d97-4ee6-49e4-a222-eec66c3a548b",
+            "links": [
+              "60c9b736-8178-419b-ae96-aeec379271d9"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "NDA Application",
+          "description": "The drug sponsor formally asks FDA to approve a drug for marketing in the United States by submitting an NDA. An NDA includes all animal and human data and analyses of the data, as well as information about how the drug behaves in the body and how it is manufactured.",
+          "link": "",
+          "ownerId": "e186cd00-8423-4879-80da-75d36f0a2872",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 100,
+        "prevY": 1200
+      },
+      {
+        "id": "ecfcbc7f-57ec-4be7-9717-49426473083e",
+        "type": "task",
+        "selected": false,
+        "x": 100,
+        "y": 1300,
+        "extras": {},
+        "ports": [
+          {
+            "id": "3bdff2e4-17df-4e3b-86e7-58e3ea9c7f34",
+            "type": "default",
+            "selected": false,
+            "name": "392fb7fd-9d62-4d6a-aa4d-77191d479536",
+            "parentNode": "ecfcbc7f-57ec-4be7-9717-49426473083e",
+            "links": [
+              "60c9b736-8178-419b-ae96-aeec379271d9"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "af59ad56-39b5-4ba8-9774-1d430595ad91",
+            "type": "default",
+            "selected": false,
+            "name": "157b0f40-876d-40a1-912f-b8c416cf8750",
+            "parentNode": "ecfcbc7f-57ec-4be7-9717-49426473083e",
+            "links": [
+              "79bc7172-2436-4eed-88b7-9fae3bfe5976"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Application Review",
+          "description": "",
+          "link": "",
+          "ownerId": "e186cd00-8423-4879-80da-75d36f0a2872",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 100,
+        "prevY": 1300
+      },
+      {
+        "id": "9cb76080-acac-4332-98f6-06573dc675e9",
+        "type": "decision",
+        "selected": false,
+        "x": 200,
+        "y": 1400,
+        "extras": {},
+        "ports": [
+          {
+            "id": "f999081f-1777-4eda-87ec-708d713c2825",
+            "type": "default",
+            "selected": false,
+            "name": "c136654b-0125-47a0-a5f2-209826a7879b",
+            "parentNode": "9cb76080-acac-4332-98f6-06573dc675e9",
+            "links": [
+              "79bc7172-2436-4eed-88b7-9fae3bfe5976"
+            ],
+            "in": true,
+            "label": "c136654b-0125-47a0-a5f2-209826a7879b"
+          },
+          {
+            "id": "91cd5f18-3156-4a9a-978c-3328a997cd4d",
+            "type": "default",
+            "selected": false,
+            "name": "25e4b138-9efc-4d32-b6d6-472b9dbb33cc",
+            "parentNode": "9cb76080-acac-4332-98f6-06573dc675e9",
+            "links": [
+              "b149486d-e5bc-41e8-a5cb-407087a8e4f0"
+            ],
+            "in": false,
+            "label": "Yes"
+          },
+          {
+            "id": "e7a32d06-082b-4400-b4af-8783839d46ca",
+            "type": "default",
+            "selected": false,
+            "name": "f1cf1318-d72e-4119-8146-45cb4b2f4459",
+            "parentNode": "9cb76080-acac-4332-98f6-06573dc675e9",
+            "links": [],
+            "in": false,
+            "label": "No"
+          },
+          {
+            "id": "62a1cfd3-7414-4980-8e26-6dc474b95d19",
+            "type": "default",
+            "selected": false,
+            "name": "0302d9c0-e3d0-4b48-b412-84a7431144f1",
+            "parentNode": "9cb76080-acac-4332-98f6-06573dc675e9",
+            "links": [],
+            "in": false,
+            "label": "Maybe"
+          }
+        ],
+        "name": "Decision",
+        "data": {
+          "title": "Application Review",
+          "description": "After an NDA is received, FDA has 60 days to decide whether to file it so it can be reviewed. If FDA files the NDA, the FDA Review team is assigned to evaluate the sponsor’s research on the drug’s safety and effectiveness.",
+          "link": "",
+          "ownerId": "c42222fd-fa9f-4a8d-ad1a-67488117a38c",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 200,
+        "prevY": 1400
+      },
+      {
+        "id": "3500d29d-bc64-4cfa-9877-fc2706978b32",
+        "type": "task",
+        "selected": false,
+        "x": 100,
+        "y": 1500,
+        "extras": {},
+        "ports": [
+          {
+            "id": "5b8494b1-16e4-4449-a9fb-fe7025af5227",
+            "type": "default",
+            "selected": false,
+            "name": "96bd0e5e-0571-4f99-a4ca-f1e2a6ff4d68",
+            "parentNode": "3500d29d-bc64-4cfa-9877-fc2706978b32",
+            "links": [
+              "b149486d-e5bc-41e8-a5cb-407087a8e4f0"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "87410f77-dd1a-4bdf-ad50-ad722c112215",
+            "type": "default",
+            "selected": false,
+            "name": "c3d2aaf2-a934-404a-a949-79a50fe956f2",
+            "parentNode": "3500d29d-bc64-4cfa-9877-fc2706978b32",
+            "links": [
+              "b7f7d6da-718e-4458-9caa-b13e2344de24"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Drug Labeling",
+          "description": "FDA reviews the drug’s professional labeling and assures appropriate information is communicated to health care professionals and consumers.",
+          "link": "",
+          "ownerId": "e186cd00-8423-4879-80da-75d36f0a2872",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 100,
+        "prevY": 1400
+      },
+      {
+        "id": "78d48e9c-70cc-4455-a2ff-c97e0a62be2c",
+        "type": "meeting",
+        "selected": false,
+        "x": 200,
+        "y": 1600,
+        "extras": {},
+        "ports": [
+          {
+            "id": "2f32a9b2-f8a1-4209-8dfe-6fd2d7d0d7b8",
+            "type": "default",
+            "selected": false,
+            "name": "4137086e-44bb-467c-a5f5-9f733fbdadd8",
+            "parentNode": "78d48e9c-70cc-4455-a2ff-c97e0a62be2c",
+            "links": [
+              "b7f7d6da-718e-4458-9caa-b13e2344de24"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "f048e57e-0da2-4c78-be1b-e4d447f89bb2",
+            "type": "default",
+            "selected": false,
+            "name": "375e36ec-6048-4628-a2a8-0a81a1eea9cc",
+            "parentNode": "78d48e9c-70cc-4455-a2ff-c97e0a62be2c",
+            "links": [
+              "1c3b4dd4-8d84-4e23-8a5c-5cfb2eb9d070"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Meeting",
+        "data": {
+          "title": "Facility Inspection",
+          "description": "FDA inspects the facilities where the drug will be manufactured.",
+          "link": "",
+          "ownerId": "c42222fd-fa9f-4a8d-ad1a-67488117a38c",
+          "assigned": [
+            "e186cd00-8423-4879-80da-75d36f0a2872",
+            "df0358f5-40d9-46e3-bea6-5ecc2925fe94"
+          ],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 200,
+        "prevY": 1500
+      },
+      {
+        "id": "add7e0ad-168c-4fab-82b6-b7061bacacaf",
+        "type": "report",
+        "selected": false,
+        "x": 100,
+        "y": 1700,
+        "extras": {},
+        "ports": [
+          {
+            "id": "4c7c6027-7154-457d-bc72-e0e9a0afce19",
+            "type": "default",
+            "selected": false,
+            "name": "2470bcf2-fa1b-4221-a134-642f56145c94",
+            "parentNode": "add7e0ad-168c-4fab-82b6-b7061bacacaf",
+            "links": [
+              "15cb763c-6c72-4490-bd2c-86d1bcf3690e"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "412d31f8-51d2-49df-9f7e-aed39c0b6347",
+            "type": "default",
+            "selected": false,
+            "name": "d11ce185-ff82-4748-87b2-fcd2aeabbba5",
+            "parentNode": "add7e0ad-168c-4fab-82b6-b7061bacacaf",
+            "links": [],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Report",
+        "data": {
+          "title": "Response Letter",
+          "description": "",
+          "link": "",
+          "ownerId": "e186cd00-8423-4879-80da-75d36f0a2872",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 100,
+        "prevY": 1600
+      },
+      {
+        "id": "2c9aee2a-5069-4c09-a6d0-e8c87311bae9",
+        "type": "decision",
+        "selected": false,
+        "x": 200,
+        "y": 1800,
+        "extras": {},
+        "ports": [
+          {
+            "id": "54456df3-8703-448f-8dbe-0d07ab1e6f26",
+            "type": "default",
+            "selected": false,
+            "name": "44f3b612-d242-46d6-9949-6434ee0e6530",
+            "parentNode": "2c9aee2a-5069-4c09-a6d0-e8c87311bae9",
+            "links": [
+              "1c3b4dd4-8d84-4e23-8a5c-5cfb2eb9d070"
+            ],
+            "in": true,
+            "label": "44f3b612-d242-46d6-9949-6434ee0e6530"
+          },
+          {
+            "id": "a01a2059-4c1d-4090-a333-78aa18aff4e3",
+            "type": "default",
+            "selected": false,
+            "name": "f573c08b-6be4-4392-9291-4704225a7bb5",
+            "parentNode": "2c9aee2a-5069-4c09-a6d0-e8c87311bae9",
+            "links": [
+              "6c17909f-c80d-451f-ada4-6035f5bbc30b"
+            ],
+            "in": false,
+            "label": "Yes"
+          },
+          {
+            "id": "38e0c195-d0f3-4f94-9d71-9464f71acbc6",
+            "type": "default",
+            "selected": false,
+            "name": "dbec7146-e10b-42d1-be8c-8d3412ffd4ff",
+            "parentNode": "2c9aee2a-5069-4c09-a6d0-e8c87311bae9",
+            "links": [
+              "15cb763c-6c72-4490-bd2c-86d1bcf3690e"
+            ],
+            "in": false,
+            "label": "No"
+          },
+          {
+            "id": "41a983f1-99e0-4ea2-956b-a8bf1622ddf7",
+            "type": "default",
+            "selected": false,
+            "name": "92e8ad2b-7332-43a3-9a65-31068e0deb6c",
+            "parentNode": "2c9aee2a-5069-4c09-a6d0-e8c87311bae9",
+            "links": [],
+            "in": false,
+            "label": "Maybe"
+          }
+        ],
+        "name": "Decision",
+        "data": {
+          "title": "Drug Approval",
+          "description": "FDA reviewers will approve the application or issue a response letter.\n\nNote: The Accelerated Approval program allows earlier approval of drugs that treat serious diseases and that fill an unmet medical need. The approval is faster because FDA can base the drug’s effectiveness on a “surrogate endpoint,” such as a blood test or X-ray result, rather than waiting for results from a clinical trial. The Fast Track program helps reduce the time for FDA’s review of products that treat serious or life-threatening diseases and those that have the potential to address an unmet medical need. Drug sponsors can submit portions of an application as the information becomes available (“rolling submission”) instead of having to wait until all information is available.",
+          "link": "",
+          "ownerId": "c42222fd-fa9f-4a8d-ad1a-67488117a38c",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 200,
+        "prevY": 1600
+      },
+      {
+        "id": "a82867af-2486-4950-b332-70b4805ab6a9",
+        "type": "report",
+        "selected": false,
+        "x": 200,
+        "y": 1900,
+        "extras": {},
+        "ports": [
+          {
+            "id": "0e4c9bac-18f9-4323-89c7-1b0969966f45",
+            "type": "default",
+            "selected": false,
+            "name": "2e44b775-b301-49b5-8a64-c9eebfc94686",
+            "parentNode": "a82867af-2486-4950-b332-70b4805ab6a9",
+            "links": [
+              "6c17909f-c80d-451f-ada4-6035f5bbc30b"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "0d637dd1-6920-4e56-bf41-d4cf45f052fe",
+            "type": "default",
+            "selected": false,
+            "name": "43a88602-0d57-4c42-846c-0948ee5b39d0",
+            "parentNode": "a82867af-2486-4950-b332-70b4805ab6a9",
+            "links": [
+              "9b7ef547-45ce-415d-814b-0b4871042bb5"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Report",
+        "data": {
+          "title": "FDA Drug Approval",
+          "description": "",
+          "link": "",
+          "ownerId": "c42222fd-fa9f-4a8d-ad1a-67488117a38c",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 200,
+        "prevY": 1700
+      },
+      {
+        "id": "45e59087-3321-4d99-bb7e-e2335e7fbe54",
+        "type": "milestone",
+        "selected": false,
+        "x": 100,
+        "y": 2000,
+        "extras": {},
+        "ports": [
+          {
+            "id": "be863030-6861-414e-bca5-72edde3d17b7",
+            "type": "default",
+            "selected": false,
+            "name": "2d80ee69-3a7e-4100-92c8-de83beda2644",
+            "parentNode": "45e59087-3321-4d99-bb7e-e2335e7fbe54",
+            "links": [
+              "9b7ef547-45ce-415d-814b-0b4871042bb5"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "2b4bd4ac-a138-4834-9d94-24cd8806fe87",
+            "type": "default",
+            "selected": false,
+            "name": "8de42150-fdc3-4c99-a07b-41521bd3d86a",
+            "parentNode": "45e59087-3321-4d99-bb7e-e2335e7fbe54",
+            "links": [
+              "335b822b-5e94-41a7-9592-58756dce9b4b",
+              "01031d25-7ee1-40e9-8c36-2aee7c3a5373"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Milestone",
+        "data": {
+          "title": "Post-Approval Risk Assessment System",
+          "description": "",
+          "link": "",
+          "ownerId": "e186cd00-8423-4879-80da-75d36f0a2872",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 100,
+        "prevY": 1900
+      },
+      {
+        "id": "2e782e73-4d5b-40cc-8271-3ddb2f65aae2",
+        "type": "task",
+        "selected": false,
+        "x": 100,
+        "y": 2100,
+        "extras": {},
+        "ports": [
+          {
+            "id": "0a4ee631-8b31-4a62-ad9f-6fe093df8e03",
+            "type": "default",
+            "selected": false,
+            "name": "3baec626-ff5e-4442-819d-c12d60bf9cfd",
+            "parentNode": "2e782e73-4d5b-40cc-8271-3ddb2f65aae2",
+            "links": [
+              "335b822b-5e94-41a7-9592-58756dce9b4b"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "d77d16ad-6242-409c-b2ae-9e26e4f5b63b",
+            "type": "default",
+            "selected": false,
+            "name": "b8d4a920-3f42-4350-9956-cb6ead472e68",
+            "parentNode": "2e782e73-4d5b-40cc-8271-3ddb2f65aae2",
+            "links": [
+              "b52d1e33-cc0e-4132-83ab-56b10fe01fd9"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Periodic Safety Reports to FDA",
+          "description": "Once FDA approves a drug, the post-marketing monitoring stage begins. The sponsor (typically the manufacturer) is required to submit periodic safety updates to FDA.",
+          "link": "",
+          "ownerId": "e186cd00-8423-4879-80da-75d36f0a2872",
+          "assigned": [
+            "c42222fd-fa9f-4a8d-ad1a-67488117a38c"
+          ],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 100,
+        "prevY": 2000
+      },
+      {
+        "id": "fb38ce8d-63e2-4c61-b21b-55972ca97c2e",
+        "type": "report",
+        "selected": false,
+        "x": 100,
+        "y": 2200,
+        "extras": {},
+        "ports": [
+          {
+            "id": "f23308d5-6670-43ce-8178-ce860e9b67b3",
+            "type": "default",
+            "selected": false,
+            "name": "bf0ba8d2-39ae-4e98-86d1-223119d417e1",
+            "parentNode": "fb38ce8d-63e2-4c61-b21b-55972ca97c2e",
+            "links": [
+              "b52d1e33-cc0e-4132-83ab-56b10fe01fd9"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "4740c727-b608-4b38-a7cd-d745f0a6415b",
+            "type": "default",
+            "selected": false,
+            "name": "b0683d46-ff27-4ccd-bc5e-c11089391aee",
+            "parentNode": "fb38ce8d-63e2-4c61-b21b-55972ca97c2e",
+            "links": [],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Report",
+        "data": {
+          "title": "Safety Reports",
+          "description": "",
+          "link": "",
+          "ownerId": "e186cd00-8423-4879-80da-75d36f0a2872",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 100,
+        "prevY": 2100
+      },
+      {
+        "id": "266b1d3a-bd92-4c15-891c-9c81a1e9fe31",
+        "type": "task",
+        "selected": false,
+        "x": 500,
+        "y": 2300,
+        "extras": {},
+        "ports": [
+          {
+            "id": "00199f86-d2d0-45b0-a409-f219e33b6ada",
+            "type": "default",
+            "selected": false,
+            "name": "b79e8b52-f857-4560-9b5e-1f7a8269dadc",
+            "parentNode": "266b1d3a-bd92-4c15-891c-9c81a1e9fe31",
+            "links": [
+              "01031d25-7ee1-40e9-8c36-2aee7c3a5373"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "ee7b0a6a-3d21-4db2-8b33-41810a5d5c3c",
+            "type": "default",
+            "selected": false,
+            "name": "1c9020fa-05d9-4cfe-b449-83598abe9513",
+            "parentNode": "266b1d3a-bd92-4c15-891c-9c81a1e9fe31",
+            "links": [
+              "35cfe05c-705d-40de-aa6c-069d142a3b81"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Drug Distribution Channels",
+          "description": "",
+          "link": "",
+          "ownerId": "b2a3890e-33d7-4bc3-8cd0-552cbc47bddf",
+          "assigned": [
+            "df0358f5-40d9-46e3-bea6-5ecc2925fe94"
+          ],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 500,
+        "prevY": 2200
+      },
+      {
+        "id": "2a339618-0f76-428f-aa12-64e11d391446",
+        "type": "task",
+        "selected": false,
+        "x": 600,
+        "y": 2400,
+        "extras": {},
+        "ports": [
+          {
+            "id": "1ad9a91e-a662-4e20-8c85-5637572c3634",
+            "type": "default",
+            "selected": false,
+            "name": "30bbc121-0324-4204-a900-53f8a5b0faee",
+            "parentNode": "2a339618-0f76-428f-aa12-64e11d391446",
+            "links": [
+              "35cfe05c-705d-40de-aa6c-069d142a3b81"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "e0d1597c-a2b3-46b5-a69a-1934a8505bed",
+            "type": "default",
+            "selected": false,
+            "name": "36a092c3-174f-4362-8e79-c240d6f5af4b",
+            "parentNode": "2a339618-0f76-428f-aa12-64e11d391446",
+            "links": [],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Reports of Adverse Events",
+          "description": "FDA’s MedWatch voluntary system makes it easier for physicians and consumers to report adverse events. Usually, when important new risks are uncovered, the risks are added to the drug’s labeling and the public is informed of the new information through letters, public health advisories, and other education. In some cases, the use of the drug must be substantially limited. And in rare cases, the drug needs to be withdrawn from the market.",
+          "link": "",
+          "ownerId": "64ab4d59-a574-4f00-a0e5-28ea276c257c",
+          "assigned": [
+            "c42222fd-fa9f-4a8d-ad1a-67488117a38c"
+          ],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 600,
+        "prevY": 2200
+      }
+    ]
+  },
+  "engine": {
+    "id": "25920580-465d-4530-92b8-9b7890d18a9f",
+    "swimlanes": [
+      {
+        "id": "e186cd00-8423-4879-80da-75d36f0a2872",
+        "title": "Drug Sponsor",
+        "subtitle": "",
+        "label": "",
+        "x": 100
+      },
+      {
+        "id": "c42222fd-fa9f-4a8d-ad1a-67488117a38c",
+        "title": "FDA",
+        "subtitle": "",
+        "label": "(CDER) Center for Drug Evaluation and Research",
+        "x": 200,
+        "labelColor": "#7bdcb5"
+      },
+      {
+        "id": "1a8bfd7f-8c26-4250-b436-0efe0727bd15",
+        "title": "Clinical Trials",
+        "subtitle": "",
+        "label": "",
+        "x": 300
+      },
+      {
+        "id": "df0358f5-40d9-46e3-bea6-5ecc2925fe94",
+        "title": "Manufacture Facilities",
+        "subtitle": "",
+        "label": "Drug Sponsor",
+        "x": 400,
+        "labelColor": "#abb8c3"
+      },
+      {
+        "id": "b2a3890e-33d7-4bc3-8cd0-552cbc47bddf",
+        "title": "Shipping",
+        "subtitle": "",
+        "label": "",
+        "x": 500
+      },
+      {
+        "id": "64ab4d59-a574-4f00-a0e5-28ea276c257c",
+        "title": "MedWatch",
+        "subtitle": "",
+        "label": "FDA",
+        "x": 600,
+        "labelColor": "#8ed1fc"
+      }
+    ]
+  },
+  "startDate": "2020-12-28T17:52:19.984Z",
+  "shared": true,
+  "createdDate": "2020-12-28T17:55:21.744Z",
+  "modifiedDate": "2021-03-08T14:36:45.722Z"
+}

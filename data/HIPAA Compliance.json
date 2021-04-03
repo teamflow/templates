@@ -1,0 +1,2825 @@
+{
+  "id": "a0ef2157-ff75-4d57-8580-acb7ca21bcf0",
+  "name": "HIPAA Compliance",
+  "type": "process",
+  "model": {
+    "id": "db494252-0807-413a-99fc-2e30e086bde1",
+    "offsetX": 0,
+    "offsetY": 0,
+    "zoom": 100,
+    "gridSize": 100,
+    "links": [
+      {
+        "id": "478a9e11-9353-4109-8e5d-92f09f841dfb",
+        "type": "default",
+        "selected": false,
+        "source": "bf5483f9-a87c-45f7-ba74-cd69682ab27d",
+        "sourcePort": "2cd167f4-14ab-413a-9d82-f077725c4752",
+        "target": "aa907b08-7326-4676-99ac-27e2c63b90e3",
+        "targetPort": "1f672cb6-d8e5-43ae-8058-5bd785b3e872",
+        "points": [
+          {
+            "id": "1b7b6de3-516c-42a1-a441-8adbd9ad6a86",
+            "selected": false,
+            "x": 475,
+            "y": 651
+          },
+          {
+            "id": "c07a68c8-e4d5-400e-a07f-5505578defe2",
+            "selected": true,
+            "x": 451,
+            "y": 426
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "e14b0648-8fce-45f7-9806-775973d4a0ee",
+        "type": "default",
+        "selected": false,
+        "source": "92e908d8-63cb-48b2-927e-3b4668f1f50a",
+        "sourcePort": "968a1db3-8d41-41d6-b129-fad275c18681",
+        "target": "34aa6933-e131-4483-9618-20e8618f81b1",
+        "targetPort": "f5c5c750-026f-4085-a5b7-ae20130c1190",
+        "points": [
+          {
+            "id": "6415110e-d289-4108-b304-a11af9957bc7",
+            "selected": false,
+            "x": 451,
+            "y": 169
+          },
+          {
+            "id": "dc1f773d-ab63-4eb8-a5bb-ea71c4d431fd",
+            "selected": true,
+            "x": 451,
+            "y": 226
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "af867eef-397b-4c1d-8c22-e612fc7c1f6d",
+        "type": "default",
+        "selected": false,
+        "source": "34aa6933-e131-4483-9618-20e8618f81b1",
+        "sourcePort": "099b9ec8-3218-4f69-b4c7-5c2d27f0746a",
+        "target": "4b177508-ee59-452f-80b4-0c4fd7b40acc",
+        "targetPort": "ec6c222d-5a5a-4fe0-bbce-a85bcf71fb13",
+        "points": [
+          {
+            "id": "77f022fe-55cc-47c8-9939-23f63b394275",
+            "selected": false,
+            "x": 451,
+            "y": 269
+          },
+          {
+            "id": "18c43e30-9a19-432f-b2e6-410a8c628239",
+            "selected": false,
+            "x": 451,
+            "y": 326
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "1e1c138f-ec05-478a-a9b5-17ab2164e3d2",
+        "type": "default",
+        "selected": false,
+        "source": "4b177508-ee59-452f-80b4-0c4fd7b40acc",
+        "sourcePort": "73b2897d-3698-4d49-8630-7c65aef4f463",
+        "target": "aa907b08-7326-4676-99ac-27e2c63b90e3",
+        "targetPort": "1f672cb6-d8e5-43ae-8058-5bd785b3e872",
+        "points": [
+          {
+            "id": "1fb9035e-9ce3-4d86-a2f6-d5c29de1909b",
+            "selected": false,
+            "x": 451,
+            "y": 369
+          },
+          {
+            "id": "77f3f89a-33ea-4818-96b0-376e72364d7f",
+            "selected": true,
+            "x": 451,
+            "y": 426
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "9c3f66fc-3751-4e94-bb5e-897ebde4c3da",
+        "type": "default",
+        "selected": false,
+        "source": "aa907b08-7326-4676-99ac-27e2c63b90e3",
+        "sourcePort": "4c4a756b-66c4-42f4-b755-78adb9b9288c",
+        "target": "fdf78e07-2f13-49c4-a9dc-ad0ae2f588f1",
+        "targetPort": "634325a9-cb8e-4e3e-886e-e80d12cc4f5a",
+        "points": [
+          {
+            "id": "85bd8631-cec1-46b5-84c1-3dd27ae1b577",
+            "selected": false,
+            "x": 451,
+            "y": 469
+          },
+          {
+            "id": "d9a8c959-efdb-4e22-9aad-1528e0438da5",
+            "selected": false,
+            "x": 451,
+            "y": 520
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "581fc1de-e394-4a9c-bd8d-7ee1371423af",
+        "type": "default",
+        "selected": false,
+        "source": "fdf78e07-2f13-49c4-a9dc-ad0ae2f588f1",
+        "sourcePort": "4aaff941-0751-4866-b669-81727e4980b6",
+        "target": "bf5483f9-a87c-45f7-ba74-cd69682ab27d",
+        "targetPort": "5aec0b82-e77c-4b18-9c80-f11e4c079959",
+        "points": [
+          {
+            "id": "6895108a-906a-4517-b27e-050ee6622fbc",
+            "selected": false,
+            "x": 451,
+            "y": 575
+          },
+          {
+            "id": "e067f77c-1569-4182-98f9-0346f24bdbb4",
+            "selected": true,
+            "x": 451,
+            "y": 620
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "7ddc5df1-5590-4b8a-b99d-97585eacf2ab",
+        "type": "default",
+        "selected": false,
+        "source": "bf5483f9-a87c-45f7-ba74-cd69682ab27d",
+        "sourcePort": "14e5d86d-c046-4308-9042-aeafc1e15099",
+        "target": "5d64a57c-4d6c-4c2f-a0c4-e26e4cdee5a3",
+        "targetPort": "3f8dd11e-38ae-47cd-8e46-c02df6913470",
+        "points": [
+          {
+            "id": "63b64c32-0a44-43b7-bb48-9365614c17a6",
+            "selected": false,
+            "x": 451,
+            "y": 677
+          },
+          {
+            "id": "61cfdd6e-9aa8-410a-b4ed-b916625c6fbd",
+            "selected": true,
+            "x": 351,
+            "y": 726
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "85610063-1065-45c0-b686-4ece0ae8010b",
+        "type": "default",
+        "selected": false,
+        "source": "5d64a57c-4d6c-4c2f-a0c4-e26e4cdee5a3",
+        "sourcePort": "50634cc6-562d-4fc2-a567-5fdec3db5c7c",
+        "target": "53f7f9aa-95cb-4b65-9da8-81855bd6833b",
+        "targetPort": "127a5194-eb8d-478a-baf7-c76223a0edbc",
+        "points": [
+          {
+            "id": "b4f08051-9c6f-48f9-afbf-07f0ec614245",
+            "selected": false,
+            "x": 351,
+            "y": 769
+          },
+          {
+            "id": "deade69d-c46e-4480-a8bc-7e91e820bc01",
+            "selected": true,
+            "x": 351,
+            "y": 820
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "610f1841-19ab-4bc7-9f24-63f53a5a399f",
+        "type": "default",
+        "selected": false,
+        "source": "53f7f9aa-95cb-4b65-9da8-81855bd6833b",
+        "sourcePort": "12814ce0-25dc-48d0-8052-b59cdaefd2d5",
+        "target": "7ea0e21e-204e-429f-8568-27808c427ba9",
+        "targetPort": "000f21fd-da9e-4abc-82d9-b7c0bf2fd7ba",
+        "points": [
+          {
+            "id": "041fe799-9a7f-4c7e-94a9-a0c370c0374b",
+            "selected": false,
+            "x": 351,
+            "y": 875
+          },
+          {
+            "id": "2d2add61-1de7-4cca-93f2-e355cd5c0b97",
+            "selected": true,
+            "x": 351,
+            "y": 926
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "07e1d8b1-3e1a-47ee-8482-ce106c6157da",
+        "type": "default",
+        "selected": false,
+        "source": "7ea0e21e-204e-429f-8568-27808c427ba9",
+        "sourcePort": "e999e0f0-e3c4-4689-a658-3ac765368c88",
+        "target": "a6f029e4-c38a-4b9b-9b16-5106e3460a47",
+        "targetPort": "9160807b-c844-452f-ae0d-6f408f2aae84",
+        "points": [
+          {
+            "id": "582c6f62-2e29-48a7-a378-6084fb5611bb",
+            "selected": false,
+            "x": 351,
+            "y": 969
+          },
+          {
+            "id": "6c1dfd24-f1df-4852-b0da-979b32f75270",
+            "selected": true,
+            "x": 351,
+            "y": 1020
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "f7f9c434-d6df-408a-a12d-89b23ef24df4",
+        "type": "default",
+        "selected": false,
+        "source": "a6f029e4-c38a-4b9b-9b16-5106e3460a47",
+        "sourcePort": "1d09249f-462a-4b73-92f6-15f7b2c9f01d",
+        "target": "7c72a64c-75ef-4319-b69e-440e183ce3cc",
+        "targetPort": "5a0e64ee-793f-42d4-b770-048d4a32e908",
+        "points": [
+          {
+            "id": "3d4370a3-6989-4bce-83ce-4f18b198c225",
+            "selected": false,
+            "x": 351,
+            "y": 1075
+          },
+          {
+            "id": "9799d380-cbac-41b0-bfe0-26eb0d1992c7",
+            "selected": false,
+            "x": 351,
+            "y": 1126
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "72197d89-79d7-4418-b169-870d3b2db834",
+        "type": "default",
+        "selected": false,
+        "source": "748a0baa-92b8-42fc-abca-d28902310813",
+        "sourcePort": "82a79845-31e7-47ab-8a97-4d8cbedb2af1",
+        "target": "7c72a64c-75ef-4319-b69e-440e183ce3cc",
+        "targetPort": "5a0e64ee-793f-42d4-b770-048d4a32e908",
+        "points": [
+          {
+            "id": "4b24bc74-46fd-43d2-82d3-4fd9e4c0322e",
+            "selected": false,
+            "x": 175,
+            "y": 1251
+          },
+          {
+            "id": "88366cff-fd8b-4c25-b64f-9fbb329e2fb7",
+            "selected": false,
+            "x": 351,
+            "y": 1126
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "1bd22fe5-d471-47f1-8fdc-d8d2520d7a88",
+        "type": "default",
+        "selected": false,
+        "source": "7c72a64c-75ef-4319-b69e-440e183ce3cc",
+        "sourcePort": "b1be9084-dd0f-4769-8941-0590ea190798",
+        "target": "748a0baa-92b8-42fc-abca-d28902310813",
+        "targetPort": "6782d42d-67e1-448b-ae33-cad1f121d48b",
+        "points": [
+          {
+            "id": "41f16011-b6e9-487d-baca-92cf8d45e3b8",
+            "selected": false,
+            "x": 351,
+            "y": 1169
+          },
+          {
+            "id": "30d25526-657c-4790-ad91-7cecc31171bf",
+            "selected": true,
+            "x": 151,
+            "y": 1220
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "99aea107-9b61-467a-a854-1ca0b6808333",
+        "type": "default",
+        "selected": false,
+        "source": "6920c7a1-45c4-4ac3-801b-e9d9e9e5921f",
+        "sourcePort": "cdcbc12b-10e3-44b1-a789-4714d3f7bc55",
+        "target": "3f940e2e-c6b9-412e-a1dc-6512b7e07d10",
+        "targetPort": "1f740e3f-a54b-4915-aa50-ffebae087d36",
+        "points": [
+          {
+            "id": "1a2f0575-47dc-4770-8f9e-0f9767648f2b",
+            "selected": false,
+            "x": 351,
+            "y": 1369
+          },
+          {
+            "id": "90fddafa-84fd-4071-911e-b318419d4961",
+            "selected": true,
+            "x": 351,
+            "y": 1420
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "bb0c2042-0a91-4688-bcbd-1557265814bf",
+        "type": "default",
+        "selected": false,
+        "source": "748a0baa-92b8-42fc-abca-d28902310813",
+        "sourcePort": "7b8b2ad6-57c3-4527-953c-665ef962ecd2",
+        "target": "6920c7a1-45c4-4ac3-801b-e9d9e9e5921f",
+        "targetPort": "0cd41a55-60fd-4035-a754-26293ec20b73",
+        "points": [
+          {
+            "id": "c64a1db7-fc32-402d-88a6-92ca326f911e",
+            "selected": false,
+            "x": 151,
+            "y": 1277
+          },
+          {
+            "id": "5ba655ea-a628-4b97-8b68-22681c3df344",
+            "selected": true,
+            "x": 351,
+            "y": 1326
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "2211d4fd-57bb-439f-8e78-1bfc2b61ed4b",
+        "type": "default",
+        "selected": false,
+        "source": "a6f2b7b3-e81d-4381-a89e-677ed1326708",
+        "sourcePort": "ee4a1c48-c1b6-4a22-848b-cdd27be3b35f",
+        "target": "33559c3a-879d-456f-a863-7c68894a6d37",
+        "targetPort": "cf1117c4-3a90-415b-92fd-5906ed21a98c",
+        "points": [
+          {
+            "id": "5dc0ae95-8fbd-4b08-ae51-f46a2e6d352e",
+            "selected": false,
+            "x": 151,
+            "y": 1769
+          },
+          {
+            "id": "c7f4a8d5-c009-4da3-a302-1c4489ff1633",
+            "selected": true,
+            "x": 151,
+            "y": 1820
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "d864c710-1a3a-4817-aeb6-2f01d742f0a0",
+        "type": "default",
+        "selected": false,
+        "source": "a8e2facb-76a3-4f00-a684-4b25f583289f",
+        "sourcePort": "64edffc2-437c-4a86-bf1a-eea2aeefb043",
+        "target": "92e908d8-63cb-48b2-927e-3b4668f1f50a",
+        "targetPort": "c082f4b8-539b-4d97-b6dc-33f3512d4ed9",
+        "points": [
+          {
+            "id": "15a3bcba-9c37-4bf1-8c75-38c055d53286",
+            "selected": false,
+            "x": 551,
+            "y": 69
+          },
+          {
+            "id": "78297b0f-6e3f-4eff-91a8-0620a2fde176",
+            "selected": true,
+            "x": 451,
+            "y": 126
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "58bfddc9-3de4-4ba4-871d-90f0de85b59d",
+        "type": "default",
+        "selected": false,
+        "source": "3f940e2e-c6b9-412e-a1dc-6512b7e07d10",
+        "sourcePort": "db78c2ae-d35c-4408-a337-61a319f736a8",
+        "target": "792aa807-4831-4d66-98a5-5ef828c16bc6",
+        "targetPort": "621ed216-b33f-4477-9624-e270cc71eca9",
+        "points": [
+          {
+            "id": "0a7b2e7e-fc1b-4275-b539-cc691d5c3bcf",
+            "selected": false,
+            "x": 351,
+            "y": 1475
+          },
+          {
+            "id": "e4063791-979d-4b39-bf3c-0ae4ae7c6394",
+            "selected": false,
+            "x": 251,
+            "y": 1526
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "08814e08-f735-4250-ad81-2b8560621748",
+        "type": "default",
+        "selected": false,
+        "source": "792aa807-4831-4d66-98a5-5ef828c16bc6",
+        "sourcePort": "1e526d94-7123-4bc2-87ad-aade0faa1c6c",
+        "target": "7e4f89ac-b8d0-461d-8e2e-d776fce66305",
+        "targetPort": "91fbe43e-c5ff-4f76-8312-dee4ab5b0d1b",
+        "points": [
+          {
+            "id": "5aeb749e-5113-449b-8d8e-e19da0e2619b",
+            "selected": false,
+            "x": 251,
+            "y": 1569
+          },
+          {
+            "id": "5b5ba95e-dcce-4eb4-a4ea-4504e0012c89",
+            "selected": false,
+            "x": 251,
+            "y": 1620
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "e9f4b5e7-3ca3-4177-9ead-10062cb0faed",
+        "type": "default",
+        "selected": false,
+        "source": "7e4f89ac-b8d0-461d-8e2e-d776fce66305",
+        "sourcePort": "4b001690-13ba-4b5c-a3c3-7e5428abf67a",
+        "target": "a6f2b7b3-e81d-4381-a89e-677ed1326708",
+        "targetPort": "78b7bcc2-7bac-4c7d-9e92-13762f19e2c1",
+        "points": [
+          {
+            "id": "83d7ec05-dcab-49c1-8593-1f731669c4af",
+            "selected": false,
+            "x": 251,
+            "y": 1675
+          },
+          {
+            "id": "b25bce71-ace3-4b41-818d-a2f1900cd40b",
+            "selected": false,
+            "x": 151,
+            "y": 1726
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "d40c8ecc-2f1e-4cca-834d-862a7b8d6f00",
+        "type": "default",
+        "selected": false,
+        "source": "33559c3a-879d-456f-a863-7c68894a6d37",
+        "sourcePort": "3ca0ca5b-bacd-41cd-b60a-54611f4c7364",
+        "target": "89a93c9d-17da-43ce-a052-9573fb93165d",
+        "targetPort": "df5b80af-66ab-4d63-9303-52d61e792628",
+        "points": [
+          {
+            "id": "c31e85f8-d262-4360-9065-11d8f25b9592",
+            "selected": false,
+            "x": 151,
+            "y": 1875
+          },
+          {
+            "id": "711460d4-e60b-4635-b8a3-d223f6fdfb17",
+            "selected": true,
+            "x": 251,
+            "y": 1926
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "d1348f6d-f950-4eb3-a4a9-5cefee69a391",
+        "type": "default",
+        "selected": false,
+        "source": "98700f7a-3dcc-461c-b045-134a819f1633",
+        "sourcePort": "7a330f21-0a64-4749-bd8a-2ad0e5abc9d2",
+        "target": "ca2eee8e-4eea-4c14-a160-7427b0e755ae",
+        "targetPort": "b5f74e7f-8b5e-45ab-bebe-8bceaea3d8e5",
+        "points": [
+          {
+            "id": "c964be4c-63e0-4e29-846d-5af424123369",
+            "selected": false,
+            "x": 475,
+            "y": 2351
+          },
+          {
+            "id": "737c4bc5-1dbe-49c4-b5c3-d8986de8f3de",
+            "selected": true,
+            "x": 451,
+            "y": 2226
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "38d2241b-18b3-4046-8267-66faaf46feca",
+        "type": "default",
+        "selected": false,
+        "source": "ca2eee8e-4eea-4c14-a160-7427b0e755ae",
+        "sourcePort": "47b4eba5-728c-43cb-9a2e-d4dd50f5b9aa",
+        "target": "8b6c6a15-b48f-4b36-b843-4e367834a129",
+        "targetPort": "a8607d6c-3716-4b9a-8e95-e2adca43ac51",
+        "points": [
+          {
+            "id": "c56ab1c6-fa9b-413b-90fb-c57aed8ac80a",
+            "selected": false,
+            "x": 451,
+            "y": 2269
+          },
+          {
+            "id": "f3ec6321-7af7-4623-b4b2-fd6d9ddca78f",
+            "selected": false,
+            "x": 451,
+            "y": 2420
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "2604c9e6-3bd2-4c90-98f6-62e9492e6bf0",
+        "type": "default",
+        "selected": false,
+        "source": "98700f7a-3dcc-461c-b045-134a819f1633",
+        "sourcePort": "28797184-ede3-4575-aa92-cd74d2c6c016",
+        "target": "8b6c6a15-b48f-4b36-b843-4e367834a129",
+        "targetPort": "a8607d6c-3716-4b9a-8e95-e2adca43ac51",
+        "points": [
+          {
+            "id": "46cac142-7cf4-47a2-a6cd-2804607d67a7",
+            "selected": false,
+            "x": 451,
+            "y": 2377
+          },
+          {
+            "id": "3346673a-247c-4e76-9ab1-55550d5c1acb",
+            "selected": true,
+            "x": 451,
+            "y": 2420
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "c1bb98a3-f2c5-4d63-9d06-6abc0f7f38ee",
+        "type": "default",
+        "selected": false,
+        "source": "8b6c6a15-b48f-4b36-b843-4e367834a129",
+        "sourcePort": "8c9a322b-1d48-42b7-ba0f-04ce73ab53d9",
+        "target": "8634038b-5792-4f7b-8e5f-00c0be1d7a4e",
+        "targetPort": "7360d8a6-3435-4164-acd1-cef89cac7972",
+        "points": [
+          {
+            "id": "36b7427e-091c-486c-9977-266809fc4c90",
+            "selected": false,
+            "x": 451,
+            "y": 2475
+          },
+          {
+            "id": "c5d449c9-4fe3-429b-bf48-41de880bc97d",
+            "selected": true,
+            "x": 151,
+            "y": 2526
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "25516274-2539-49c9-9b44-85bf99c66185",
+        "type": "default",
+        "selected": false,
+        "source": "8634038b-5792-4f7b-8e5f-00c0be1d7a4e",
+        "sourcePort": "964f3af4-c75f-4f57-af5d-3667932a3b42",
+        "target": "dc1fcac1-a4a5-4ad2-836e-550458756162",
+        "targetPort": "a7843e0f-5ea2-4187-97a0-cf2e3c4216dd",
+        "points": [
+          {
+            "id": "063eb526-cc09-4bf5-bd38-4d72bdf3a4a5",
+            "selected": false,
+            "x": 151,
+            "y": 2569
+          },
+          {
+            "id": "bfef7f73-50f7-4b10-8aad-7ce0c696bfb5",
+            "selected": true,
+            "x": 451,
+            "y": 2620
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "51cfd5b7-5f11-4ffe-a931-dd334bf85ae3",
+        "type": "default",
+        "selected": false,
+        "source": "dc1fcac1-a4a5-4ad2-836e-550458756162",
+        "sourcePort": "07d9ac44-d8ed-4e46-bb78-16f7306f4814",
+        "target": "4143a65b-7036-4da6-9c02-7601ff40f290",
+        "targetPort": "f4eaba7c-4614-4024-a664-2f919cdfb6a5",
+        "points": [
+          {
+            "id": "5a4df827-b4b5-4f5a-bea7-f8b58cceb0d2",
+            "selected": false,
+            "x": 451,
+            "y": 2675
+          },
+          {
+            "id": "5180cc7a-85e8-4a5f-994d-ad1a12ff89f2",
+            "selected": true,
+            "x": 451,
+            "y": 2726
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "d08b30ac-33b8-49b1-bbdc-8d042f3916c5",
+        "type": "default",
+        "selected": false,
+        "source": "4143a65b-7036-4da6-9c02-7601ff40f290",
+        "sourcePort": "81e81a14-18bd-4520-b349-28f82ee68f29",
+        "target": "c0db882b-10e8-4ada-b64c-750d4da8d7db",
+        "targetPort": "42377083-fa07-4850-ba56-a2e3dd8723eb",
+        "points": [
+          {
+            "id": "7d23bc9f-6a78-4ff1-8e80-f0a356619455",
+            "selected": false,
+            "x": 451,
+            "y": 2769
+          },
+          {
+            "id": "28991e2b-78eb-496e-9383-411ff7cd6c9d",
+            "selected": false,
+            "x": 451,
+            "y": 2820
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "5eb6bc9b-7c43-4529-8f59-568f0882e727",
+        "type": "default",
+        "selected": false,
+        "source": "89a93c9d-17da-43ce-a052-9573fb93165d",
+        "sourcePort": "90bd5bf3-6560-4518-90b6-376012ec7c11",
+        "target": "9508e442-651c-4abd-9c8a-51c962c15a84",
+        "targetPort": "cb1c22a9-d111-4f66-a52a-e0dedfc898fa",
+        "points": [
+          {
+            "id": "e75a2d0d-a14f-4b1c-a387-ed7909a7f6b6",
+            "selected": false,
+            "x": 251,
+            "y": 1969
+          },
+          {
+            "id": "e25da9be-6047-43e8-8526-046a3704e91f",
+            "selected": true,
+            "x": 251,
+            "y": 2026
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "25c9a4cc-7dad-4c1c-8c4a-b4ffd5d3ac06",
+        "type": "default",
+        "selected": false,
+        "source": "9508e442-651c-4abd-9c8a-51c962c15a84",
+        "sourcePort": "6e3f8d98-1b65-4975-b2ea-897b242424d8",
+        "target": "4c4183c2-982e-4ed8-9313-745b952d6d3a",
+        "targetPort": "6f3a78a2-c211-443f-bfcf-884549726532",
+        "points": [
+          {
+            "id": "dd5235f9-94a6-4c0e-8ec9-1b29c32f11c2",
+            "selected": false,
+            "x": 251,
+            "y": 2069
+          },
+          {
+            "id": "db7d6d48-20dd-4599-bd7e-0fe226a210d9",
+            "selected": true,
+            "x": 251,
+            "y": 2120
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "a0445c2b-1a79-4b78-8e23-b9564e40d656",
+        "type": "default",
+        "selected": false,
+        "source": "4c4183c2-982e-4ed8-9313-745b952d6d3a",
+        "sourcePort": "37d6a72d-cef6-4883-8f77-188a69e6bbe7",
+        "target": "98700f7a-3dcc-461c-b045-134a819f1633",
+        "targetPort": "a43967a1-8572-46af-af09-244a44954747",
+        "points": [
+          {
+            "id": "8bef7fbe-366e-4f13-bc2c-634998b2cdd1",
+            "selected": false,
+            "x": 251,
+            "y": 2175
+          },
+          {
+            "id": "192a919e-2bda-4d35-83aa-64c1e69fce8d",
+            "selected": true,
+            "x": 451,
+            "y": 2320
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      }
+    ],
+    "nodes": [
+      {
+        "id": "a8e2facb-76a3-4f00-a684-4b25f583289f",
+        "type": "task",
+        "selected": false,
+        "x": 500,
+        "y": 0,
+        "extras": {},
+        "ports": [
+          {
+            "id": "2e9e3037-4b07-44e8-892c-660b93cc7c79",
+            "type": "default",
+            "selected": false,
+            "name": "11e9c1b2-b90d-4b26-b5d7-acf03366d6d8",
+            "parentNode": "a8e2facb-76a3-4f00-a684-4b25f583289f",
+            "links": [],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "64edffc2-437c-4a86-bf1a-eea2aeefb043",
+            "type": "default",
+            "selected": false,
+            "name": "869e9a51-8061-41b5-8041-915b91311fdb",
+            "parentNode": "a8e2facb-76a3-4f00-a684-4b25f583289f",
+            "links": [
+              "d864c710-1a3a-4817-aeb6-2f01d742f0a0"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Designate a Compliance, Security & Privacy Officer",
+          "description": "You must first designate a Compliance, Security & Privacy Officer for your organization.\n\n- Compliance Officer:  is responsible for developing compliance & training programs as well as managing business associate agreements.\n- Security Officer:  is responsible for compliance with the Administrative, Physical and Technical Safeguards of the Security Policies.\n- Privacy Officer:  is responsible for developing a HIPAA-compliant privacy program, oversee ongoing employee privacy training, conduct risk assessments and develop HIPAA-compliant procedures where necessary.",
+          "link": "",
+          "ownerId": "f3d68447-f65f-4f18-aec0-eedde635b504",
+          "assigned": [
+            "d1e23c42-8cc0-473b-8b7b-dca705d1c944",
+            "ebe49e2c-a11b-4dd5-b71a-a1a5fe7c8f7b",
+            "3de36438-87b2-4abb-a1f1-b31b096bb390"
+          ],
+          "costCurrency": "$",
+          "duration": 2,
+          "durationUnit": "hours"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 500,
+        "prevY": 0
+      },
+      {
+        "id": "92e908d8-63cb-48b2-927e-3b4668f1f50a",
+        "type": "task",
+        "selected": false,
+        "x": 400,
+        "y": 100,
+        "extras": {},
+        "ports": [
+          {
+            "id": "c082f4b8-539b-4d97-b6dc-33f3512d4ed9",
+            "type": "default",
+            "selected": false,
+            "name": "0933fe44-3fc4-400b-948c-2255103e315d",
+            "parentNode": "92e908d8-63cb-48b2-927e-3b4668f1f50a",
+            "links": [
+              "d864c710-1a3a-4817-aeb6-2f01d742f0a0"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "968a1db3-8d41-41d6-b129-fad275c18681",
+            "type": "default",
+            "selected": false,
+            "name": "eed1e90b-13a4-438f-8ea1-e9a440b8578c",
+            "parentNode": "92e908d8-63cb-48b2-927e-3b4668f1f50a",
+            "links": [
+              "e14b0648-8fce-45f7-9806-775973d4a0ee"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Conduct Security Risk Assessment",
+          "description": "Following the NIST Guidelines, conduct a Security Risk Assessment on your organization. A risk assessment helps reveal areas where your organization’s protected health information (PHI) could be at risk.",
+          "link": "",
+          "ownerId": "3de36438-87b2-4abb-a1f1-b31b096bb390",
+          "assigned": [
+            "ebe49e2c-a11b-4dd5-b71a-a1a5fe7c8f7b"
+          ],
+          "costCurrency": "$",
+          "duration": 1,
+          "durationUnit": "weeks",
+          "docs": [
+            "https://www.healthit.gov/topic/privacy-security-and-hipaa/security-risk-assessment-tool"
+          ]
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 400,
+        "prevY": 100
+      },
+      {
+        "id": "34aa6933-e131-4483-9618-20e8618f81b1",
+        "type": "task",
+        "selected": false,
+        "x": 400,
+        "y": 200,
+        "extras": {},
+        "ports": [
+          {
+            "id": "f5c5c750-026f-4085-a5b7-ae20130c1190",
+            "type": "default",
+            "selected": false,
+            "name": "1e0765b7-ad11-4242-9eaa-cd7d8443d3de",
+            "parentNode": "34aa6933-e131-4483-9618-20e8618f81b1",
+            "links": [
+              "e14b0648-8fce-45f7-9806-775973d4a0ee"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "099b9ec8-3218-4f69-b4c7-5c2d27f0746a",
+            "type": "default",
+            "selected": false,
+            "name": "72c414a1-4624-47d2-8bc2-167d43cf2c30",
+            "parentNode": "34aa6933-e131-4483-9618-20e8618f81b1",
+            "links": [
+              "af867eef-397b-4c1d-8c22-e612fc7c1f6d"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Conduct Privacy Assessment",
+          "description": "Conduct a Privacy Assessment on your organization. Identify and mitigate risks, including risks to confidentiality, at every stage of the system life cycle.",
+          "link": "",
+          "ownerId": "3de36438-87b2-4abb-a1f1-b31b096bb390",
+          "assigned": [],
+          "costCurrency": "$",
+          "duration": 1,
+          "durationUnit": "weeks"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 100,
+        "prevY": 100
+      },
+      {
+        "id": "4b177508-ee59-452f-80b4-0c4fd7b40acc",
+        "type": "task",
+        "selected": false,
+        "x": 400,
+        "y": 300,
+        "extras": {},
+        "ports": [
+          {
+            "id": "ec6c222d-5a5a-4fe0-bbce-a85bcf71fb13",
+            "type": "default",
+            "selected": false,
+            "name": "d4ef8e6a-8020-460b-9957-ed55063a6f5c",
+            "parentNode": "4b177508-ee59-452f-80b4-0c4fd7b40acc",
+            "links": [
+              "af867eef-397b-4c1d-8c22-e612fc7c1f6d"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "73b2897d-3698-4d49-8630-7c65aef4f463",
+            "type": "default",
+            "selected": false,
+            "name": "67cb265e-71c9-4d5d-9ada-a55cca34fe0c",
+            "parentNode": "4b177508-ee59-452f-80b4-0c4fd7b40acc",
+            "links": [
+              "1e1c138f-ec05-478a-a9b5-17ab2164e3d2"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Conduct Administrative Assessment",
+          "description": "Conduct an Administrative Assessment and evaluate what policies does your organization currently have in place to ensure the security of PHI.",
+          "link": "",
+          "ownerId": "3de36438-87b2-4abb-a1f1-b31b096bb390",
+          "assigned": [
+            "d1e23c42-8cc0-473b-8b7b-dca705d1c944"
+          ],
+          "costCurrency": "$",
+          "duration": 1,
+          "durationUnit": "weeks"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 100,
+        "prevY": 200
+      },
+      {
+        "id": "aa907b08-7326-4676-99ac-27e2c63b90e3",
+        "type": "task",
+        "selected": false,
+        "x": 400,
+        "y": 400,
+        "extras": {},
+        "ports": [
+          {
+            "id": "1f672cb6-d8e5-43ae-8058-5bd785b3e872",
+            "type": "default",
+            "selected": false,
+            "name": "79cec932-f791-456d-8e86-ab714572f84b",
+            "parentNode": "aa907b08-7326-4676-99ac-27e2c63b90e3",
+            "links": [
+              "478a9e11-9353-4109-8e5d-92f09f841dfb",
+              "1e1c138f-ec05-478a-a9b5-17ab2164e3d2"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "4c4a756b-66c4-42f4-b755-78adb9b9288c",
+            "type": "default",
+            "selected": false,
+            "name": "1d502d86-295f-4b25-8ab8-1f8e915af687",
+            "parentNode": "aa907b08-7326-4676-99ac-27e2c63b90e3",
+            "links": [
+              "9c3f66fc-3751-4e94-bb5e-897ebde4c3da"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Document all deficiencies from assessments",
+          "description": "Create a document that itemizes all of the deficiencies from the following:\n\n- Security Risk Assessment\n- Privacy Assessment\n- Administrative Assessment",
+          "link": "",
+          "ownerId": "3de36438-87b2-4abb-a1f1-b31b096bb390",
+          "assigned": [],
+          "costCurrency": "$",
+          "duration": 1,
+          "durationUnit": "days"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 100,
+        "prevY": 300
+      },
+      {
+        "id": "fdf78e07-2f13-49c4-a9dc-ad0ae2f588f1",
+        "type": "report",
+        "selected": false,
+        "x": 400,
+        "y": 500,
+        "extras": {},
+        "ports": [
+          {
+            "id": "634325a9-cb8e-4e3e-886e-e80d12cc4f5a",
+            "type": "default",
+            "selected": false,
+            "name": "04241de0-39fc-4150-94fd-677e5136f422",
+            "parentNode": "fdf78e07-2f13-49c4-a9dc-ad0ae2f588f1",
+            "links": [
+              "9c3f66fc-3751-4e94-bb5e-897ebde4c3da"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "4aaff941-0751-4866-b669-81727e4980b6",
+            "type": "default",
+            "selected": false,
+            "name": "ff700ecd-1b34-48e8-8768-b3b5b5c82037",
+            "parentNode": "fdf78e07-2f13-49c4-a9dc-ad0ae2f588f1",
+            "links": [
+              "581fc1de-e394-4a9c-bd8d-7ee1371423af"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Report",
+        "data": {
+          "title": "List of Deficiencies",
+          "description": "This is a document of all the deficiencies from the following:\n\n- Security Risk Assessment\n- Privacy Assessment\n- Administrative Assessment",
+          "link": "",
+          "ownerId": "3de36438-87b2-4abb-a1f1-b31b096bb390",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 100,
+        "prevY": 400
+      },
+      {
+        "id": "bf5483f9-a87c-45f7-ba74-cd69682ab27d",
+        "type": "decision",
+        "selected": false,
+        "x": 400,
+        "y": 600,
+        "extras": {},
+        "ports": [
+          {
+            "id": "5aec0b82-e77c-4b18-9c80-f11e4c079959",
+            "type": "default",
+            "selected": false,
+            "name": "4ec3d826-4ddb-4af5-b58d-fc9ac14a9fa8",
+            "parentNode": "bf5483f9-a87c-45f7-ba74-cd69682ab27d",
+            "links": [
+              "581fc1de-e394-4a9c-bd8d-7ee1371423af"
+            ],
+            "in": true,
+            "label": "4ec3d826-4ddb-4af5-b58d-fc9ac14a9fa8"
+          },
+          {
+            "id": "14e5d86d-c046-4308-9042-aeafc1e15099",
+            "type": "default",
+            "selected": false,
+            "name": "c345a0ba-1c18-4742-80a9-e210710c8de0",
+            "parentNode": "bf5483f9-a87c-45f7-ba74-cd69682ab27d",
+            "links": [
+              "7ddc5df1-5590-4b8a-b99d-97585eacf2ab"
+            ],
+            "in": false,
+            "label": "Yes"
+          },
+          {
+            "id": "2cd167f4-14ab-413a-9d82-f077725c4752",
+            "type": "default",
+            "selected": false,
+            "name": "9ffe2928-2056-4b4f-886c-63d09049a662",
+            "parentNode": "bf5483f9-a87c-45f7-ba74-cd69682ab27d",
+            "links": [
+              "478a9e11-9353-4109-8e5d-92f09f841dfb"
+            ],
+            "in": false,
+            "label": "No"
+          },
+          {
+            "id": "622065bb-aab1-4973-8b91-b907b71a4825",
+            "type": "default",
+            "selected": false,
+            "name": "a6c879a5-b3a4-433a-9d5f-02b065eee028",
+            "parentNode": "bf5483f9-a87c-45f7-ba74-cd69682ab27d",
+            "links": [],
+            "in": false,
+            "label": "Maybe"
+          }
+        ],
+        "name": "Decision",
+        "data": {
+          "title": "Have all deficiencies been identified and documented?",
+          "description": "Have you identified all deficiencies discovered during the audits?\nHave you documented all deficiencies?",
+          "link": "",
+          "ownerId": "3de36438-87b2-4abb-a1f1-b31b096bb390",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 100,
+        "prevY": 400
+      },
+      {
+        "id": "5d64a57c-4d6c-4c2f-a0c4-e26e4cdee5a3",
+        "type": "task",
+        "selected": false,
+        "x": 300,
+        "y": 700,
+        "extras": {},
+        "ports": [
+          {
+            "id": "3f8dd11e-38ae-47cd-8e46-c02df6913470",
+            "type": "default",
+            "selected": false,
+            "name": "a88ce899-1156-49e4-a182-2fb03ee81adc",
+            "parentNode": "5d64a57c-4d6c-4c2f-a0c4-e26e4cdee5a3",
+            "links": [
+              "7ddc5df1-5590-4b8a-b99d-97585eacf2ab"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "50634cc6-562d-4fc2-a567-5fdec3db5c7c",
+            "type": "default",
+            "selected": false,
+            "name": "6d2232d3-1bde-4ab0-9778-5da93db19bfd",
+            "parentNode": "5d64a57c-4d6c-4c2f-a0c4-e26e4cdee5a3",
+            "links": [
+              "85610063-1065-45c0-b686-4ece0ae8010b"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Create remediation plans to address deficiencies",
+          "description": "Using the deficiencies from the audits, create remediation plans to address the deficiencies for the following:\n\n- Security Risk Assessment\n- Privacy Assessment\n- Administrative Assessment",
+          "link": "",
+          "ownerId": "ebe49e2c-a11b-4dd5-b71a-a1a5fe7c8f7b",
+          "assigned": [],
+          "costCurrency": "$",
+          "duration": 1,
+          "durationUnit": "weeks"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 200,
+        "prevY": 600
+      },
+      {
+        "id": "53f7f9aa-95cb-4b65-9da8-81855bd6833b",
+        "type": "report",
+        "selected": false,
+        "x": 300,
+        "y": 800,
+        "extras": {},
+        "ports": [
+          {
+            "id": "127a5194-eb8d-478a-baf7-c76223a0edbc",
+            "type": "default",
+            "selected": false,
+            "name": "0a29d79d-b037-49ee-86cf-88fbb2527288",
+            "parentNode": "53f7f9aa-95cb-4b65-9da8-81855bd6833b",
+            "links": [
+              "85610063-1065-45c0-b686-4ece0ae8010b"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "12814ce0-25dc-48d0-8052-b59cdaefd2d5",
+            "type": "default",
+            "selected": false,
+            "name": "51b50e7d-489b-4379-bc7b-6d664d0ea792",
+            "parentNode": "53f7f9aa-95cb-4b65-9da8-81855bd6833b",
+            "links": [
+              "610f1841-19ab-4bc7-9f24-63f53a5a399f"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Report",
+        "data": {
+          "title": "Remediation Plan",
+          "description": "Remediation Plan that addresses the deficiencies in the following audits:\n\n- Security Risk Assessment\n- Privacy Assessment\n- Administrative Assessment",
+          "link": "",
+          "ownerId": "ebe49e2c-a11b-4dd5-b71a-a1a5fe7c8f7b",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 200,
+        "prevY": 700
+      },
+      {
+        "id": "7ea0e21e-204e-429f-8568-27808c427ba9",
+        "type": "task",
+        "selected": false,
+        "x": 300,
+        "y": 900,
+        "extras": {},
+        "ports": [
+          {
+            "id": "000f21fd-da9e-4abc-82d9-b7c0bf2fd7ba",
+            "type": "default",
+            "selected": false,
+            "name": "f3638bfd-9fe9-425b-a9c5-3794b2ebd088",
+            "parentNode": "7ea0e21e-204e-429f-8568-27808c427ba9",
+            "links": [
+              "610f1841-19ab-4bc7-9f24-63f53a5a399f"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "e999e0f0-e3c4-4689-a658-3ac765368c88",
+            "type": "default",
+            "selected": false,
+            "name": "59d97bc9-8d1b-4b8b-afdb-9855bd75a59a",
+            "parentNode": "7ea0e21e-204e-429f-8568-27808c427ba9",
+            "links": [
+              "07e1d8b1-3e1a-47ee-8482-ce106c6157da"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Develop Policies & Procedures for Privacy, Security & Breaches",
+          "description": "Create Policies and Procedures relevant to the HIPAA Privacy, Security, and Breach Notification Rules. ",
+          "link": "",
+          "ownerId": "ebe49e2c-a11b-4dd5-b71a-a1a5fe7c8f7b",
+          "assigned": [],
+          "costCurrency": "$",
+          "duration": 2,
+          "durationUnit": "weeks"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 200,
+        "prevY": 800
+      },
+      {
+        "id": "a6f029e4-c38a-4b9b-9b16-5106e3460a47",
+        "type": "report",
+        "selected": false,
+        "x": 300,
+        "y": 1000,
+        "extras": {},
+        "ports": [
+          {
+            "id": "9160807b-c844-452f-ae0d-6f408f2aae84",
+            "type": "default",
+            "selected": false,
+            "name": "2e2883e0-9ad0-4045-be2f-63a088b814dd",
+            "parentNode": "a6f029e4-c38a-4b9b-9b16-5106e3460a47",
+            "links": [
+              "07e1d8b1-3e1a-47ee-8482-ce106c6157da"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "1d09249f-462a-4b73-92f6-15f7b2c9f01d",
+            "type": "default",
+            "selected": false,
+            "name": "10c2bbfd-6804-4fa4-ac0f-034a9270198e",
+            "parentNode": "a6f029e4-c38a-4b9b-9b16-5106e3460a47",
+            "links": [
+              "f7f9c434-d6df-408a-a12d-89b23ef24df4"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Report",
+        "data": {
+          "title": "Policies & Procedures",
+          "description": "Document the Policies & Procedures for HIPAA Privacy, Security and Breach Notification Rules.",
+          "link": "",
+          "ownerId": "ebe49e2c-a11b-4dd5-b71a-a1a5fe7c8f7b",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 200,
+        "prevY": 900
+      },
+      {
+        "id": "7c72a64c-75ef-4319-b69e-440e183ce3cc",
+        "type": "meeting",
+        "selected": false,
+        "x": 300,
+        "y": 1100,
+        "extras": {},
+        "ports": [
+          {
+            "id": "5a0e64ee-793f-42d4-b770-048d4a32e908",
+            "type": "default",
+            "selected": false,
+            "name": "aba60ef1-80db-4b16-a2b9-f9c11f357388",
+            "parentNode": "7c72a64c-75ef-4319-b69e-440e183ce3cc",
+            "links": [
+              "f7f9c434-d6df-408a-a12d-89b23ef24df4",
+              "72197d89-79d7-4418-b169-870d3b2db834"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "b1be9084-dd0f-4769-8941-0590ea190798",
+            "type": "default",
+            "selected": false,
+            "name": "273c5184-786e-4513-af0e-87cfab1a20af",
+            "parentNode": "7c72a64c-75ef-4319-b69e-440e183ce3cc",
+            "links": [
+              "1bd22fe5-d471-47f1-8fdc-d8d2520d7a88"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Meeting",
+        "data": {
+          "title": "Communicate the Policies & Procedures",
+          "description": "Make your Policies & Procedures clearly available to everyone in your organization. Take time to review the Policies & Procedures with your staff.",
+          "link": "",
+          "ownerId": "ebe49e2c-a11b-4dd5-b71a-a1a5fe7c8f7b",
+          "assigned": [
+            "d1e23c42-8cc0-473b-8b7b-dca705d1c944",
+            "3de36438-87b2-4abb-a1f1-b31b096bb390",
+            "7aab960c-a094-4c96-94aa-fa878854c71e",
+            "f3d68447-f65f-4f18-aec0-eedde635b504"
+          ],
+          "costCurrency": "$",
+          "duration": 1,
+          "durationUnit": "days"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 200,
+        "prevY": 1000
+      },
+      {
+        "id": "748a0baa-92b8-42fc-abca-d28902310813",
+        "type": "decision",
+        "selected": false,
+        "x": 100,
+        "y": 1200,
+        "extras": {},
+        "ports": [
+          {
+            "id": "6782d42d-67e1-448b-ae33-cad1f121d48b",
+            "type": "default",
+            "selected": false,
+            "name": "2bd6c0a2-7f63-4af4-b8d3-f0f55ab6b3f6",
+            "parentNode": "748a0baa-92b8-42fc-abca-d28902310813",
+            "links": [
+              "1bd22fe5-d471-47f1-8fdc-d8d2520d7a88"
+            ],
+            "in": true,
+            "label": "2bd6c0a2-7f63-4af4-b8d3-f0f55ab6b3f6"
+          },
+          {
+            "id": "7b8b2ad6-57c3-4527-953c-665ef962ecd2",
+            "type": "default",
+            "selected": false,
+            "name": "8e891024-3cae-489f-b8f4-9993748d3e66",
+            "parentNode": "748a0baa-92b8-42fc-abca-d28902310813",
+            "links": [
+              "bb0c2042-0a91-4688-bcbd-1557265814bf"
+            ],
+            "in": false,
+            "label": "Yes"
+          },
+          {
+            "id": "82a79845-31e7-47ab-8a97-4d8cbedb2af1",
+            "type": "default",
+            "selected": false,
+            "name": "79a6dc63-2e82-4f40-9f90-58fbff82ad7e",
+            "parentNode": "748a0baa-92b8-42fc-abca-d28902310813",
+            "links": [
+              "72197d89-79d7-4418-b169-870d3b2db834"
+            ],
+            "in": false,
+            "label": "No"
+          },
+          {
+            "id": "2fa10a3e-c06b-45d3-ae2f-cf960fb1f960",
+            "type": "default",
+            "selected": false,
+            "name": "a042ad53-2fc1-42ad-894f-fc538ce40901",
+            "parentNode": "748a0baa-92b8-42fc-abca-d28902310813",
+            "links": [],
+            "in": false,
+            "label": "Maybe"
+          }
+        ],
+        "name": "Decision",
+        "data": {
+          "title": "Attestation to Policies & Procedures?",
+          "description": "Have all staff members read and attested to the Policies and Procedures?",
+          "link": "",
+          "ownerId": "7aab960c-a094-4c96-94aa-fa878854c71e",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 100,
+        "prevY": 1100
+      },
+      {
+        "id": "6920c7a1-45c4-4ac3-801b-e9d9e9e5921f",
+        "type": "task",
+        "selected": false,
+        "x": 300,
+        "y": 1300,
+        "extras": {},
+        "ports": [
+          {
+            "id": "0cd41a55-60fd-4035-a754-26293ec20b73",
+            "type": "default",
+            "selected": false,
+            "name": "298e9777-86dd-43ab-8847-82b09b7a9987",
+            "parentNode": "6920c7a1-45c4-4ac3-801b-e9d9e9e5921f",
+            "links": [
+              "bb0c2042-0a91-4688-bcbd-1557265814bf"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "cdcbc12b-10e3-44b1-a789-4714d3f7bc55",
+            "type": "default",
+            "selected": false,
+            "name": "101b3f80-db97-405b-bf3c-f76d0dccb20d",
+            "parentNode": "6920c7a1-45c4-4ac3-801b-e9d9e9e5921f",
+            "links": [
+              "99aea107-9b61-467a-a854-1ca0b6808333"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Document Attestation",
+          "description": "Document the Attestation to Policies & Procedures from all staff members.",
+          "link": "",
+          "ownerId": "ebe49e2c-a11b-4dd5-b71a-a1a5fe7c8f7b",
+          "assigned": [],
+          "costCurrency": "$",
+          "duration": 1,
+          "durationUnit": "days"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 300,
+        "prevY": 1200
+      },
+      {
+        "id": "3f940e2e-c6b9-412e-a1dc-6512b7e07d10",
+        "type": "report",
+        "selected": false,
+        "x": 300,
+        "y": 1400,
+        "extras": {},
+        "ports": [
+          {
+            "id": "1f740e3f-a54b-4915-aa50-ffebae087d36",
+            "type": "default",
+            "selected": false,
+            "name": "1c09ca60-dc58-4e85-9809-66ff2c51bc63",
+            "parentNode": "3f940e2e-c6b9-412e-a1dc-6512b7e07d10",
+            "links": [
+              "99aea107-9b61-467a-a854-1ca0b6808333"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "db78c2ae-d35c-4408-a337-61a319f736a8",
+            "type": "default",
+            "selected": false,
+            "name": "8f1076aa-1e98-4f18-9847-d7fa07a82420",
+            "parentNode": "3f940e2e-c6b9-412e-a1dc-6512b7e07d10",
+            "links": [
+              "58bfddc9-3de4-4ba4-871d-90f0de85b59d"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Report",
+        "data": {
+          "title": "Attestation to Policies & Procedures",
+          "description": "This is the document of everyone staff member's Attestation to the Policies & Procedures.",
+          "link": "",
+          "ownerId": "ebe49e2c-a11b-4dd5-b71a-a1a5fe7c8f7b",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 300,
+        "prevY": 1300
+      },
+      {
+        "id": "792aa807-4831-4d66-98a5-5ef828c16bc6",
+        "type": "task",
+        "selected": false,
+        "x": 200,
+        "y": 1500,
+        "extras": {},
+        "ports": [
+          {
+            "id": "621ed216-b33f-4477-9624-e270cc71eca9",
+            "type": "default",
+            "selected": false,
+            "name": "a56d75d7-a4cc-4d2a-be3f-2072be5b6ac1",
+            "parentNode": "792aa807-4831-4d66-98a5-5ef828c16bc6",
+            "links": [
+              "58bfddc9-3de4-4ba4-871d-90f0de85b59d"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "1e526d94-7123-4bc2-87ad-aade0faa1c6c",
+            "type": "default",
+            "selected": false,
+            "name": "a7f1d00d-2c9b-4591-b0ab-14a5eacacc05",
+            "parentNode": "792aa807-4831-4d66-98a5-5ef828c16bc6",
+            "links": [
+              "08814e08-f735-4250-ad81-2b8560621748"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Develop a Compliance & Training Program",
+          "description": "Develop a Compliance & Training program that makes it clear for everyone in your organization what your policies are and how to remain compliant. Training materials should also provide a more comprehensive overview of HIPAA compliance.",
+          "link": "",
+          "ownerId": "d1e23c42-8cc0-473b-8b7b-dca705d1c944",
+          "assigned": [
+            "ebe49e2c-a11b-4dd5-b71a-a1a5fe7c8f7b",
+            "3de36438-87b2-4abb-a1f1-b31b096bb390"
+          ],
+          "costCurrency": "$",
+          "duration": 2,
+          "durationUnit": "weeks"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 200,
+        "prevY": 1500
+      },
+      {
+        "id": "7e4f89ac-b8d0-461d-8e2e-d776fce66305",
+        "type": "report",
+        "selected": false,
+        "x": 200,
+        "y": 1600,
+        "extras": {},
+        "ports": [
+          {
+            "id": "91fbe43e-c5ff-4f76-8312-dee4ab5b0d1b",
+            "type": "default",
+            "selected": false,
+            "name": "de4ee1de-04fb-4cdc-b3a4-0bb58b6e52c5",
+            "parentNode": "7e4f89ac-b8d0-461d-8e2e-d776fce66305",
+            "links": [
+              "08814e08-f735-4250-ad81-2b8560621748"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "4b001690-13ba-4b5c-a3c3-7e5428abf67a",
+            "type": "default",
+            "selected": false,
+            "name": "63f486cf-ee89-40df-963b-77505b4b2008",
+            "parentNode": "7e4f89ac-b8d0-461d-8e2e-d776fce66305",
+            "links": [
+              "e9f4b5e7-3ca3-4177-9ead-10062cb0faed"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Report",
+        "data": {
+          "title": "Compliance & Training Program",
+          "description": "This is the document for your organization's Compliance & Training Program.",
+          "link": "",
+          "ownerId": "d1e23c42-8cc0-473b-8b7b-dca705d1c944",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 200,
+        "prevY": 1600
+      },
+      {
+        "id": "a6f2b7b3-e81d-4381-a89e-677ed1326708",
+        "type": "task",
+        "selected": false,
+        "x": 100,
+        "y": 1700,
+        "extras": {},
+        "ports": [
+          {
+            "id": "78b7bcc2-7bac-4c7d-9e92-13762f19e2c1",
+            "type": "default",
+            "selected": false,
+            "name": "7354966b-2a9c-4a52-9788-0d32da839c09",
+            "parentNode": "a6f2b7b3-e81d-4381-a89e-677ed1326708",
+            "links": [
+              "e9f4b5e7-3ca3-4177-9ead-10062cb0faed"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "ee4a1c48-c1b6-4a22-848b-cdd27be3b35f",
+            "type": "default",
+            "selected": false,
+            "name": "50159802-aa81-4a28-b89a-652c326805aa",
+            "parentNode": "a6f2b7b3-e81d-4381-a89e-677ed1326708",
+            "links": [
+              "2211d4fd-57bb-439f-8e78-1bfc2b61ed4b"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Perform Annual HIPAA Training",
+          "description": "Require all staff members perform an Annual HIPAA Training based on your Compliance & Training program.",
+          "link": "",
+          "ownerId": "7aab960c-a094-4c96-94aa-fa878854c71e",
+          "assigned": [
+            "d1e23c42-8cc0-473b-8b7b-dca705d1c944",
+            "ebe49e2c-a11b-4dd5-b71a-a1a5fe7c8f7b",
+            "f3d68447-f65f-4f18-aec0-eedde635b504",
+            "3de36438-87b2-4abb-a1f1-b31b096bb390"
+          ],
+          "costCurrency": "$",
+          "duration": 4,
+          "durationUnit": "weeks"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 100,
+        "prevY": 1400
+      },
+      {
+        "id": "33559c3a-879d-456f-a863-7c68894a6d37",
+        "type": "report",
+        "selected": false,
+        "x": 100,
+        "y": 1800,
+        "extras": {},
+        "ports": [
+          {
+            "id": "cf1117c4-3a90-415b-92fd-5906ed21a98c",
+            "type": "default",
+            "selected": false,
+            "name": "7462b08f-e279-46e7-9a9b-4b6f620575f1",
+            "parentNode": "33559c3a-879d-456f-a863-7c68894a6d37",
+            "links": [
+              "2211d4fd-57bb-439f-8e78-1bfc2b61ed4b"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "3ca0ca5b-bacd-41cd-b60a-54611f4c7364",
+            "type": "default",
+            "selected": false,
+            "name": "ddc05af2-b0b1-4fe1-88b2-1cfb620bf5a3",
+            "parentNode": "33559c3a-879d-456f-a863-7c68894a6d37",
+            "links": [
+              "d40c8ecc-2f1e-4cca-834d-862a7b8d6f00"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Report",
+        "data": {
+          "title": "Training Certificate",
+          "description": "Require certificates for completion of your organization's HIPAA Training.",
+          "link": "",
+          "ownerId": "7aab960c-a094-4c96-94aa-fa878854c71e",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 100,
+        "prevY": 1500
+      },
+      {
+        "id": "89a93c9d-17da-43ce-a052-9573fb93165d",
+        "type": "task",
+        "selected": false,
+        "x": 200,
+        "y": 1900,
+        "extras": {},
+        "ports": [
+          {
+            "id": "df5b80af-66ab-4d63-9303-52d61e792628",
+            "type": "default",
+            "selected": false,
+            "name": "6e0fff88-9fcf-43c6-9e68-715e832e08d6",
+            "parentNode": "89a93c9d-17da-43ce-a052-9573fb93165d",
+            "links": [
+              "d40c8ecc-2f1e-4cca-834d-862a7b8d6f00"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "90bd5bf3-6560-4518-90b6-376012ec7c11",
+            "type": "default",
+            "selected": false,
+            "name": "f21c28b7-d5fb-489f-91a7-ce1e151f2027",
+            "parentNode": "89a93c9d-17da-43ce-a052-9573fb93165d",
+            "links": [
+              "5eb6bc9b-7c43-4529-8f59-568f0882e727"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Establish Business Associate Agreements",
+          "description": "The HIPAA Privacy Rule requires all Covered Entities to have a signed Business Associate Agreement (BAA) with any Business Associate (BA) they hire that may come in contact with PHI. Establish any entity in which you have a business association and require a signed BAA.",
+          "link": "",
+          "ownerId": "d1e23c42-8cc0-473b-8b7b-dca705d1c944",
+          "assigned": [],
+          "costCurrency": "$",
+          "duration": 2,
+          "durationUnit": "weeks"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 200,
+        "prevY": 1800
+      },
+      {
+        "id": "9508e442-651c-4abd-9c8a-51c962c15a84",
+        "type": "task",
+        "selected": false,
+        "x": 200,
+        "y": 2000,
+        "extras": {},
+        "ports": [
+          {
+            "id": "cb1c22a9-d111-4f66-a52a-e0dedfc898fa",
+            "type": "default",
+            "selected": false,
+            "name": "72e99d42-9916-49db-9552-9754b45c356c",
+            "parentNode": "9508e442-651c-4abd-9c8a-51c962c15a84",
+            "links": [
+              "5eb6bc9b-7c43-4529-8f59-568f0882e727"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "6e3f8d98-1b65-4975-b2ea-897b242424d8",
+            "type": "default",
+            "selected": false,
+            "name": "74a4070e-7611-41f1-9a6b-bc5d0c19c4cf",
+            "parentNode": "9508e442-651c-4abd-9c8a-51c962c15a84",
+            "links": [
+              "25c9a4cc-7dad-4c1c-8c4a-b4ffd5d3ac06"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Audit Business Associates and ensure they are HIPAA compliant",
+          "description": "Perform an audit on all of your BAs to ensure that they are HIPAA compliant.",
+          "link": "",
+          "ownerId": "d1e23c42-8cc0-473b-8b7b-dca705d1c944",
+          "assigned": [],
+          "costCurrency": "$",
+          "duration": 4,
+          "durationUnit": "weeks"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 200,
+        "prevY": 2000
+      },
+      {
+        "id": "4c4183c2-982e-4ed8-9313-745b952d6d3a",
+        "type": "report",
+        "selected": false,
+        "x": 200,
+        "y": 2100,
+        "extras": {},
+        "ports": [
+          {
+            "id": "6f3a78a2-c211-443f-bfcf-884549726532",
+            "type": "default",
+            "selected": false,
+            "name": "45b93507-2e8c-4fa1-afb2-1332e2ccbf32",
+            "parentNode": "4c4183c2-982e-4ed8-9313-745b952d6d3a",
+            "links": [
+              "25c9a4cc-7dad-4c1c-8c4a-b4ffd5d3ac06"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "37d6a72d-cef6-4883-8f77-188a69e6bbe7",
+            "type": "default",
+            "selected": false,
+            "name": "3f905299-6870-4677-a06e-754ec34d615c",
+            "parentNode": "4c4183c2-982e-4ed8-9313-745b952d6d3a",
+            "links": [
+              "a0445c2b-1a79-4b78-8e23-b9564e40d656"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Report",
+        "data": {
+          "title": "Business Associate Agreements",
+          "description": "This is the document for all signed BAAs.",
+          "link": "",
+          "ownerId": "d1e23c42-8cc0-473b-8b7b-dca705d1c944",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 200,
+        "prevY": 2100
+      },
+      {
+        "id": "ca2eee8e-4eea-4c14-a160-7427b0e755ae",
+        "type": "task",
+        "selected": false,
+        "x": 400,
+        "y": 2200,
+        "extras": {},
+        "ports": [
+          {
+            "id": "b5f74e7f-8b5e-45ab-bebe-8bceaea3d8e5",
+            "type": "default",
+            "selected": false,
+            "name": "79431a8b-33d5-41fc-9e39-fafbf954cc4b",
+            "parentNode": "ca2eee8e-4eea-4c14-a160-7427b0e755ae",
+            "links": [
+              "d1348f6d-f950-4eb3-a4a9-5cefee69a391"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "47b4eba5-728c-43cb-9a2e-d4dd50f5b9aa",
+            "type": "default",
+            "selected": false,
+            "name": "f825bbd0-9426-425c-8c9a-597a814b9f9b",
+            "parentNode": "ca2eee8e-4eea-4c14-a160-7427b0e755ae",
+            "links": [
+              "38d2241b-18b3-4046-8267-66faaf46feca"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Develop a process for incidents or breaches",
+          "description": "Develop a process for investigating minor or meaningful incidents or breaches. This should include the necessary steps for performing an investigation and how to document and report the incident or breach.",
+          "link": "",
+          "ownerId": "3de36438-87b2-4abb-a1f1-b31b096bb390",
+          "assigned": [],
+          "costCurrency": "$",
+          "duration": 1,
+          "durationUnit": "weeks"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 400,
+        "prevY": 2200
+      },
+      {
+        "id": "98700f7a-3dcc-461c-b045-134a819f1633",
+        "type": "decision",
+        "selected": false,
+        "x": 400,
+        "y": 2300,
+        "extras": {},
+        "ports": [
+          {
+            "id": "a43967a1-8572-46af-af09-244a44954747",
+            "type": "default",
+            "selected": false,
+            "name": "664493c6-d77f-4399-b0b1-3d3aaa690d83",
+            "parentNode": "98700f7a-3dcc-461c-b045-134a819f1633",
+            "links": [
+              "a0445c2b-1a79-4b78-8e23-b9564e40d656"
+            ],
+            "in": true,
+            "label": "664493c6-d77f-4399-b0b1-3d3aaa690d83"
+          },
+          {
+            "id": "28797184-ede3-4575-aa92-cd74d2c6c016",
+            "type": "default",
+            "selected": false,
+            "name": "e5c5fd33-4f47-4292-8504-e74a8685a349",
+            "parentNode": "98700f7a-3dcc-461c-b045-134a819f1633",
+            "links": [
+              "2604c9e6-3bd2-4c90-98f6-62e9492e6bf0"
+            ],
+            "in": false,
+            "label": "Yes"
+          },
+          {
+            "id": "7a330f21-0a64-4749-bd8a-2ad0e5abc9d2",
+            "type": "default",
+            "selected": false,
+            "name": "eb533217-e738-4878-998d-19f2ae17efe9",
+            "parentNode": "98700f7a-3dcc-461c-b045-134a819f1633",
+            "links": [
+              "d1348f6d-f950-4eb3-a4a9-5cefee69a391"
+            ],
+            "in": false,
+            "label": "No"
+          },
+          {
+            "id": "4a44e4b9-3f03-4ad5-90f7-6cde010220f0",
+            "type": "default",
+            "selected": false,
+            "name": "fd098710-3a7b-4db5-91a3-ae8e4c41851d",
+            "parentNode": "98700f7a-3dcc-461c-b045-134a819f1633",
+            "links": [],
+            "in": false,
+            "label": "Maybe"
+          }
+        ],
+        "name": "Decision",
+        "data": {
+          "title": "Do you have a process in the event of incidents or breaches?",
+          "description": "Do you have the ability to track and manage the investigations of all incidents?\nAre you able to demonstrate that you have investigated each incident?\nAre you able to provide reporting of minor or meaningful breaches or incidents?\nDo your staff members have the ability to anonymously report an incident?",
+          "link": "",
+          "ownerId": "3de36438-87b2-4abb-a1f1-b31b096bb390",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 400,
+        "prevY": 2200
+      },
+      {
+        "id": "8b6c6a15-b48f-4b36-b843-4e367834a129",
+        "type": "report",
+        "selected": false,
+        "x": 400,
+        "y": 2400,
+        "extras": {},
+        "ports": [
+          {
+            "id": "a8607d6c-3716-4b9a-8e95-e2adca43ac51",
+            "type": "default",
+            "selected": false,
+            "name": "15192b79-68ad-44e2-bd20-29f60beed3c5",
+            "parentNode": "8b6c6a15-b48f-4b36-b843-4e367834a129",
+            "links": [
+              "38d2241b-18b3-4046-8267-66faaf46feca",
+              "2604c9e6-3bd2-4c90-98f6-62e9492e6bf0"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "8c9a322b-1d48-42b7-ba0f-04ce73ab53d9",
+            "type": "default",
+            "selected": false,
+            "name": "e8530801-cf6c-4f67-ae6e-fdf199e82d4f",
+            "parentNode": "8b6c6a15-b48f-4b36-b843-4e367834a129",
+            "links": [
+              "c1bb98a3-f2c5-4d63-9d06-6abc0f7f38ee"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Report",
+        "data": {
+          "title": "Process Documentation for Incidents or Breaches",
+          "description": "This is the documentation of the process for an incident or breach. This document should describe the necessary steps to perform an investigation and how to document the report.",
+          "link": "",
+          "ownerId": "3de36438-87b2-4abb-a1f1-b31b096bb390",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 400,
+        "prevY": 2400
+      },
+      {
+        "id": "8634038b-5792-4f7b-8e5f-00c0be1d7a4e",
+        "type": "meeting",
+        "selected": false,
+        "x": 100,
+        "y": 2500,
+        "extras": {},
+        "ports": [
+          {
+            "id": "7360d8a6-3435-4164-acd1-cef89cac7972",
+            "type": "default",
+            "selected": false,
+            "name": "f77a0d2c-cb62-4021-9332-23592cd9356b",
+            "parentNode": "8634038b-5792-4f7b-8e5f-00c0be1d7a4e",
+            "links": [
+              "c1bb98a3-f2c5-4d63-9d06-6abc0f7f38ee"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "964f3af4-c75f-4f57-af5d-3667932a3b42",
+            "type": "default",
+            "selected": false,
+            "name": "5f6b87ea-f74d-4bc2-b598-c2b8bc26c359",
+            "parentNode": "8634038b-5792-4f7b-8e5f-00c0be1d7a4e",
+            "links": [
+              "25516274-2539-49c9-9b44-85bf99c66185"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Meeting",
+        "data": {
+          "title": "Anonymously report incident",
+          "description": "Do your staff members have the ability to anonymously report an incident? This is an example of a staff member anonymously reporting an incident.",
+          "link": "",
+          "ownerId": "7aab960c-a094-4c96-94aa-fa878854c71e",
+          "assigned": [
+            "3de36438-87b2-4abb-a1f1-b31b096bb390"
+          ],
+          "costCurrency": "$",
+          "duration": 30,
+          "durationUnit": "minutes"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 100,
+        "prevY": 2500
+      },
+      {
+        "id": "dc1fcac1-a4a5-4ad2-836e-550458756162",
+        "type": "report",
+        "selected": false,
+        "x": 400,
+        "y": 2600,
+        "extras": {},
+        "ports": [
+          {
+            "id": "a7843e0f-5ea2-4187-97a0-cf2e3c4216dd",
+            "type": "default",
+            "selected": false,
+            "name": "bc224221-5774-48fb-9428-203f3c017e4f",
+            "parentNode": "dc1fcac1-a4a5-4ad2-836e-550458756162",
+            "links": [
+              "25516274-2539-49c9-9b44-85bf99c66185"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "07d9ac44-d8ed-4e46-bb78-16f7306f4814",
+            "type": "default",
+            "selected": false,
+            "name": "d1b1bcb8-d42b-469d-b7f5-cef92ff0941d",
+            "parentNode": "dc1fcac1-a4a5-4ad2-836e-550458756162",
+            "links": [
+              "51cfd5b7-5f11-4ffe-a931-dd334bf85ae3"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Report",
+        "data": {
+          "title": "Anonymous Incident Report",
+          "description": "This is the document that represents an anonymous incident report of a minor or meaningful breach or incident.",
+          "link": "",
+          "ownerId": "3de36438-87b2-4abb-a1f1-b31b096bb390",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 400,
+        "prevY": 2600
+      },
+      {
+        "id": "4143a65b-7036-4da6-9c02-7601ff40f290",
+        "type": "task",
+        "selected": false,
+        "x": 400,
+        "y": 2700,
+        "extras": {},
+        "ports": [
+          {
+            "id": "f4eaba7c-4614-4024-a664-2f919cdfb6a5",
+            "type": "default",
+            "selected": false,
+            "name": "f1fab12f-681b-4980-819e-4683784dd694",
+            "parentNode": "4143a65b-7036-4da6-9c02-7601ff40f290",
+            "links": [
+              "51cfd5b7-5f11-4ffe-a931-dd334bf85ae3"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "81e81a14-18bd-4520-b349-28f82ee68f29",
+            "type": "default",
+            "selected": false,
+            "name": "d06d31ca-5a1b-4259-8d72-78e37248fc9b",
+            "parentNode": "4143a65b-7036-4da6-9c02-7601ff40f290",
+            "links": [
+              "d08b30ac-33b8-49b1-bbdc-8d042f3916c5"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Investigate the Incident",
+          "description": "Track and manage the investigation of the incident and document the steps you have taken for the investigation.",
+          "link": "",
+          "ownerId": "3de36438-87b2-4abb-a1f1-b31b096bb390",
+          "assigned": [],
+          "costCurrency": "$",
+          "duration": 1,
+          "durationUnit": "days"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 400,
+        "prevY": 2700
+      },
+      {
+        "id": "c0db882b-10e8-4ada-b64c-750d4da8d7db",
+        "type": "report",
+        "selected": false,
+        "x": 400,
+        "y": 2800,
+        "extras": {},
+        "ports": [
+          {
+            "id": "42377083-fa07-4850-ba56-a2e3dd8723eb",
+            "type": "default",
+            "selected": false,
+            "name": "75b4de44-a120-460c-9b41-b3936bd1e369",
+            "parentNode": "c0db882b-10e8-4ada-b64c-750d4da8d7db",
+            "links": [
+              "d08b30ac-33b8-49b1-bbdc-8d042f3916c5"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "a7a277c1-1a9e-4b7a-9093-beb9aaf1b3b0",
+            "type": "default",
+            "selected": false,
+            "name": "97f2eb00-21e7-434c-b5c4-78bdf1e7fbbf",
+            "parentNode": "c0db882b-10e8-4ada-b64c-750d4da8d7db",
+            "links": [],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Report",
+        "data": {
+          "title": "Investigation Report of minor or meaningful breach or incident",
+          "description": "This is the document of your Investigation Report of the breach or incident.",
+          "link": "",
+          "ownerId": "3de36438-87b2-4abb-a1f1-b31b096bb390",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 400,
+        "prevY": 2800
+      }
+    ]
+  },
+  "engine": {
+    "id": "b5684044-1272-4b5c-8a51-130a4b4cc43d",
+    "swimlanes": [
+      {
+        "id": "7aab960c-a094-4c96-94aa-fa878854c71e",
+        "title": "All Staff",
+        "subtitle": "",
+        "label": "My Org",
+        "labelColor": "#0693e3",
+        "x": 100
+      },
+      {
+        "id": "d1e23c42-8cc0-473b-8b7b-dca705d1c944",
+        "title": "Compliance Officer",
+        "subtitle": "",
+        "label": "My Org",
+        "labelColor": "#0693e3",
+        "x": 200
+      },
+      {
+        "id": "ebe49e2c-a11b-4dd5-b71a-a1a5fe7c8f7b",
+        "title": "Security Officer",
+        "subtitle": "",
+        "label": "My Org",
+        "labelColor": "#0693e3",
+        "x": 300
+      },
+      {
+        "id": "3de36438-87b2-4abb-a1f1-b31b096bb390",
+        "title": "Privacy Officer",
+        "subtitle": "",
+        "label": "My Org",
+        "labelColor": "#0693e3",
+        "x": 400
+      },
+      {
+        "id": "f3d68447-f65f-4f18-aec0-eedde635b504",
+        "title": "Sr. Leadership",
+        "subtitle": "",
+        "label": "My Org",
+        "labelColor": "#0693e3",
+        "x": 500
+      }
+    ]
+  },
+  "startDate": "2021-02-20T01:33:03.550Z",
+  "shared": true,
+  "createdDate": "2021-02-20T01:33:32.426Z",
+  "modifiedDate": "2021-03-08T14:36:36.034Z"
+}

@@ -1,0 +1,1472 @@
+{
+  "id": "7374f834-906e-49ec-9e2e-a8b7604527f5",
+  "name": "New Hire Onboarding",
+  "type": "process",
+  "model": {
+    "id": "d5c075d3-91cf-4a0f-af24-846a08fae99e",
+    "offsetX": 0,
+    "offsetY": 0,
+    "zoom": 100,
+    "gridSize": 100,
+    "links": [
+      {
+        "id": "af91374c-9448-443c-8af7-41dd02b8d101",
+        "type": "default",
+        "selected": false,
+        "source": "f0c012ff-66d0-42d6-8c2c-725e8cbee465",
+        "sourcePort": "93c97475-abad-46a3-bd61-0e46c4fb7fc0",
+        "target": "9a8a1f4d-bc82-4709-8814-e432d6b9a2b0",
+        "targetPort": "a51a9a1b-43a5-4554-b3a5-81dafd8f28fb",
+        "points": [
+          {
+            "id": "98cf52ad-48f7-453e-b721-21906c01fa6d",
+            "selected": false,
+            "x": 251,
+            "y": 75
+          },
+          {
+            "id": "bbe83e84-131f-4fc3-a728-5da0c7d1d861",
+            "selected": false,
+            "x": 151,
+            "y": 126
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "568e7032-5400-4467-8e19-3ff698cf1ca9",
+        "type": "default",
+        "selected": false,
+        "source": "021462d0-73d4-460d-b492-e6d735cfa119",
+        "sourcePort": "f2f1ad24-0c50-49c7-a613-9bae9f25d418",
+        "target": "fdfbe33b-91d7-42eb-ab60-444b1aac66fe",
+        "targetPort": "3b989761-f912-40ef-84a0-f03840a09e54",
+        "points": [
+          {
+            "id": "b22f1ffc-b43e-46e5-bfd9-24d791f9b4e2",
+            "selected": false,
+            "x": 351,
+            "y": 377
+          },
+          {
+            "id": "e1e602bb-c957-47a8-8543-71d8fdb11dc5",
+            "selected": false,
+            "x": 451,
+            "y": 426
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "11df8303-3b6c-4af6-a6ba-3e6b58616285",
+        "type": "default",
+        "selected": false,
+        "source": "75273ea1-6dfe-4461-979a-e314768b04c6",
+        "sourcePort": "4201eb04-94aa-44f8-97f4-dc5c39ed66fb",
+        "target": "d3204ea7-dd40-48cc-8848-5e6c9198e732",
+        "targetPort": "b72084c0-02a6-480a-9c5b-69f25731b1c6",
+        "points": [
+          {
+            "id": "99e78d3c-0696-43b0-a788-fba4090dbed9",
+            "selected": false,
+            "x": 451,
+            "y": 977
+          },
+          {
+            "id": "094dfac1-4185-49b4-902f-2077801b04fb",
+            "selected": false,
+            "x": 451,
+            "y": 1026
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "e220e4a4-b012-4d13-a18e-e0abe1008e3e",
+        "type": "default",
+        "selected": false,
+        "source": "d3204ea7-dd40-48cc-8848-5e6c9198e732",
+        "sourcePort": "be9fb1d5-d343-408f-85aa-168b757286b9",
+        "target": "2df7ca56-c1d1-4e11-9f01-00b2a6ef5b5a",
+        "targetPort": "641d8c70-36eb-40ef-a5b4-972be04d72c0",
+        "points": [
+          {
+            "id": "25f72f82-bfb6-4ecb-a830-78942080a550",
+            "selected": false,
+            "x": 451,
+            "y": 1069
+          },
+          {
+            "id": "dd1fa69e-9659-4861-87ca-4e7dd18a0675",
+            "selected": false,
+            "x": 251,
+            "y": 1126
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "d04aa77a-3348-4ad0-90f3-112a62e13b38",
+        "type": "default",
+        "selected": false,
+        "source": "2df7ca56-c1d1-4e11-9f01-00b2a6ef5b5a",
+        "sourcePort": "f4957b2e-b330-4054-aa55-e8405a4ba57b",
+        "target": "f7d05c5b-2740-4d29-943a-12da5baa30b3",
+        "targetPort": "73a860a6-bb08-4fed-aad5-fbf72620ef7d",
+        "points": [
+          {
+            "id": "56a1ff9e-5089-439c-a4f3-991df18f62e4",
+            "selected": false,
+            "x": 251,
+            "y": 1169
+          },
+          {
+            "id": "b6bbadb3-0bae-4192-93b1-277de7b88fd8",
+            "selected": false,
+            "x": 451,
+            "y": 1226
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "794bdd16-30f2-45d4-bec1-2e41a6cad041",
+        "type": "default",
+        "selected": false,
+        "source": "f7d05c5b-2740-4d29-943a-12da5baa30b3",
+        "sourcePort": "f4240e48-3d65-4671-9404-56097e53e537",
+        "target": "83379d2e-3733-43c4-a2d8-af391b239f2a",
+        "targetPort": "7ed260f7-fb0d-4286-9622-9cced2484bf2",
+        "points": [
+          {
+            "id": "b999974c-c648-431e-98af-d6ff8e4ec447",
+            "selected": false,
+            "x": 451,
+            "y": 1269
+          },
+          {
+            "id": "2dc1c915-e2d8-46b4-8bc7-4b379dc9c5f7",
+            "selected": false,
+            "x": 251,
+            "y": 1326
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "ad2abe70-63b2-49f6-9d0d-c4a65bebcb36",
+        "type": "default",
+        "selected": false,
+        "source": "83379d2e-3733-43c4-a2d8-af391b239f2a",
+        "sourcePort": "782f1d4e-b55b-4794-ad7c-3cb18f8b93d3",
+        "target": "d45da8bc-7c52-40c0-b0a4-501eef1afbc3",
+        "targetPort": "a3689f9d-96fd-43cc-8aa6-da4d65a41ebc",
+        "points": [
+          {
+            "id": "020b1a1c-bb19-4ef3-9cc0-d588be39fe25",
+            "selected": false,
+            "x": 251,
+            "y": 1369
+          },
+          {
+            "id": "e3a23d73-fbc7-4213-b6c5-678a234f036e",
+            "selected": true,
+            "x": 251,
+            "y": 1426
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "e07d6ff8-c9ff-4173-ab4e-d6b213b90a77",
+        "type": "default",
+        "selected": false,
+        "source": "9a8a1f4d-bc82-4709-8814-e432d6b9a2b0",
+        "sourcePort": "4a28c6bb-6ae7-4ba3-8c87-427a3495f33c",
+        "target": "021462d0-73d4-460d-b492-e6d735cfa119",
+        "targetPort": "90eb15ec-8d07-412a-a2fe-2e9b7bf5a0c1",
+        "points": [
+          {
+            "id": "12ee9a86-4ca7-4e7f-b127-0a175a6e2026",
+            "selected": false,
+            "x": 151,
+            "y": 169
+          },
+          {
+            "id": "7a465359-e9cd-4550-925f-9cbdd1c620d1",
+            "selected": true,
+            "x": 351,
+            "y": 320
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "a3d10328-a657-487e-8247-621a74b0bfbd",
+        "type": "default",
+        "selected": false,
+        "source": "fdfbe33b-91d7-42eb-ab60-444b1aac66fe",
+        "sourcePort": "e5e70849-6b3b-4fd6-ab76-22d9e1ba7426",
+        "target": "1455a52c-cad5-429e-b503-5d13d4ef948b",
+        "targetPort": "158b940f-8e84-4284-9b66-1cd8d414441a",
+        "points": [
+          {
+            "id": "da9ee673-9c0d-43da-b2c3-3070ae0e52ac",
+            "selected": false,
+            "x": 451,
+            "y": 469
+          },
+          {
+            "id": "e63a5e58-a3a0-44bb-ba83-bab80494606d",
+            "selected": true,
+            "x": 251,
+            "y": 520
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "9d3325a5-7d26-42e1-9389-bbc9e28c9971",
+        "type": "default",
+        "selected": false,
+        "source": "1455a52c-cad5-429e-b503-5d13d4ef948b",
+        "sourcePort": "d95bc06b-36a5-4cf6-984a-9497d43f804c",
+        "target": "6333b7d1-f566-4532-bc86-1e39cd43d3af",
+        "targetPort": "f103e46f-f3c6-446f-9b6f-0f15f1923760",
+        "points": [
+          {
+            "id": "3a4869c2-2686-4acf-aa38-fedb22c8a26d",
+            "selected": false,
+            "x": 251,
+            "y": 575
+          },
+          {
+            "id": "681b83d0-53cd-424d-a244-9ecff58c00cc",
+            "selected": true,
+            "x": 251,
+            "y": 626
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "56e6c152-1fa8-49a0-8a56-d1a2813f51c2",
+        "type": "default",
+        "selected": false,
+        "source": "021462d0-73d4-460d-b492-e6d735cfa119",
+        "sourcePort": "48f40347-d3bf-4fc9-84b2-9c52fdad8caf",
+        "target": "dabcfc51-b649-413e-8abe-de1650502805",
+        "targetPort": "e8801e45-a448-49f2-8086-d45bb3800ce9",
+        "points": [
+          {
+            "id": "c4e1b7f7-f5f4-4dc8-a6a7-212d429b88f8",
+            "selected": false,
+            "x": 375,
+            "y": 351
+          },
+          {
+            "id": "0c8b27e9-9f2d-4d0c-94c0-99ccbd5c3879",
+            "selected": false,
+            "x": 351,
+            "y": 226
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "78f91ffc-acc5-4105-af6c-74ad5ae88331",
+        "type": "default",
+        "selected": false,
+        "source": "75273ea1-6dfe-4461-979a-e314768b04c6",
+        "sourcePort": "6597c92e-08d8-42bd-8a25-392efcf4c219",
+        "target": "dabcfc51-b649-413e-8abe-de1650502805",
+        "targetPort": "e8801e45-a448-49f2-8086-d45bb3800ce9",
+        "points": [
+          {
+            "id": "5803d578-d05c-4ca9-b252-805b0dfa3a89",
+            "selected": false,
+            "x": 475,
+            "y": 951
+          },
+          {
+            "id": "31dc0661-231d-49ee-9479-6119dde1745c",
+            "selected": false,
+            "x": 351,
+            "y": 226
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "4b13c528-f098-4f19-ab41-63f4f0875085",
+        "type": "default",
+        "selected": false,
+        "source": "03c90057-a626-497e-8499-a1e2e4b0b72d",
+        "sourcePort": "dd03e112-8e7b-4640-844f-1eff4e899690",
+        "target": "75273ea1-6dfe-4461-979a-e314768b04c6",
+        "targetPort": "7b92d5a1-18d1-4f08-b22f-78b1bbc8c68c",
+        "points": [
+          {
+            "id": "f7cc7d2c-d252-40fd-92e6-3e502e7144c5",
+            "selected": false,
+            "x": 451,
+            "y": 869
+          },
+          {
+            "id": "c5f148ad-35cf-4cdb-9ffa-fe667e9e6419",
+            "selected": true,
+            "x": 451,
+            "y": 920
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "07d9f75c-0c12-47d1-969c-8c786b860ec4",
+        "type": "default",
+        "selected": false,
+        "source": "6333b7d1-f566-4532-bc86-1e39cd43d3af",
+        "sourcePort": "6813a726-7119-43cc-834e-86b21a8272b2",
+        "target": "f2c95798-3e3c-423a-95c1-71d2259aad6e",
+        "targetPort": "c645f8d7-ef51-44f4-adae-88a0bf2a05b6",
+        "points": [
+          {
+            "id": "bd75c147-5f64-4fe7-82ba-bcd475ff7136",
+            "selected": false,
+            "x": 251,
+            "y": 669
+          },
+          {
+            "id": "9da1b0dd-512b-4615-a934-9e7467fa902b",
+            "selected": true,
+            "x": 251,
+            "y": 720
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      },
+      {
+        "id": "b348a6bc-a3d0-4934-b8c1-453256afe624",
+        "type": "default",
+        "selected": false,
+        "source": "f2c95798-3e3c-423a-95c1-71d2259aad6e",
+        "sourcePort": "4b0d354d-81e6-4ba8-84f3-9d7ccdbe863d",
+        "target": "03c90057-a626-497e-8499-a1e2e4b0b72d",
+        "targetPort": "15614473-06f1-47bd-a26c-57f45ffa9bc9",
+        "points": [
+          {
+            "id": "d0d704ab-4582-402d-8e69-2469cb22f806",
+            "selected": false,
+            "x": 251,
+            "y": 775
+          },
+          {
+            "id": "a4d853fb-db94-49d5-8fed-8117261e8e23",
+            "selected": false,
+            "x": 451,
+            "y": 826
+          }
+        ],
+        "extras": {},
+        "labels": [],
+        "width": 1.5,
+        "color": "rgba(69,71,73,1.0)",
+        "curvyness": 0
+      }
+    ],
+    "nodes": [
+      {
+        "id": "f0c012ff-66d0-42d6-8c2c-725e8cbee465",
+        "type": "report",
+        "selected": false,
+        "x": 200,
+        "y": 0,
+        "extras": {},
+        "ports": [
+          {
+            "id": "fd0596d0-763f-4a37-a7d3-d47d2627fb30",
+            "type": "default",
+            "selected": false,
+            "name": "02120b6e-4075-46a9-a988-238bbbbdd637",
+            "parentNode": "f0c012ff-66d0-42d6-8c2c-725e8cbee465",
+            "links": [],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "93c97475-abad-46a3-bd61-0e46c4fb7fc0",
+            "type": "default",
+            "selected": false,
+            "name": "7504ce12-13a8-443e-a420-fdbc655decdb",
+            "parentNode": "f0c012ff-66d0-42d6-8c2c-725e8cbee465",
+            "links": [
+              "af91374c-9448-443c-8af7-41dd02b8d101"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Report",
+        "data": {
+          "title": "Resume",
+          "description": "This is the resume of the New Hire which should include all of the relevant information for kicking off the onboarding process:\n\n- Name\n- Phone\n- Email\n- Address",
+          "link": "",
+          "ownerId": "3f42149f-f297-4488-aee7-81f15347256b",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 200,
+        "prevY": 0
+      },
+      {
+        "id": "9a8a1f4d-bc82-4709-8814-e432d6b9a2b0",
+        "type": "task",
+        "selected": false,
+        "x": 100,
+        "y": 100,
+        "extras": {},
+        "ports": [
+          {
+            "id": "a51a9a1b-43a5-4554-b3a5-81dafd8f28fb",
+            "type": "default",
+            "selected": false,
+            "name": "c379a08c-a8fc-4301-a11a-dc2318f2bb25",
+            "parentNode": "9a8a1f4d-bc82-4709-8814-e432d6b9a2b0",
+            "links": [
+              "af91374c-9448-443c-8af7-41dd02b8d101"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "4a28c6bb-6ae7-4ba3-8c87-427a3495f33c",
+            "type": "default",
+            "selected": false,
+            "name": "86986ba7-9661-4ba0-9d79-e52602d0a2fe",
+            "parentNode": "9a8a1f4d-bc82-4709-8814-e432d6b9a2b0",
+            "links": [
+              "e07d6ff8-c9ff-4173-ab4e-d6b213b90a77"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Send resume to start onboarding",
+          "description": "The PM will send the resume to the Hiring Manager.",
+          "link": "",
+          "ownerId": "c3865fc0-b107-4b61-a7f6-07989ccd98d1",
+          "assigned": [
+            "506c2772-c2d2-40bf-9ae3-088b092703dc"
+          ],
+          "costCurrency": "$",
+          "duration": 15,
+          "durationUnit": "minutes"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 100,
+        "prevY": 100
+      },
+      {
+        "id": "dabcfc51-b649-413e-8abe-de1650502805",
+        "type": "meeting",
+        "selected": false,
+        "x": 300,
+        "y": 200,
+        "extras": {},
+        "ports": [
+          {
+            "id": "e8801e45-a448-49f2-8086-d45bb3800ce9",
+            "type": "default",
+            "selected": false,
+            "name": "26c816d8-e1a7-4118-abc2-3256fe507224",
+            "parentNode": "dabcfc51-b649-413e-8abe-de1650502805",
+            "links": [
+              "56e6c152-1fa8-49a0-8a56-d1a2813f51c2",
+              "78f91ffc-acc5-4105-af6c-74ad5ae88331"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "f986cab9-bb89-4648-888e-f08879a71318",
+            "type": "default",
+            "selected": false,
+            "name": "83c118b4-638b-4563-b7b4-ce237915921d",
+            "parentNode": "dabcfc51-b649-413e-8abe-de1650502805",
+            "links": [],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Meeting",
+        "data": {
+          "title": "Meeting to explain rejection",
+          "description": "If the New Hire is not approved for any reason the Hiring Manager will schedule some time to explain the rejection to the New Hire. Please include the PM into this meeting if available.",
+          "link": "",
+          "ownerId": "506c2772-c2d2-40bf-9ae3-088b092703dc",
+          "assigned": [
+            "3f42149f-f297-4488-aee7-81f15347256b",
+            "c3865fc0-b107-4b61-a7f6-07989ccd98d1"
+          ],
+          "duration": 15,
+          "durationUnit": "minutes",
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 300,
+        "prevY": 200
+      },
+      {
+        "id": "021462d0-73d4-460d-b492-e6d735cfa119",
+        "type": "decision",
+        "selected": false,
+        "x": 300,
+        "y": 300,
+        "extras": {},
+        "ports": [
+          {
+            "id": "90eb15ec-8d07-412a-a2fe-2e9b7bf5a0c1",
+            "type": "default",
+            "selected": false,
+            "name": "d29f3ade-5f6b-40e8-9c52-11b37018599f",
+            "parentNode": "021462d0-73d4-460d-b492-e6d735cfa119",
+            "links": [
+              "e07d6ff8-c9ff-4173-ab4e-d6b213b90a77"
+            ],
+            "in": true,
+            "label": "d29f3ade-5f6b-40e8-9c52-11b37018599f"
+          },
+          {
+            "id": "f2f1ad24-0c50-49c7-a613-9bae9f25d418",
+            "type": "default",
+            "selected": false,
+            "name": "51498efb-f9cf-4457-8c94-2bea1c51d5d6",
+            "parentNode": "021462d0-73d4-460d-b492-e6d735cfa119",
+            "links": [
+              "568e7032-5400-4467-8e19-3ff698cf1ca9"
+            ],
+            "in": false,
+            "label": "Yes"
+          },
+          {
+            "id": "48f40347-d3bf-4fc9-84b2-9c52fdad8caf",
+            "type": "default",
+            "selected": false,
+            "name": "059e23c3-a665-45de-b4d7-a24ddcb28e9a",
+            "parentNode": "021462d0-73d4-460d-b492-e6d735cfa119",
+            "links": [
+              "56e6c152-1fa8-49a0-8a56-d1a2813f51c2"
+            ],
+            "in": false,
+            "label": "No"
+          },
+          {
+            "id": "d8e28c9a-f08c-4147-9b99-889918a23b8e",
+            "type": "default",
+            "selected": false,
+            "name": "5c17fb19-7425-47ca-959c-737d872e0b1a",
+            "parentNode": "021462d0-73d4-460d-b492-e6d735cfa119",
+            "links": [],
+            "in": false,
+            "label": "Maybe"
+          }
+        ],
+        "name": "Decision",
+        "data": {
+          "title": "Begin onboarding?",
+          "description": "Are we ready to begin the onboarding of this New Hire?",
+          "link": "",
+          "ownerId": "506c2772-c2d2-40bf-9ae3-088b092703dc",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 400,
+        "prevY": 300
+      },
+      {
+        "id": "fdfbe33b-91d7-42eb-ab60-444b1aac66fe",
+        "type": "task",
+        "selected": false,
+        "x": 400,
+        "y": 400,
+        "extras": {},
+        "ports": [
+          {
+            "id": "3b989761-f912-40ef-84a0-f03840a09e54",
+            "type": "default",
+            "selected": false,
+            "name": "fdfaa1f3-8b5b-4169-8a9c-59e46b20e8e8",
+            "parentNode": "fdfbe33b-91d7-42eb-ab60-444b1aac66fe",
+            "links": [
+              "568e7032-5400-4467-8e19-3ff698cf1ca9"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "e5e70849-6b3b-4fd6-ab76-22d9e1ba7426",
+            "type": "default",
+            "selected": false,
+            "name": "51fcb757-2791-4734-983f-76d900b03c7a",
+            "parentNode": "fdfbe33b-91d7-42eb-ab60-444b1aac66fe",
+            "links": [
+              "a3d10328-a657-487e-8247-621a74b0bfbd"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Send onboarding forms",
+          "description": "Send the onboarding forms to the New Hire's email.",
+          "link": "",
+          "ownerId": "7abb0e3e-db58-4a53-be22-972c7d023289",
+          "assigned": [
+            "3f42149f-f297-4488-aee7-81f15347256b"
+          ],
+          "costCurrency": "$",
+          "duration": 15,
+          "durationUnit": "minutes"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 500,
+        "prevY": 300
+      },
+      {
+        "id": "1455a52c-cad5-429e-b503-5d13d4ef948b",
+        "type": "report",
+        "selected": false,
+        "x": 200,
+        "y": 500,
+        "extras": {},
+        "ports": [
+          {
+            "id": "158b940f-8e84-4284-9b66-1cd8d414441a",
+            "type": "default",
+            "selected": false,
+            "name": "7170d1c7-f326-43ae-b24e-27899c00498c",
+            "parentNode": "1455a52c-cad5-429e-b503-5d13d4ef948b",
+            "links": [
+              "a3d10328-a657-487e-8247-621a74b0bfbd"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "d95bc06b-36a5-4cf6-984a-9497d43f804c",
+            "type": "default",
+            "selected": false,
+            "name": "7bbae02b-2aca-4d39-9984-fb288765ec84",
+            "parentNode": "1455a52c-cad5-429e-b503-5d13d4ef948b",
+            "links": [
+              "9d3325a5-7d26-42e1-9389-bbc9e28c9971"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Report",
+        "data": {
+          "title": "Onboarding Forms",
+          "description": "These are the Onboarding Forms that were sent by the Personnel Specialist.",
+          "link": "",
+          "ownerId": "3f42149f-f297-4488-aee7-81f15347256b",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 300,
+        "prevY": 400
+      },
+      {
+        "id": "6333b7d1-f566-4532-bc86-1e39cd43d3af",
+        "type": "task",
+        "selected": false,
+        "x": 200,
+        "y": 600,
+        "extras": {},
+        "ports": [
+          {
+            "id": "f103e46f-f3c6-446f-9b6f-0f15f1923760",
+            "type": "default",
+            "selected": false,
+            "name": "509e46c5-6a57-45ff-9784-10cf3265afbb",
+            "parentNode": "6333b7d1-f566-4532-bc86-1e39cd43d3af",
+            "links": [
+              "9d3325a5-7d26-42e1-9389-bbc9e28c9971"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "6813a726-7119-43cc-834e-86b21a8272b2",
+            "type": "default",
+            "selected": false,
+            "name": "c1a38ccf-327e-4f87-8f94-66d6d79bea11",
+            "parentNode": "6333b7d1-f566-4532-bc86-1e39cd43d3af",
+            "links": [
+              "07d9f75c-0c12-47d1-969c-8c786b860ec4"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Complete onboarding forms",
+          "description": "The New Hire will complete the onboarding forms.",
+          "link": "",
+          "ownerId": "3f42149f-f297-4488-aee7-81f15347256b",
+          "assigned": [],
+          "duration": 1,
+          "durationUnit": "hours",
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 300,
+        "prevY": 500
+      },
+      {
+        "id": "f2c95798-3e3c-423a-95c1-71d2259aad6e",
+        "type": "report",
+        "selected": false,
+        "x": 200,
+        "y": 700,
+        "extras": {},
+        "ports": [
+          {
+            "id": "c645f8d7-ef51-44f4-adae-88a0bf2a05b6",
+            "type": "default",
+            "selected": false,
+            "name": "94ccce30-3518-455c-b034-734ba8fb6ea0",
+            "parentNode": "f2c95798-3e3c-423a-95c1-71d2259aad6e",
+            "links": [
+              "07d9f75c-0c12-47d1-969c-8c786b860ec4"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "4b0d354d-81e6-4ba8-84f3-9d7ccdbe863d",
+            "type": "default",
+            "selected": false,
+            "name": "46148a42-9c0f-4807-a542-6e4d417b740b",
+            "parentNode": "f2c95798-3e3c-423a-95c1-71d2259aad6e",
+            "links": [
+              "b348a6bc-a3d0-4934-b8c1-453256afe624"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Report",
+        "data": {
+          "title": "Completed onboarding forms",
+          "description": "These are the completed onboarding forms.",
+          "link": "",
+          "ownerId": "3f42149f-f297-4488-aee7-81f15347256b",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 200,
+        "prevY": 700
+      },
+      {
+        "id": "03c90057-a626-497e-8499-a1e2e4b0b72d",
+        "type": "task",
+        "selected": false,
+        "x": 400,
+        "y": 800,
+        "extras": {},
+        "ports": [
+          {
+            "id": "15614473-06f1-47bd-a26c-57f45ffa9bc9",
+            "type": "default",
+            "selected": false,
+            "name": "9d8b82f2-0d48-41e4-b935-111aceb22c59",
+            "parentNode": "03c90057-a626-497e-8499-a1e2e4b0b72d",
+            "links": [
+              "b348a6bc-a3d0-4934-b8c1-453256afe624"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "dd03e112-8e7b-4640-844f-1eff4e899690",
+            "type": "default",
+            "selected": false,
+            "name": "78dabb4b-a71f-4067-b3bf-2b6b77efa154",
+            "parentNode": "03c90057-a626-497e-8499-a1e2e4b0b72d",
+            "links": [
+              "4b13c528-f098-4f19-ab41-63f4f0875085"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Run background check",
+          "description": "The Personnel Specialist will take the information collected in the Onboarding Forms and run a background check on the candidate.",
+          "link": "",
+          "ownerId": "7abb0e3e-db58-4a53-be22-972c7d023289",
+          "assigned": [],
+          "duration": 1,
+          "durationUnit": "hours",
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 400,
+        "prevY": 800
+      },
+      {
+        "id": "75273ea1-6dfe-4461-979a-e314768b04c6",
+        "type": "decision",
+        "selected": false,
+        "x": 400,
+        "y": 900,
+        "extras": {},
+        "ports": [
+          {
+            "id": "7b92d5a1-18d1-4f08-b22f-78b1bbc8c68c",
+            "type": "default",
+            "selected": false,
+            "name": "faf98b2a-337c-40e8-a519-67207b03786c",
+            "parentNode": "75273ea1-6dfe-4461-979a-e314768b04c6",
+            "links": [
+              "4b13c528-f098-4f19-ab41-63f4f0875085"
+            ],
+            "in": true,
+            "label": "faf98b2a-337c-40e8-a519-67207b03786c"
+          },
+          {
+            "id": "4201eb04-94aa-44f8-97f4-dc5c39ed66fb",
+            "type": "default",
+            "selected": false,
+            "name": "238ccfd3-d31f-42d4-8eac-bfeec54f3f59",
+            "parentNode": "75273ea1-6dfe-4461-979a-e314768b04c6",
+            "links": [
+              "11df8303-3b6c-4af6-a6ba-3e6b58616285"
+            ],
+            "in": false,
+            "label": "Yes"
+          },
+          {
+            "id": "6597c92e-08d8-42bd-8a25-392efcf4c219",
+            "type": "default",
+            "selected": false,
+            "name": "28c945da-8879-4015-a44f-b10ff3455c47",
+            "parentNode": "75273ea1-6dfe-4461-979a-e314768b04c6",
+            "links": [
+              "78f91ffc-acc5-4105-af6c-74ad5ae88331"
+            ],
+            "in": false,
+            "label": "No"
+          },
+          {
+            "id": "98cf7fd3-238b-46fe-8ca2-f6977de922ad",
+            "type": "default",
+            "selected": false,
+            "name": "a0d936d6-ea7b-493b-9151-e707b3531792",
+            "parentNode": "75273ea1-6dfe-4461-979a-e314768b04c6",
+            "links": [],
+            "in": false,
+            "label": "Maybe"
+          }
+        ],
+        "name": "Decision",
+        "data": {
+          "title": "Background check cleared?",
+          "description": "Did the background check come back clear? If not, please move to schedule a meeting to discuss the issues with the New Hire.",
+          "link": "",
+          "ownerId": "7abb0e3e-db58-4a53-be22-972c7d023289",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 400,
+        "prevY": 1400
+      },
+      {
+        "id": "d3204ea7-dd40-48cc-8848-5e6c9198e732",
+        "type": "meeting",
+        "selected": false,
+        "x": 400,
+        "y": 1000,
+        "extras": {},
+        "ports": [
+          {
+            "id": "b72084c0-02a6-480a-9c5b-69f25731b1c6",
+            "type": "default",
+            "selected": false,
+            "name": "bf192434-9da8-4b92-aa7f-be4ecd549fbf",
+            "parentNode": "d3204ea7-dd40-48cc-8848-5e6c9198e732",
+            "links": [
+              "11df8303-3b6c-4af6-a6ba-3e6b58616285"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "be9fb1d5-d343-408f-85aa-168b757286b9",
+            "type": "default",
+            "selected": false,
+            "name": "570a1b14-8440-4c2b-89a5-b6d5b9511b35",
+            "parentNode": "d3204ea7-dd40-48cc-8848-5e6c9198e732",
+            "links": [
+              "e220e4a4-b012-4d13-a18e-e0abe1008e3e"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Meeting",
+        "data": {
+          "title": "Schedule fingerprint appointment",
+          "description": "",
+          "link": "",
+          "ownerId": "7abb0e3e-db58-4a53-be22-972c7d023289",
+          "assigned": [
+            "3f42149f-f297-4488-aee7-81f15347256b"
+          ],
+          "costCurrency": "$",
+          "duration": 30,
+          "durationUnit": "minutes"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 400,
+        "prevY": 500
+      },
+      {
+        "id": "2df7ca56-c1d1-4e11-9f01-00b2a6ef5b5a",
+        "type": "task",
+        "selected": false,
+        "x": 200,
+        "y": 1100,
+        "extras": {},
+        "ports": [
+          {
+            "id": "641d8c70-36eb-40ef-a5b4-972be04d72c0",
+            "type": "default",
+            "selected": false,
+            "name": "0fc54c44-75fa-408d-979a-88939eba8f0c",
+            "parentNode": "2df7ca56-c1d1-4e11-9f01-00b2a6ef5b5a",
+            "links": [
+              "e220e4a4-b012-4d13-a18e-e0abe1008e3e"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "f4957b2e-b330-4054-aa55-e8405a4ba57b",
+            "type": "default",
+            "selected": false,
+            "name": "0fa0b529-b9c6-47d7-b3d9-0e1555b2bd6e",
+            "parentNode": "2df7ca56-c1d1-4e11-9f01-00b2a6ef5b5a",
+            "links": [
+              "d04aa77a-3348-4ad0-90f3-112a62e13b38"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Complete fingerprinting",
+          "description": "",
+          "link": "",
+          "ownerId": "3f42149f-f297-4488-aee7-81f15347256b",
+          "assigned": [
+            "7abb0e3e-db58-4a53-be22-972c7d023289"
+          ],
+          "costCurrency": "$",
+          "duration": 2,
+          "durationUnit": "hours"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 200,
+        "prevY": 1600
+      },
+      {
+        "id": "f7d05c5b-2740-4d29-943a-12da5baa30b3",
+        "type": "meeting",
+        "selected": false,
+        "x": 400,
+        "y": 1200,
+        "extras": {},
+        "ports": [
+          {
+            "id": "73a860a6-bb08-4fed-aad5-fbf72620ef7d",
+            "type": "default",
+            "selected": false,
+            "name": "b65b1e51-a616-4ec7-94b5-8e28108a021c",
+            "parentNode": "f7d05c5b-2740-4d29-943a-12da5baa30b3",
+            "links": [
+              "d04aa77a-3348-4ad0-90f3-112a62e13b38"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "f4240e48-3d65-4671-9404-56097e53e537",
+            "type": "default",
+            "selected": false,
+            "name": "887e6624-2643-45b7-99db-9ecfbdd8745a",
+            "parentNode": "f7d05c5b-2740-4d29-943a-12da5baa30b3",
+            "links": [
+              "794bdd16-30f2-45d4-bec1-2e41a6cad041"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Meeting",
+        "data": {
+          "title": "Schedule smart card appointment",
+          "description": "",
+          "link": "",
+          "ownerId": "7abb0e3e-db58-4a53-be22-972c7d023289",
+          "assigned": [
+            "3f42149f-f297-4488-aee7-81f15347256b"
+          ],
+          "costCurrency": "$",
+          "duration": 30,
+          "durationUnit": "minutes"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 400,
+        "prevY": 700
+      },
+      {
+        "id": "83379d2e-3733-43c4-a2d8-af391b239f2a",
+        "type": "task",
+        "selected": false,
+        "x": 200,
+        "y": 1300,
+        "extras": {},
+        "ports": [
+          {
+            "id": "7ed260f7-fb0d-4286-9622-9cced2484bf2",
+            "type": "default",
+            "selected": false,
+            "name": "205935f2-323e-4e81-ae86-32140081c87a",
+            "parentNode": "83379d2e-3733-43c4-a2d8-af391b239f2a",
+            "links": [
+              "794bdd16-30f2-45d4-bec1-2e41a6cad041"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "782f1d4e-b55b-4794-ad7c-3cb18f8b93d3",
+            "type": "default",
+            "selected": false,
+            "name": "280ef535-7c4f-46de-a164-6c3b664f7a0c",
+            "parentNode": "83379d2e-3733-43c4-a2d8-af391b239f2a",
+            "links": [
+              "ad2abe70-63b2-49f6-9d0d-c4a65bebcb36"
+            ],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Task",
+        "data": {
+          "title": "Pick up smart card",
+          "description": "",
+          "link": "",
+          "ownerId": "3f42149f-f297-4488-aee7-81f15347256b",
+          "assigned": [
+            "bf4ebfeb-416f-40cb-8235-1f0ff90159bb"
+          ],
+          "costCurrency": "$",
+          "duration": 1.5,
+          "durationUnit": "hours"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 200,
+        "prevY": 1800
+      },
+      {
+        "id": "d45da8bc-7c52-40c0-b0a4-501eef1afbc3",
+        "type": "milestone",
+        "selected": false,
+        "x": 200,
+        "y": 1400,
+        "extras": {},
+        "ports": [
+          {
+            "id": "a3689f9d-96fd-43cc-8aa6-da4d65a41ebc",
+            "type": "default",
+            "selected": false,
+            "name": "58d2ddc9-deb2-4a7c-8328-9deeafb99337",
+            "parentNode": "d45da8bc-7c52-40c0-b0a4-501eef1afbc3",
+            "links": [
+              "ad2abe70-63b2-49f6-9d0d-c4a65bebcb36"
+            ],
+            "in": true,
+            "label": "In"
+          },
+          {
+            "id": "97bdee9f-5e6a-4c7b-9b69-b2625dbfa67d",
+            "type": "default",
+            "selected": false,
+            "name": "8412311d-b7b5-4524-8d71-918de97808f9",
+            "parentNode": "d45da8bc-7c52-40c0-b0a4-501eef1afbc3",
+            "links": [],
+            "in": false,
+            "label": "Out"
+          }
+        ],
+        "name": "Milestone",
+        "data": {
+          "title": "Onboarding Complete",
+          "description": "",
+          "link": "",
+          "ownerId": "3f42149f-f297-4488-aee7-81f15347256b",
+          "assigned": [],
+          "costCurrency": "$"
+        },
+        "settings": {
+          "disableLinkTitles": true,
+          "disableLinkDescriptions": true,
+          "disableLinkCompletion": false,
+          "disableLinkCost": false,
+          "disableLinkCostActual": false,
+          "disableLinkDuration": false,
+          "disableLinkDurationActual": false,
+          "disableLinkSchedule": false,
+          "disableLinkCalculationCost": true,
+          "disableLinkCalculationCostActual": true,
+          "disableLinkCalculationDuration": true,
+          "disableLinkCalculationDurationActual": true,
+          "disableLinkCalculationDurationSchedule": true,
+          "disableLinkCalculationSchedule": true
+        },
+        "prevX": 200,
+        "prevY": 1900
+      }
+    ]
+  },
+  "engine": {
+    "id": "d511400e-9081-4046-be10-6bfce0d2f160",
+    "swimlanes": [
+      {
+        "id": "c3865fc0-b107-4b61-a7f6-07989ccd98d1",
+        "title": "Project Manager",
+        "subtitle": "",
+        "label": "",
+        "labelColor": "#abb8c3",
+        "x": 100
+      },
+      {
+        "id": "3f42149f-f297-4488-aee7-81f15347256b",
+        "title": "New Hire",
+        "subtitle": "",
+        "label": "",
+        "labelColor": "#abb8c3",
+        "x": 200
+      },
+      {
+        "id": "506c2772-c2d2-40bf-9ae3-088b092703dc",
+        "title": "Hiring Manager",
+        "subtitle": "",
+        "label": "",
+        "labelColor": "#0693e3",
+        "x": 300
+      },
+      {
+        "id": "7abb0e3e-db58-4a53-be22-972c7d023289",
+        "title": "Personnel Specialist",
+        "subtitle": "",
+        "label": "",
+        "labelColor": "#0693e3",
+        "x": 400
+      },
+      {
+        "id": "bf4ebfeb-416f-40cb-8235-1f0ff90159bb",
+        "title": "Smart Card Office",
+        "subtitle": "",
+        "label": "",
+        "labelColor": "#0693e3",
+        "x": 500
+      }
+    ]
+  },
+  "startDate": "2021-03-04T16:14:48.795Z",
+  "shared": true,
+  "createdDate": "2021-03-04T21:00:07.441Z",
+  "modifiedDate": "2021-03-08T14:36:25.818Z"
+}
